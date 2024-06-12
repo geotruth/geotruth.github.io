@@ -58,3 +58,6 @@ rsconnect/
 *.gif
 *.svg
 *.mp3 
+
+# R Profile
+*.Rprofile
