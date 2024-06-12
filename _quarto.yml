@@ -23,7 +23,7 @@ description-meta: "The truth is worth discovering. We are a non-profit research 
 website:
   title: "geo:truth"
   description: "the truth is worth discovering | non-profit research"
-  site-url: https://www.linkedin.com/company/geo-truth
+  site-url: https://geotruth.github.io
   image: img/website_thumbnail.png
   
   repo-url: "https://github.com/relnimeiry1/geotruthwebsite"
