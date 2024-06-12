@@ -1,0 +1,68 @@
+---
+title: "The Training Loop"
+author: ""
+title-block-banner: false
+page-layout: full
+description-meta: "Welcome to my blog, I’m thrilled to welcome you! Here, you will find a collection of articles on a wide variety of topics. Take a look around and let me know what you think!"
+
+listing:
+  - id: posts_2024
+    contents:
+      - "4-realizations-from-atomic-habits/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2019
+    contents: 
+      - "1-geospatial-professionals-need-a-portfolio/index.qmd"
+
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+image: ""
+code-tools: false
+comments: false
+---
+
+\
+\
+
+Welcome to my blog *The Training Loop*. Here's a loose collection of articles. Currently, there is no real ordering or coherent theme, but that might change in the future. I'm not very consistent with writing regular blog posts either -- I'm proud that I made it past the lonely "Hello World!" post though. If you want to get a notification when I add a new blog post, you can enter your email address at the bottom of the page. It's free and I won't send spam. I appreciate any kind of feedback, that's a source of motivation and a signal which topics actually resonate with readers.
+
+## 2024
+
+:::{#posts_2024}
+:::
+
+## 2023
+
+:::{#posts_2023}
+:::
+
+## 2022
+
+:::{#posts_2022}
+:::
+
+## 2021
+
+:::{#posts_2022}
+:::
+
+## 2020
+
+:::{#posts_2020}
+:::
+
+## 2019
+
+:::{#posts_2019}
+:::
+
+---
+
+The blog post listing is based on the website source of [Andrew Heiss](https://www.andrewheiss.com/), who has put together an incredible listing template under CC-BY-SA 4.0 license. Thank you!

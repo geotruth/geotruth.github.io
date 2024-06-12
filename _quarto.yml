@@ -1,19 +1,98 @@
+authorname: "geo:truth"
+draft: false
+
 project:
   type: website
+  
+  resources:
+    - "img/**"
+    - "assets/**"
+    - "sitemap.xml"
+    - "_redirects"
+    - "speaking/pdf/**"
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+title-meta: "geo:truth"
+description-meta: "The truth is worth discovering. We are a non-profit research project focused on uncovering health disparities and global challenges using geography."
 
 website:
-  title: "geotruth.github.io"
+  title: "geo:truth"
+  description: "the truth is worth discovering | non-profit research"
+  site-url: https://www.linkedin.com/company/geo-truth
+  image: img/website_thumbnail.png
+  
+  repo-url: "https://github.com/relnimeiry1/geotruthwebsite"
+  repo-branch: main
+  
+  search: 
+    location: navbar
+    type: textbox
+  
   navbar:
+    pinned: true
+    logo: /img/ms_icon.png
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Research + Talks
+        href: researchspeaking/index.qmd
+      - text: Team
+        href: team/index.qmd
+      - text: Support Us
+        href: support/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+    right:
+      - icon: github
+        href: https://github.com/relnimeiry1/geotruthwebsitee
+      - icon: linkedin
+        href: https://www.linkedin.com/company/geo-truth/
+      - icon: envelope
+        aria-label: email
+        href: "mailto:admin@geotruth.org"
+  
+  favicon: img/favicon.ico
+
+  open-graph: 
+    image: "/img/website_thumbnail.png"
+    locale: en_US
+    
+  # google-analytics: 
+  #   tracking-id: G-N36VLTEM79
+  #   storage: none
+  
+  page-footer: 
+    left: |
+      <span class="faux-block">{{< fa brands creative-commons >}} 2024 geo:truth</span>
+      <span class="faux-block"><a href="https://github.com/relnimeiry1/geotruthwebsite">{{< fa brands github >}} Source Code</a></span>
+    center: |
+      <span class="faux-block"><a href="/impressum/index.html">Impressum</a></span>
+      <span class="faux-block"><a href="https://www.youtube.com/@HangMassive">audio credit: hang massive</a></span>
+    right: |
+      <span class="faux-block"> Designed with {{< fa heart >}}</span>
+      <span class="faux-block"> Built with <a href="https://quarto.org/">Quarto</a></span>
+  
+execute:
+  freeze: true
+  
+filters:
+  - html/newpagelink.lua
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
-
-editor: visual
-
+    include-in-header: html/seo.html
+    fontsize: 1.1em
+    theme: 
+      - flatly
+      - html/styles.scss
+    toc: false
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai

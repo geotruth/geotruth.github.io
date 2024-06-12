@@ -1,11 +1,250 @@
 ---
-title: "geotruth.github.io"
+comments: false
+page-layout: full
+format:
+  html: 
+    margin-top: 0em
+    margin-bottom: 0em
+    minimal: true
+    smooth-scroll: true
+    fig-responsive: true
+listing:
+  id: blog-listing
+  contents:   
+    - "blog/scientists-should-have-a-website/index.qmd"
+
+  sort: "date desc"
+  type: grid
+  max-items: 3
+  grid-columns: 3
+  fields: [image, date, title]
 ---
 
-This is a Quarto website.
+::: column-screen
+```{=html}
+<link rel="stylesheet" href="html/landing_page_styles.css">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div class="gradient_bg">
+    <div class="hero section_padding">
+        <div class="hero_content">
+            <h1>Hi, we're <span class="gradient_text">geo:truth</span>.</h1></span>
+            <p> A non-profit research project focused on uncovering health disparities and global challenges using geography.
 
-```{r}
-1 + 1
+<p>We believe that the <span style='text-decoration: underline;text-decoration-color: #00A9A3;'>truth is worth discovering.</span>
+            </p>
+            <p>
+
+
+<span class="gradient_text"><h1>What We Do</h1></span>
+<p>
+
+1.   <b>Geospatial Analysis:</b> mapping and spatial analysis techniques to identify health disparities and high-risk areas, and inform targeted interventions.
+<p>
+2.   <b>Epidemiological Research:</b> rigorous epidemiological studies to uncover the root causes of health inequities and develop evidence-based strategies for prevention and intervention.
+<p>
+3.   <b>Capacity Building:</b> training and technical assistance to <del>empower</del> no, <span style="color:#00A9A3;">give power back </span>to local organizations and healthcare providers with the tools and knowledge to address health disparities in their communities.
+<p>
+4.   <b>Advocacy and Policy:</b> advocate for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.
+<p>
+
+
+
+
+<p><b><h1><span style="color:#00A9A3">Get Involved</h1></span></b>
+</p>
+Join the <style="color:#00A9A3>geo:truth</style> tribe, in our mission to build a healthier, more equitable world. Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come. Email us: <a href="mailto:admin@geotruth.org"><span style='text-decoration: underline;
+  text-decoration-color: #00A9A3;'>admin@geotruth.org</span></a>
+
+
+
+<p>
+<span style="margin: 0px"> Join the <style="color:#00A9A3><b>geo:truth</b>,</style> tribe! Subscribe here to get notifications (it's free!)</span>
+
+<div class="grid">
+  <div class=".d-none .d-md-block g-col-md-1"></div>
+  <div class="g-col-12 g-col-md-10">
+    <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
+    <script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
+    
+    </iframe>
+  </div>
+  <div class=".d-none .d-md-block g-col-md-1"></div>
+</div>
+
+
+
+
+</div>
+<div class="hero_image">
+<img src="/img/g.gif"/> </div>
+
+<div id="dot_container">
+</div>
+</div>
+    <svg id="bottom_wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 250">
+        <path
+                fill="#00A9A3"
+                fill-opacity="1"
+                d="M0,128L48,117.3C96,107,192,85,288,80C384,75,480,85,576,112C672,139,768,181,864,181.3C960,181,1056,139,1152,122.7C1248,107,1344,117,1392,122.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
+        ></path>
+    </svg>
+ 
+    
+
+</div>
+
+
+<script src="html/jquery.min.js"></script>
+<script src="html/TweenMax.min.js"></script>
+<!--<script src="html/parallax.js"></script>-->
 ```
+:::
+
+::: {#news}
+<p>
+
+</p>
+
+## What We Are Up To:
+
+-   **June 3, 2024**: We've made updates to our <a href="www.linkedin.com/company/geo-truth" target="_blank" style="color: #00A9A3;">LinkedIn</a> page! Check it out!
+
+-   **June 9, 2024:** We've made updates to our <a href="projects/index.qmd#meta-uncertainty-BMC" target="_blank" style="color: #00A9A3;">Projects</a> page! Check it out!
+
+    <!--#{{< video https://www.youtube.com/embed/WIigoUaqy9c title="Meta-Uncertainty in Bayesian Model Comparison (AISTATS 2023)" aspect-ratio="16x9" >}}   -->
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+
+\
+\
+:::
+
+## Featured Blog Posts
+
+::: {#blog-listing}
+:::
+
+::: {#hero-heading}
+:::
+
+------------------------------------------------------------------------
+
+<!-- ```{=html} -->
+
+<!-- <!DOCTYPE html> -->
+
+<!-- <html lang="en"> -->
+
+<!-- <head> -->
+
+<!--     <meta charset="UTF-8"> -->
+
+<!--     <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+
+<!--     <style> -->
+
+<!--         #dot_container { -->
+
+<!--             position: relative; -->
+
+<!--             width: 100%; -->
+
+<!--             height: 100vh; -->
+
+<!--             background-color: #f0f0f0; -->
+
+<!--             overflow: hidden; -->
+
+<!--         } -->
+
+<!--         svg { -->
+
+<!--             position: absolute; -->
+
+<!--             bottom: 0; -->
+
+<!--             width: 100%; -->
+
+<!--         } -->
+
+<!--     </style> -->
+
+<!-- </head> -->
+
+<!-- <body> -->
+
+<!--     <div id="dot_container"> -->
+
+<!--         <svg id="geographic_lines" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"> -->
+
+<!--             <!-- Example of simplified geographic lines -->
+
+<!--             <line x1="0" y1="100" x2="1440" y2="100" stroke="#ccc" stroke-width="2"/> -->
+
+<!--             <line x1="0" y1="200" x2="1440" y2="200" stroke="#ccc" stroke-width="2"/> -->
+
+<!--             <line x1="720" y1="0" x2="720" y2="320" stroke="#ccc" stroke-width="2"/> -->
+
+<!--             <!-- Simplified representation of Africa -->
+
+<!--             <path -->
+
+<!--                 fill="#F4A261" -->
+
+<!--                 stroke="#000" -->
+
+<!--                 stroke-width="2" -->
+
+<!--                 d="M 500,120  -->
+
+<!--                    C 550,150 600,100 650,150  -->
+
+<!--                    C 700,200 750,250 700,300  -->
+
+<!--                    C 650,350 600,300 550,350  -->
+
+<!--                    C 500,400 450,350 400,300  -->
+
+<!--                    C 350,250 300,200 350,150  -->
+
+<!--                    C 400,100 450,150 500,120  -->
+
+<!--                    Z" -->
+
+<!--             ></path> -->
+
+<!--         </svg> -->
+
+<!--     </div> -->
+
+<!--     <svg id="bottom_wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 250"> -->
+
+<!--         <path -->
+
+<!--             fill="#00A9A3" -->
+
+<!--             fill-opacity="1" -->
+
+<!--             d="M0,128L48,117.3C96,107,192,85,288,80C384,75,480,85,576,112C672,139,768,181,864,181.3C960,181,1056,139,1152,122.7C1248,107,1344,117,1392,122.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z" -->
+
+<!--         ></path> -->
+
+<!--     </svg> -->
+
+<!-- </body> -->
+
+<!-- </html> -->
+
+<!-- ``` -->
+
+<audio controls autoplay loop>
+
+<source src="/audio/videoendsky.mp4" type="audio/mpeg">
+
+Your browser does not support the audio tag.</audio>

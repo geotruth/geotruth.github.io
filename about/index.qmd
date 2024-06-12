@@ -1,0 +1,35 @@
+---
+title: "About Us"
+---
+
+**geo:truth**: Non-profit research focused on uncovering health disparities and global challenges using geography.
+
+## **Our Mission**
+
+We believe that **the truth is worth discovering.**
+
+**geo:truth** is dedicated to leveraging geospatial insights, epidemiology, and data analytics to address health inequalities and foster healthier communities worldwide. By integrating cutting-edge technology with a commitment to equity, we strive to create a future where access to quality healthcare is not determined by zip code, income, or background.
+
+## **Our Approach**
+
+We employ a multidisciplinary approach, combining expertise in geospatial analysis, epidemiology, and programming to identify and understand the complex factors influencing health outcomes. Through collaborative research, community engagement, and advocacy, we work to implement data-driven solutions that empower underserved populations and promote systemic change.
+
+## **What We Do**
+
+-   **Geospatial Analysis:** We utilize state-of-the-art mapping and spatial analysis techniques to visualize health disparities, identify high-risk areas, and inform targeted interventions.
+
+-   **Epidemiological Research:** Our team conducts rigorous epidemiological studies to uncover the root causes of health inequities and develop evidence-based strategies for prevention and intervention.
+
+-   **Capacity Building:** We provide training and technical assistance to empower local organizations and healthcare providers with the tools and knowledge to address health disparities in their communities.
+
+-   **Advocacy and Policy:** We advocate for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.
+
+## **Get Involved**
+
+Join us in our mission to build a healthier, more equitable world. Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with **geo:truth**. Together, we can make a difference and create lasting change for generations to come.
+
+<audio controls autoplay loop>
+
+<source src="videoendsky.mp4" type="audio/mpeg">
+
+Your browser does not support the audio tag.</audio>
