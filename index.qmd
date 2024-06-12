@@ -11,7 +11,7 @@ format:
 listing:
   id: blog-listing
   contents:   
-    - "blog/scientists-should-have-a-website/index.qmd"
+    - "blog/1-geospatial-professionals-need-a-portfolio/index.qmd"
 
   sort: "date desc"
   type: grid
