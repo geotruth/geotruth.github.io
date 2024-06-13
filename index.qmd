@@ -45,20 +45,29 @@ listing:
 3.   <b>Capacity Building:</b> training and technical assistance to <del>empower</del> no, <span style="color:#00A9A3;">give power back </span>to local organizations and healthcare providers with the tools and knowledge to address health disparities in their communities.
 <p>
 4.   <b>Advocacy and Policy:</b> advocate for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.
+
+
+
+
+
+<p></p>
+  <b><h1><span style="color:#00A9A3">Get Involved</h1></span></b>
+
+
+<p>Join the <b><span style="color:#00A9A3">geo:truth</span></b> tribe in our mission to build a healthier, more equitable world!</p>
+
+Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come. Check out what we're up to (scroll below)!
+
+
 <p>
-
-
-
-
-<p><b><h1><span style="color:#00A9A3">Get Involved</h1></span></b>
-</p>
-Join the <style="color:#00A9A3>geo:truth</style> tribe, in our mission to build a healthier, more equitable world. Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come. Email us: <a href="mailto:admin@geotruth.org"><span style='text-decoration: underline;
-  text-decoration-color: #00A9A3;'>admin@geotruth.org</span></a>
-
-
-
-<p>
-<span style="margin: 0px"> Join the <style="color:#00A9A3><b>geo:truth</b>,</style> tribe! Subscribe here to get notifications (it's free!)</span>
+<span style="margin: 0px">Want to collaborate with us? Have an idea, question or concern?</p>
+Drop us a line or three: <a href="mailto:admin@geotruth.org"><span style='text-decoration: underline;
+  text-decoration-color: #00A9A3;'>admin@geotruth.org</span></a> 
+  <style="color:#00A9A3"> </span>
+  </br> 
+  
+<p> 
+  You can also subscribe here to get updates about our work (it's free!)</p>
 
 <div class="grid">
   <div class=".d-none .d-md-block g-col-md-1"></div>
@@ -109,7 +118,7 @@ Join the <style="color:#00A9A3>geo:truth</style> tribe, in our mission to build 
 
 -   **June 3, 2024**: We've made updates to our <a href="www.linkedin.com/company/geo-truth" target="_blank" style="color: #00A9A3;">LinkedIn</a> page! Check it out!
 
--   **June 9, 2024:** We've made updates to our <a href="projects/index.qmd#meta-uncertainty-BMC" target="_blank" style="color: #00A9A3;">Projects</a> page! Check it out!
+-   **June 9, 2024:** We've made updates to our <a href="projects/index.qmd" target="_blank" style="color: #00A9A3;">Projects</a> page! Check it out!
 
     <!--#{{< video https://www.youtube.com/embed/WIigoUaqy9c title="Meta-Uncertainty in Bayesian Model Comparison (AISTATS 2023)" aspect-ratio="16x9" >}}   -->
 

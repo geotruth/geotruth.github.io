@@ -27,7 +27,7 @@ format:
 <h2>Hi, I'm <span class="gradient_text">Rasha</span>.</h2></span>
 I am a geospatial epidemiologist. I am passionate about health equity and geospatial epidemiology. I love food and I love coding. But since I can't eat code, I automate my hydroponic garden to grow my food- Oh, of course, using code. 
 
-<p></p>
+<p></p><p></p><p></p><p></p>
 
 
 
@@ -37,6 +37,7 @@ I am a geospatial epidemiologist. I am passionate about health equity and geospa
 <div class="hero_content">
 <h2>Hi, I'm <span class="gradient_text">Jordan</span>.</h2></span>
 I am a fun person. I am passionate about things that matter. I love horse riding, hiking. I am a python programmer, I am really a plumber, code plumber and can patch together some mean, beef automations that solve problems and probably leak more problems down the line.
+<p></p><p></p><p></p><p></p>
 
 
 <div class="gradient_bg">
@@ -56,13 +57,6 @@ I am a rockstar. I am passionate about health equity and geospatial. I love to r
 
 
 <p>
-
-<div class="grid">
-  <div class="g-col-12 g-col-md-8 align-self-center">
-    <p>You can support our work with a coffee if you'd like to:
-  <div class="g-col-12 g-col-md-4 align-self-center">
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="geotruth" data-color="#DDDDDD" data-emoji=""  data-font="Poppins" data-text="Buy Us a Coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#00A9A3" ></script>
-  </div>  </div>  </div> 
 
 
 <div id="dot_container">
@@ -86,6 +80,13 @@ I am a rockstar. I am passionate about health equity and geospatial. I love to r
 
 
 
+<div class="grid">
+  <div class="g-col-12 g-col-md-8 align-self-right">
+    <p>You can support our work with a coffee if you'd like to:
+  <div class="g-col-12 g-col-md-4 align-self-right">
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="geotruth" data-color="#DDDDDD" data-emoji=""  data-font="Poppins" data-text="Buy Us a Cup of Coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#00A9A3" ></script>
+  </div>  </div>  </div> 
+
 
 <script src="html/jquery.min.js"></script>
 <script src="html/TweenMax.min.js"></script>
@@ -102,7 +103,6 @@ I am a rockstar. I am passionate about health equity and geospatial. I love to r
 
 ------------------------------------------------------------------------
 
-
 ```{=html}
 <h3>At geo:truth we are driven by the belief that <span style='text-decoration: underline;text-decoration-color: #00A9A3;'>truth is worth discovering.</span></h3>
 ```
@@ -114,7 +114,6 @@ I am a rockstar. I am passionate about health equity and geospatial. I love to r
 <source src="/audio/videosudden.mp4" type="audio/mpeg">
 
 Your browser does not support the audio tag.</audio>
-
 
 <!-- ```{css echo=FALSE} -->
 

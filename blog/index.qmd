@@ -25,7 +25,7 @@ comments: false
 \
 \
 
-Welcome to my blog *The geo:blog*. We appreciate any kind of feedback, that's a source of motivation and a signal which topics actually resonate with readers.
+Welcome to our blog *The geo:blog*. We appreciate any kind of feedback, that's a source of motivation and a signal which topics actually resonate with readers.
 
 ## 2024
 

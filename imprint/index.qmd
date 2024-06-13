@@ -3,19 +3,19 @@ title: 'Imprint: Terms and Conditions + Privacy Policy'
 comments: false
 ---
 
-geo:truth
+# geo:truth
 
 **Nonprofit Research Project**
 
 **Contact Information:** \
 Email: admin\@geotruth.org \
-Website: [www.linked.com/company/geo-truth](http://www.geotruth.org/)
+Website: <https://geotruth.github.io>
 
 **Represented by:** \
 Rasha Elnimeiry, Executive Director and Founder\
 
 **Registration Information:** \
-Registered as a Nonprofit Organization in \[Rochester/MN\]\
+Registered as a Nonprofit Organization in Rochester/MN\
 EIN Number: 99-2228070\
 Registration Number: \[Registration Number\]
 
@@ -35,9 +35,9 @@ Our website contains links to third-party websites ("external links"). As the co
 **Copyright:** \
 The content and works published on this website are governed by the copyright laws of \[Country\]. Any duplication, processing, distribution, or any form of commercialization of such material beyond the scope of the copyright law shall require the prior written consent of its respective author or creator.
 
-**Privacy Policy:** \
+# **Privacy Policy**
 
-**geo:truth Nonprofit Research Project**
+**geo:truth - Nonprofit Research Project**
 
 **Effective Date:** August 1, 2019
 
@@ -57,8 +57,6 @@ The content and works published on this website are governed by the copyright la
 -   To understand and analyze how you use our website.
 -   To develop new products, services, features,
 
-If you have any concerns about privacy, please email us: admin\@geo:truth.org
-
-
+If you have any concerns about our terms and conditions or privacy, please email us: admin\@geo:truth.org
 
 ------------------------------------------------------------------------

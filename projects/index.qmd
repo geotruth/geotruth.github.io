@@ -4,11 +4,57 @@ comments: false
 toc: false
 ---
 
-<span style="color:#00A9A3;"> **You're here!** </span>This page has an overview of projects and research significantly shaped throughout the entire project life cycle. If you would like to know more or are interested in collaborating, guiding or proving us feedback, we welcome and appreciate it. Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk!
+[ **You're here!** ]{style="color:#00A9A3;"}This page has an overview of projects and research significantly shaped throughout the entire project life cycle. If you would like to know more or are interested in collaborating, guiding or proving us feedback, we welcome and appreciate it. Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk!
 
 ------------------------------------------------------------------------
 
-## Spatial Analysis: Interplay between Armed Conflict, Livelihood, Environmental Factors and Malaria Risk in Sudan {#cmpe}
+## Armed Conflict Sudan: Depth of understanding underlying patterns and events {#cmpe}
+
+**Network Analysis**:
+
+-   **Purpose**: Understand the connectivity and movement patterns within conflict zones.
+
+-   **Method**: Create network graphs to analyze the connections between conflict events and movement pathways (e.g., supply routes, refugee movements).
+
+**Temporal-Spatial Analysis**:
+
+-   **Purpose**: Analyze how the spatial distribution of conflict events changes over time.
+
+-   **Method**: Create time-series maps or use space-time cube analysis to visualize and analyze temporal trends in the data.
+
+**Proximity Analysis**:
+
+-   **Purpose**: Determine the proximity of conflict events to key locations (e.g., cities, borders, resources).
+
+-   **Method**: Use buffer zones and proximity tools to analyze the spatial relationships between conflict events and significant geographical features.
+
+**Cluster Analysis**:
+
+-   **Purpose**: Identify and classify different types of conflict clusters.
+
+-   **Method**: Use spatial clustering algorithms like DBSCAN or K-means to group conflict events into clusters based on their locations and attributes.
+
+**Density Analysis**:
+
+-   **Purpose**: Measure the density of conflict events in different regions.
+
+-   **Method**: Use point density or kernel density tools to create heatmaps showing the intensity of conflict across the country.
+
+**Spatial Autocorrelation**:
+
+-   **Purpose**: Assess the degree to which conflict events are clustered or dispersed by actors.
+
+-   **Method**: Calculate Moran's I or Geary's C to quantify spatial autocorrelation and identify patterns of spatial dependence.
+
+**Change Detection**:
+
+-   **Purpose**: Identify changes in the intensity and location of conflict over time.
+
+-   **Method**: Use change detection techniques to compare conflict event data from different time periods and identify significant changes.
+
+------------------------------------------------------------------------
+
+## Spatial Analysis: Interplay between Armed Conflict, Livelihood, Environmental Factors and Malaria Risk in Sudan
 
 ![](/img/malariaarmedconflictlivelihood_model.png){onclick="window.open('/img/malariaarmedconflictlivelihood_model.png', 'blank');" style="object-fit: contain" fig-align="center"}
 
