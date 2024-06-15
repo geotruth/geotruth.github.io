@@ -2,13 +2,6 @@
 title: "<br>Our Team"
 comments: false
 page-layout: full
-format:
-  html: 
-    margin-top: 0em
-    margin-bottom: 0em
-    minimal: true
-    smooth-scroll: true
-    fig-responsive: true
 ---
 
 ::: column-screen
@@ -22,7 +15,7 @@ format:
 
 <div class="gradient_bg">
 <div class="hero_image">
-<img src="/img/rashaheadshot.JPG"/> </div>
+<img src="img/rashaheadshot.jpg"/> </div>
 <div class="hero_content">
 <h2>Hi, I'm <span class="gradient_text">Rasha</span>.</h2></span>
 I am a geospatial epidemiologist. I am passionate about health equity and geospatial epidemiology. I love food and I love coding. But since I can't eat code, I automate my hydroponic garden to grow my food- Oh, of course, using code. 

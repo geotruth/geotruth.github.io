@@ -1,5 +1,8 @@
 ---
 title: "</br>Support Our Work"
+comments: false
+toc: true
+page-layout: full
 ---
 
 At **geo:truth,** we are driven by the belief that "**the truth is worth discovering.**" Our non-profit organization is dedicated to uncovering health disparities and global challenges through the power of geography. By combining geospatial insights, epidemiology, and data analytics, we strive to foster healthier, more equitable communities worldwide.
@@ -37,11 +40,37 @@ Your support is crucial in helping us achieve our mission. With your contributio
 
 -   **Spread the Word:** Help us raise awareness about the importance of health equity and the work we do at geo:truth. Follow us on social media, share our research, and encourage others to join our cause.
 
+
+
+
+
+
 ## Join Us in Making a Difference
 
 At **geo:truth**, we believe that by working together, we can create a healthier, more equitable world. Your support is essential in helping us uncover the truth and make a lasting impact on global health. Join us in our mission to build a future where health is a fundamental right for all.
 
 **Thank you for your support.**
+<!-- -- rewrite consolidate with above(!!) -->
+
+
+<!-- Join Us in Making a Difference with Geotruth! -->
+
+<!-- At geo:truth, we're dedicated to leveraging geospatial insights and data analytics to tackle health inequalities worldwide. Your support fuels our mission to foster healthier communities through innovative research and community-driven solutions. -->
+
+<!-- Why Donate? -->
+
+<!-- Impactful Contributions: Your donation directly supports initiatives that address critical health disparities, promoting better outcomes for vulnerable populations. -->
+
+<!-- Transparency: We're committed to accountability and transparency. Every dollar donated goes towards advancing our charitable, educational, and scientific endeavors. -->
+
+<!-- Tax-Deductible Giving: As a 501(c)(3) nonprofit organization, your contributions are tax-deductible to the fullest extent allowed by law. -->
+
+<!-- How You Can Help: -->
+
+<!-- By supporting geo:truth, you're not just donating; you're becoming a partner in our mission to create a healthier world for all. Together, we can make a meaningful difference through data-driven solutions and community engagement. -->
+
+<!-- Join us today in shaping a healthier future. Donate now and be a part of the geo:truth movement! -->
+
 
 
 <audio controls autoplay loop>

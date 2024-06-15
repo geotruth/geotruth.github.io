@@ -22,13 +22,13 @@ execute:
 format:   
   html:
     code-tools: true
-    # comments:
-      # giscus:
-      #   repo: relnimeiry1/geotruthwebsite
-      #   category: Announcements
-      #   loading: lazy
-      #   input-position: bottom
-      #   language: en
+    comments:
+      giscus:
+        repo: geotruth/geotruth.github.io
+        category: Announcements
+        loading: lazy
+        input-position: bottom
+        language: en
     quarto-template-params:
       banner-header-class: "blog-post"
     include-after-body: ../html/blog_footer.html

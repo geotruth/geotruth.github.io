@@ -1,0 +1,13 @@
+---
+title: "</br>Credits + Warm Thank You!"
+comments: false
+toc: true
+page-layout: full
+---
+
+[**Thank you!**]{style="color:#00A9A3;"} We want to give a huge shoutout to the amazing people who helped make this website awesome. From the talented R programmers who shared code to the awesome artists whose audio adds life to our pages, your work is truly appreciated and has made this project shine. Thank you for being a part of it!
+
+Audio \| [Hang Massive](https://www.youtube.com/@HangMassive) - Thank you!\
+Website Source Code Borrowed \| [Marvin Schmitt](https://www.marvinschmitt.com), [Andrew Heiss](https://www.andrewheiss.com/) - Thank you!
+
+\

@@ -1,64 +1,65 @@
 ---
 title: "</br>Projects"
 comments: false
-toc: false
+toc: true
+page-layout: full
 ---
 
-[ **You're here!** ]{style="color:#00A9A3;"}This page has an overview of projects and research significantly shaped throughout the entire project life cycle. If you would like to know more or are interested in collaborating, guiding or proving us feedback, we welcome and appreciate it. Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk!
+[**You're here!**]{style="color:#00A9A3;"} On this page, we present an in-depth exploration of the projects and research initiatives that geo:truth team has meticulously crafted and shaped across their entire project life cycle. If you would like to know more or are interested in collaborating, guiding or providing us feedback, we welcome and appreciate it. Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk!
+
+\
+\
+
+
+## ([*ongoing*]{style="color:#00A9A3;"}) **Mapping Health Disparities Among Black Women in the United States: A Geospatial Epidemiology Approach**
+
+[**Background**]{style="color:#00A9A3;"} \| Black women in the United States experience significant health disparities influenced by socio-economic, environmental, and healthcare access factors.
+
+[**Purpose**]{style="color:#00A9A3;"}
+
+-   Identify geographic hotspots of health disparities among Black women.
+
+-   Examine the intersectionality of race, gender, and socio-economic status in health outcomes.
+
+-   Assess environmental and neighborhood-level factors contributing to health inequities.
+
+\
+\
 
 ------------------------------------------------------------------------
 
-## Armed Conflict Sudan: Depth of understanding underlying patterns and events {#cmpe}
+## ([*ongoing*]{style="color:#00A9A3;"}) Armed Conflict Sudan: Depth of Understanding Underlying Patterns and Events
 
-**Network Analysis**:
+[**Background**]{style="color:#00A9A3;"} \| The war in Sudan (April 2023) has been marked by decades of civil conflict stemming from ethnic, religious, and political tensions, leading to widespread violence, displacement, and humanitarian crises.
 
--   **Purpose**: Understand the connectivity and movement patterns within conflict zones.
+[**Purpose**]{style="color:#00A9A3;"}
 
--   **Method**: Create network graphs to analyze the connections between conflict events and movement pathways (e.g., supply routes, refugee movements).
+-   Analyze how the spatial distribution of conflict events changes over time.
 
-**Temporal-Spatial Analysis**:
+-   Identify and classify different types of conflict clusters.
 
--   **Purpose**: Analyze how the spatial distribution of conflict events changes over time.
+-   Assess the degree to which conflict events are clustered or dispersed by actors.
 
--   **Method**: Create time-series maps or use space-time cube analysis to visualize and analyze temporal trends in the data.
-
-**Proximity Analysis**:
-
--   **Purpose**: Determine the proximity of conflict events to key locations (e.g., cities, borders, resources).
-
--   **Method**: Use buffer zones and proximity tools to analyze the spatial relationships between conflict events and significant geographical features.
-
-**Cluster Analysis**:
-
--   **Purpose**: Identify and classify different types of conflict clusters.
-
--   **Method**: Use spatial clustering algorithms like DBSCAN or K-means to group conflict events into clusters based on their locations and attributes.
-
-**Density Analysis**:
-
--   **Purpose**: Measure the density of conflict events in different regions.
-
--   **Method**: Use point density or kernel density tools to create heatmaps showing the intensity of conflict across the country.
-
-**Spatial Autocorrelation**:
-
--   **Purpose**: Assess the degree to which conflict events are clustered or dispersed by actors.
-
--   **Method**: Calculate Moran's I or Geary's C to quantify spatial autocorrelation and identify patterns of spatial dependence.
-
-**Change Detection**:
-
--   **Purpose**: Identify changes in the intensity and location of conflict over time.
-
--   **Method**: Use change detection techniques to compare conflict event data from different time periods and identify significant changes.
+\
+\
 
 ------------------------------------------------------------------------
 
-## Spatial Analysis: Interplay between Armed Conflict, Livelihood, Environmental Factors and Malaria Risk in Sudan
+## ([*completed*]{style="color:#00A9A3;"}) Spatial Analysis: Interplay between Armed Conflict, Livelihood, Environmental Factors and Malaria Risk in Sudan
+
+[**Background**]{style="color:#00A9A3;"} \| There are complex interrelationships between armed conflict, livelihood patterns, environmental factors, and malaria risk across Sudan.
+
+[**Purpose**]{style="color:#00A9A3;"}
+
+-   Analyze the spatial impact of armed conflict events on malaria prevalence.
+
+-   Investigate how different livelihood zones, including Central Rainfed Millet and Sesame and Western Wadi Cultivation, influence malaria vulnerability.
+
+-   Examine the role of environmental factors, such as soil degradation and urbanization, in shaping malaria risk patterns in Sudan.
 
 ![](/img/malariaarmedconflictlivelihood_model.png){onclick="window.open('/img/malariaarmedconflictlivelihood_model.png', 'blank');" style="object-fit: contain" fig-align="center"}
 
-<a href="/img/malariaarmedconflict_model.png" target="_blank">Analysis Findings</a>
+[**Findings**]{style="color:#00A9A3;"}
 
 ***Distance to Another Malaria Case:***  This was significant factor in disease risk, which makes sense. Being close to another malaria case, as a factor for malaria acquisition.
 

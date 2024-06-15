@@ -1,0 +1,78 @@
+---
+title: "A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals"
+description: 'A practical and comprehensive introduction to finding geospatial and health data, tailored for new professionals entering the field of geospatial epidemiology.'
+date: 12-13-2023
+categories: 
+  - geospatial
+  - epidemiology
+  - open data
+image: thumbnail.png
+draft: false
+format:
+  html:
+    fig-cap-location: bottom
+    include-before-body: ../../html/margin_image.html
+    include-after-body: ../../html/blog_footer.html
+editor: 
+  markdown: 
+    wrap: sentence
+resources: 
+  - "thumbnail.png"
+---
+
+# **A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals**
+
+Welcome to geo:truth's guide for new geospatial professionals eager to dive into the world of geospatial data!
+Whether you're just starting out or looking to expand your toolkit, understanding where and how to find reliable geospatial data, especially for health-related applications, is crucial.
+At geo:truth, we're dedicated to equipping you with the resources needed to uncover health disparities and address global challenges through geography.
+
+# Why Geospatial Data Matters
+
+Geospatial data forms the foundation of our work at geo:truth, enabling us to map patterns, identify high-risk areas, and develop targeted interventions to improve public health outcomes.
+As a new geospatial professional, mastering the art of finding and utilizing geospatial and health data will empower you to make informed decisions and advocate for positive change.
+
+# Where to Find Geospatial and Health Data
+
+## 1. **Government Agencies:**
+
+Government agencies are primary sources of authoritative and freely accessible geospatial and health-related data:
+
+-   **US Geological Survey (USGS):** Provides topographic maps, land cover data, and more through their [National Map](https://www.usgs.gov/core-science-systems/national-geospatial-program/national-map).
+-   **Centers for Disease Control and Prevention (CDC):** Offers health-related geospatial data and maps via their [GIS and Public Health](https://www.cdc.gov/gis/index.html) portal.
+
+## 2. **Open Data Portals:**
+
+Explore these platforms for open geospatial and health-related datasets:
+
+-   **Data.gov:** Access a wide range of datasets including environmental, economic, and health data from the U.S. government's [Geospatial Data](https://www.data.gov/geospatial/) section.
+-   **Global Health Data Exchange (GHDx):** Provides health-related data from around the world. Explore their datasets through the [GHDx Data Portal](http://ghdx.healthdata.org/).
+
+## 3. **Academic and Research Institutions:**
+
+Universities and research institutions contribute valuable geospatial and health datasets:
+
+-   **Harvard Dataverse:** Explore various research data, including geospatial datasets, at [Harvard Dataverse](https://dataverse.harvard.edu/).
+-   **Stanford EarthWorks:** Offers geospatial data related to environmental and earth sciences. Discover datasets at [Stanford EarthWorks](https://earthworks.stanford.edu/).
+
+# Health Data for Geospatial Epidemiology
+
+Geospatial epidemiology relies on health data to analyze disease patterns and health outcomes across geographical areas.
+Here are essential sources for health data:
+
+-   **World Health Organization (WHO):** Provides global health statistics and data through their [Global Health Observatory](https://www.who.int/data/gho).
+-   **HealthData.gov:** Offers health-related datasets from various U.S. government agencies. Explore datasets relevant to epidemiological research at [HealthData.gov](https://healthdata.gov/).
+-   **National Institutes of Health (NIH):** Access health-related research data and resources, including epidemiological studies, at [NIH Data Sharing](https://datasharing.nih.gov/).
+
+# Tips for Using Geospatial and Health Data Effectively
+
+-   **Review Metadata:** Understand the characteristics and limitations of the data by reviewing metadata.
+-   **Stay Current:** Update datasets regularly to ensure accuracy and relevance.
+-   **Utilize GIS Software:** Learn to use Geographic Information System (GIS) software like QGIS or ArcGIS for data visualization and analysis.
+
+# Start Your Journey with geo:truth
+
+As you embark on your geospatial journey, remember that geo:truth is here to support you.
+Dive into these resources, explore different datasets, and collaborate with local agencies to leverage geospatial and health data effectively.
+Together, let's harness the power of geospatial analysis to uncover truths and drive positive change in global health.
+
+**Ready to get started?** Explore these resources and embark on your path to becoming a skilled geospatial professional!

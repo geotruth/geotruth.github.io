@@ -6,10 +6,10 @@ project:
   
   resources:
     - "img/**"
-    - "assets/**"
+    # - "assets/**"
     - "sitemap.xml"
     - "_redirects"
-    - "speaking/pdf/**"
+    - "researchspeaking/pdf/**"
 
   preview: 
     port: 22222
@@ -47,9 +47,11 @@ website:
         href: support/index.qmd
       - text: Blog
         href: blog/index.qmd
+      - text: Financial Transparency
+        href: finance/index.qmd
     right:
       - icon: github
-        href: https://github.com/relnimeiry1/geotruthwebsitee
+        href: https://github.com/geotruth
       - icon: linkedin
         href: https://www.linkedin.com/company/geo-truth/
       - icon: envelope
@@ -69,13 +71,13 @@ website:
   page-footer: 
     left: |
       <span class="faux-block">{{< fa brands creative-commons >}} 2024 geo:truth</span>
-      <span class="faux-block"><a href="https://github.com/relnimeiry1/geotruthwebsite">{{< fa brands github >}} Source Code</a></span>
+      <span class="faux-block"><a href="https://github.com/geotruth/geotruth.github.io">{{< fa brands github >}} Source Code</a></span>
     center: |
       <span class="faux-block"><a href="/imprint/index.html">Terms & Conditions + Privacy Policy</a></span>
-      <span class="faux-block"><a href="https://www.youtube.com/@HangMassive">audio credit: hang massive</a></span>
+      <span class="faux-block"><a href="/credits/index.html">Credits</a></span>
     right: |
       <span class="faux-block"> Designed with {{< fa heart >}}</span>
-      <span class="faux-block"> Built with R {{< fa R >}} + <a href="https://quarto.org/">Quarto</a></span>
+      <span class="faux-block"> Built with {{< fa brands r-project >}} + <a href="https://quarto.org/">Quarto</a></span>
   
 execute:
   freeze: true

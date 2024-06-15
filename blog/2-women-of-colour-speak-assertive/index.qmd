@@ -1,0 +1,86 @@
+---
+title: "Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ"
+description: 'How women of color can navigating team dynamics by providing practical strategies for asserting themselves and handling challenges like idea theft with confidence, grace, and emotional intelligence.'
+date: 01-01-2023
+categories: 
+  - emotional intelligence
+  - workplace
+  - women of colour
+image: thumbnail.png
+draft: false
+format:
+  html:
+    fig-cap-location: bottom
+    include-before-body: ../../html/margin_image.html
+    include-after-body: ../../html/blog_footer.html
+editor: 
+  markdown: 
+    wrap: sentence
+resources: 
+  - "thumbnail.png"
+---
+
+# Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ
+
+Hey there, fabulous women of color making waves in the team!
+Let’s dive into a topic that’s all too familiar: navigating the tricky waters of team dynamics, especially when it comes to asserting ourselves and dealing with idea theft.
+Ready to rock this with style and grace?
+Let’s go!
+
+Imagine yourself in a diverse team where your expertise and unique perspective shine bright.
+Collaboration is the name of the game, but sometimes, amidst the brainstorming sessions and deadlines, your brilliant ideas might not always get the recognition they deserve.
+
+Suddenly, in a meeting, you hear someone presenting your idea as their own.
+Cue the eye-roll moment!
+But hold up, here’s how you can handle it with finesse:
+
+# **Document Your Brilliance**
+
+Keep meticulous records of your ideas—emails, notes, presentations.
+This isn’t just about staying organized; it’s about having proof of your creativity and hard work.
+
+# **Channel Your Inner Queen**
+
+When faced with idea theft, respond assertively and confidently.
+You could say something like, “I’m glad you appreciate my idea!
+Let’s collaborate to make it even more awesome.”
+
+# **Build Your Support Squad**
+
+Allies and mentors are your secret weapon.
+Surround yourself with those who recognize and celebrate your contributions.
+They’ll have your back when you need guidance or a pep talk.
+
+# **Champion Recognition**
+
+Advocate for a workplace where all voices are heard and ideas are celebrated, especially those from diverse perspectives.
+Creating a culture of respect and acknowledgment benefits everyone.
+
+# **Ninja Moves: Formal Channels**
+
+If the situation persists, consider discussing it with your manager or HR.
+Present your case calmly and with evidence to show the impact on team morale and outcomes.
+
+# **Embrace EQ Power**
+
+Understand where your colleagues are coming from.
+Sometimes, they may not realize the impact of their actions.
+Approach the situation with empathy and aim for a constructive resolution.
+
+# **Know Your Value**
+
+Your brilliance and unique viewpoint are invaluable.
+If challenges persist, keep your options open for environments that truly appreciate and uplift your contributions.
+
+# Finally
+
+Navigating team dynamics with sass and EQ isn’t just about standing up for yourself—it’s about paving the way for a workplace where everyone feels empowered to shine.
+By handling challenges with confidence and a touch of grace, you inspire others and elevate the team dynamic.
+
+Remember, your voice matters.
+Your ideas are sparks of brilliance that can ignite positive change.
+With EQ as your superpower and a supportive squad by your side, you’re unstoppable.
+
+Keep shining bright, queens!
+The world needs your brilliance and your voice.
+Let’s continue to rock the boat and create waves of change together!
