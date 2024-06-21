@@ -1,0 +1,74 @@
+---
+title: "</br>Blog"
+author: ""
+title-block-banner: false
+page-layout: full
+description-meta: "🌍 Welcome to the geo:truth Blog! 🌍 Where we're dedicated to using geography to uncover health disparities and tackle global challenges. Join us as we explore the intersection of geography and social justice, advocating for evidence-based solutions and equitable access to healthcare. Let's discover the truth together and make a positive impact on our world."
+
+listing:
+  - id: posts_2019
+    contents: 
+      - "1-geospatial-professionals-need-a-portfolio/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2023
+    contents: 
+      - "2-women-of-colour-speak-assertive/index.qmd"
+      - "3-beginner-guide-find-GIS-health-data/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+  - id: posts_2024
+    contents: 
+      - "4-embracing-the-suck/index.qmd"
+    sort: "date desc"
+    template: ../html/blog/listing.ejs
+    categories: true
+
+toc-title: Year
+toc-location: right
+date-format: "MMMM D, YYYY"
+image: ""
+code-tools: false
+comments: false
+---
+
+\
+
+🌍 Welcome to the geo:truth Blog! 🌍 Where we're dedicated to using geography to uncover health disparities and tackle global challenges. Join us as we explore the intersection of geography and health equity, advocating for evidence-based solutions and equitable access to health. Let's discover the truth together and make a positive impact on our world. We appreciate all kinds of feedback - it is a source of motivation and a signal which topics actually resonate with readers.
+
+## 2024
+
+::: {#posts_2024}
+:::
+
+## 2023
+
+::: {#posts_2023}
+:::
+
+## 2022
+
+::: {#posts_2022}
+:::
+
+## 2021
+
+<div>
+
+</div>
+
+## 2020
+
+::: {#posts_2020}
+:::
+
+## 2019
+
+::: {#posts_2019}
+:::
+
+------------------------------------------------------------------------
+
+The blog post listing is based on the website source of [Andrew Heiss](https://www.andrewheiss.com/), who has put together an incredible listing template under CC-BY-SA 4.0 license. Thank you!
