@@ -1,2 +1,4 @@
 /.quarto/
 .Rproj.user
+# Ignore temporary deployment files
+/[a-f0-9]*
