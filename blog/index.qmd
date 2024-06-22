@@ -49,22 +49,4 @@ comments: false
 ::: {#posts_2022}
 :::
 
-## 2021
-
-<div>
-
-</div>
-
-## 2020
-
-::: {#posts_2020}
-:::
-
-## 2019
-
-::: {#posts_2019}
-:::
-
-------------------------------------------------------------------------
-
-The blog post listing is based on the website source of [Andrew Heiss](https://www.andrewheiss.com/), who has put together an incredible listing template under CC-BY-SA 4.0 license. Thank you!
+## 

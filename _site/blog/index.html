@@ -74,34 +74,6 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-posts_2019 .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-authorname','listing-draft','listing-project','listing-title-meta','listing-description-meta','listing-website','listing-execute','listing-filters','listing-format','listing-language','listing-freeze','listing-title-block-banner','listing-toc','listing-toc-title','listing-toc-location','listing-author','listing-title','listing-description','listing-date','listing-categories','listing-image','listing-editor','listing-resources','listing-path','listing-outputHref','listing-date-modified','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
-      
-      searchColumns: ["listing-authorname","listing-draft","listing-project","listing-title-meta","listing-description-meta","listing-website","listing-execute","listing-filters","listing-format","listing-language","listing-freeze","listing-title-block-banner","listing-toc","listing-toc-title","listing-toc-location","listing-author","listing-title","listing-description","listing-date","listing-categories","listing-image","listing-editor","listing-resources","listing-path","listing-outputHref","listing-date-modified","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-posts_2019'] = new List('listing-posts_2019', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-posts_2023 .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -401,7 +373,35 @@ No matching items
         
     </div>
     
-    <div class="blog-entry" data-index="1" data-categories="emotional intelligence,workplace,women of colour" data-listing-date-sort="1672524000000" data-listing-file-modified-sort="1719012188957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
+    <div class="blog-entry" data-index="1" data-categories="website,academia" data-listing-date-sort="1690837200000" data-listing-file-modified-sort="1719026718500" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="678">
+        <div class="metadata">          
+            <p class="date listing-date">August 1, 2023</p>
+        </div>
+        <div class="body">
+            <p class="title listing-title"><a href="../blog/1-geospatial-professionals-need-a-portfolio/index.html">Every Geospatial Professional Needs a Portfolio</a></p>
+            
+            <div class="post-categories listing-categories">
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('website'); return false;">
+                    website
+                </div>
+                
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('academia'); return false;">
+                    academia
+                </div>
+                
+            </div>
+            
+            <p class="description listing-description">Unlock your geospatial superpowers with a professional portfolio – your ticket to standing out, shining bright, and soaring in your career!</p>
+        </div>
+        
+        <div class="thumbnail">
+            <img src="../blog/1-geospatial-professionals-need-a-portfolio/thumbnail.png" alt="Every Geospatial Professional Needs a Portfolio" title="Every Geospatial Professional Needs a Portfolio">
+        </div>
+        
+    </div>
+    
+    <div class="blog-entry" data-index="2" data-categories="emotional intelligence,workplace,women of colour" data-listing-date-sort="1672524000000" data-listing-file-modified-sort="1719012188957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
         <div class="metadata">          
             <p class="date listing-date">January 1, 2023</p>
         </div>
@@ -459,41 +459,8 @@ No matching items
 </section>
 <section id="section-5" class="level2">
 <h2 class="anchored" data-anchor-id="section-5">2019</h2>
-<div id="listing-posts_2019" class="quarto-listing quarto-listing-container-custom">
-<div class="list blog">
-    
-    <div class="blog-entry" data-index="0" data-categories="website,academia" data-listing-date-sort="1690837200000" data-listing-file-modified-sort="1719026718500" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="678">
-        <div class="metadata">          
-            <p class="date listing-date">August 1, 2023</p>
-        </div>
-        <div class="body">
-            <p class="title listing-title"><a href="../blog/1-geospatial-professionals-need-a-portfolio/index.html">Every Geospatial Professional Needs a Portfolio</a></p>
-            
-            <div class="post-categories listing-categories">
-                
-                <div class="post-category listing-category" onclick="window.quartoListingCategory('website'); return false;">
-                    website
-                </div>
-                
-                <div class="post-category listing-category" onclick="window.quartoListingCategory('academia'); return false;">
-                    academia
-                </div>
-                
-            </div>
-            
-            <p class="description listing-description">Unlock your geospatial superpowers with a professional portfolio – your ticket to standing out, shining bright, and soaring in your career!</p>
-        </div>
-        
-        <div class="thumbnail">
-            <img src="../blog/1-geospatial-professionals-need-a-portfolio/thumbnail.png" alt="Every Geospatial Professional Needs a Portfolio" title="Every Geospatial Professional Needs a Portfolio">
-        </div>
-        
-    </div>
-    
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
+<div id="posts_2019">
+
 </div>
 <hr>
 <p>The blog post listing is based on the website source of <a href="https://www.andrewheiss.com/" target="_blank">Andrew Heiss</a>, who has put together an incredible listing template under CC-BY-SA 4.0 license. Thank you!</p>
