@@ -48,7 +48,7 @@ listing:
 <h2>Advocacy and Policy</h2> 
 <p>Advocating for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.</p>
 
-
+</br></br></br></br></br></br>
 <b><h1><span style="color:#00A9A3">Get Involved</h1></span></b>
 <p>Join the <b><span style="color:#00A9A3">geo:truth</span></b> community (or 'tribe' as we say) in our mission to build a healthier, more equitable world!</p>
 <p>Whether you're a researcher, practitioner, advocate, or concerned citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come.</p>
@@ -84,13 +84,13 @@ listing:
 
 </p>
 
-## What We Are Up To:
+# What We Are Up To
 
 -   **June 3, 2024**: We've made updates to our <a href="www.linkedin.com/company/geo-truth" target="_blank" style="color: #00A9A3;">LinkedIn</a> page! Check it out!
 
 -   **June 9, 2024:** We've made updates to our <a href="projects/index.qmd" target="_blank" style="color: #00A9A3;">Projects</a> page! Check it out!
 
-    <!--#{{< video https://www.youtube.com/embed/WIigoUaqy9c title="Meta-Uncertainty in Bayesian Model Comparison (AISTATS 2023)" aspect-ratio="16x9" >}}   -->
+-   **June 14, 2014:** We're officially incorporated as a non-profit!
 
 <p>
 
