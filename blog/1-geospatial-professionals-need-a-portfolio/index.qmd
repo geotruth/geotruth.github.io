@@ -1,7 +1,7 @@
 ---
 title: "Every Geospatial Professional Needs a Portfolio"
 description: 'Unlock your geospatial superpowers with a professional portfolio – your ticket to standing out, shining bright, and soaring in your career!'
-date: 08-01-2019
+date: 08-01-2023
 categories: 
   - website
   - academia
