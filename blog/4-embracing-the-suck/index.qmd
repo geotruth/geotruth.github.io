@@ -23,17 +23,7 @@ resources:
   - "thumbnail.png"
 ---
 
-# **Embracing the Suck: How Failure Fuels Growth in Geospatial**  {{<="" fa="" brands="" r-project="" >=""}
-
-{{< fa brands r-project >}}
-
-# 
-
-{{< fa brands r-project >}}
-
-# 
-
-#  **Programming**
+# **Embracing the Suck: How Failure Fuels Growth in Geospatial & {{< fa brands r-project >}} Programming**
 
 Welcome to geo:truth's exploration into the journey of mastering geospatial programming with R—a path paved with challenges, setbacks, and most importantly, growth.
 If you're a new professional diving into the world of geospatial analysis and R programming, it's vital to understand that embracing failure is not just okay but essential for achieving mastery.
@@ -56,7 +46,7 @@ Each failure teaches perseverance and strengthens your resolve to keep pushing f
 
 ## **Iterative Improvement**
 
-# Iteration is key to mastery. By allowing yourself to fail, you open the door to iterative improvement. Refine your code, analyze what went wrong, and implement solutions. This process not only improves your technical skills but also enhances your ability to think critically and creatively in solving geospatial problems.
+Iteration is key to mastery. By allowing yourself to fail, you open the door to iterative improvement. Refine your code, analyze what went wrong, and implement solutions. This process not only improves your technical skills but also enhances your ability to think critically and creatively in solving geospatial problems.
 
 # The Values of Failing Forward
 
@@ -95,18 +85,18 @@ It reinforces the idea that initial failures and struggles are not setbacks but 
 
 Break down your learning journey into achievable milestones. Celebrate small victories and learn from setbacks along the way.
 
-### **Continuous Learning:**
+### **Continuous Learning**
 
 Stay curious and stay updated with the latest advancements in R programming. Attend webinars, enroll in online courses, and participate in hands-on projects to deepen your skills.
 
-### **Reflect and Adapt:**
+### **Reflect and Adapt**
 
-Regularly reflect on your progress.
-What worked well?
-What could be improved?
+Regularly reflect on your progress. \
+What worked well? \
+What could be improved? \
 Adapt your approach based on insights gained from both successes and failures.
 
-### Start Embracing the Suck with geo:truth
+### Start Embracing the Suck with geo:truth!
 
 At geo:truth, we believe in the transformative power of embracing failure as a catalyst for growth.
 
