@@ -27,87 +27,55 @@ listing:
 <link rel="stylesheet" href="html/landing_page_styles.css">
 
 <div class="gradient_bg">
-    <div class="hero section_padding">
-        <div class="hero_content">
-            <h1>Hi, we're <span class="gradient_text">geo:truth</span>.</h1></span>
-            <p> A non-profit research project focused on uncovering health disparities and global challenges using geography.
+<div class="hero section_padding">
+<div class="hero_content">
+<h1>Hi, we're <span class="gradient_text">geo:truth</span>.</h1>
+<p>A non-profit research organization focused on uncovering health disparities and global challenges using geography.</p>
 
-<p>We believe that the <span style='text-decoration: underline;text-decoration-color: #00A9A3;'>truth is worth discovering.</span>
-            </p>
-            <p>
-
+<p>We believe that the <span style='text-decoration: underline;text-decoration-color: #00A9A3;'>truth is worth discovering.</span></p>
+</br></br></br></br></br></br>
 
 <span class="gradient_text"><h1>What We Do</h1></span>
-<p>
+<h2>Geospatial Analysis + Epidemiological Research</h2> 
 
-1.   <b>Geospatial Analysis:</b> mapping and spatial analysis techniques to identify health disparities and high-risk areas, and inform targeted interventions.
-<p>
-2.   <b>Epidemiological Research:</b> rigorous epidemiological studies to uncover the root causes of health inequities and develop evidence-based strategies for prevention and intervention.
-<p>
-3.   <b>Capacity Building:</b> training and technical assistance to <del>empower</del> no, <span style="color:#00A9A3;">give power back </span>to local organizations and healthcare providers with the tools and knowledge to address health disparities in their communities.
-<p>
-4.   <b>Advocacy and Policy:</b> advocate for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.
+<p>Utilizing mapping and spatial analysis techniques to identify health disparities and high-risk areas, informing targeted interventions.</p>
+<p>Conducting rigorous epidemiological studies to uncover the root causes of health inequities and develop evidence-based strategies for prevention and intervention.</p>
 
 
+<h2>Capacity Building</h2> 
+<p>Providing training and technical assistance to <span style="color:#00A9A3;">give power back</span> to local organizations and healthcare providers with the tools and knowledge to address health disparities in their communities.</p>
+
+<h2>Advocacy and Policy</h2> 
+<p>Advocating for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.</p>
 
 
+<b><h1><span style="color:#00A9A3">Get Involved</h1></span></b>
+<p>Join the <b><span style="color:#00A9A3">geo:truth</span></b> community (or 'tribe' as we say) in our mission to build a healthier, more equitable world!</p>
+<p>Whether you're a researcher, practitioner, advocate, or concerned citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come.</p>
 
-<p></p>
-  <b><h1><span style="color:#00A9A3">Get Involved</h1></span></b>
+<p>Subscribe here to get updates about our work:</p>
 
-
-<p>Join the <b><span style="color:#00A9A3">geo:truth</span></b> tribe in our mission to build a healthier, more equitable world!</p>
-
-Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come. Check out what we're up to (scroll below)!
-
-
-<p>
-<span style="margin: 0px">Want to collaborate with us? Have an idea, question or concern?</p>
-Drop us a line or three: <a href="mailto:admin@geotruth.org"><span style='text-decoration: underline;
-  text-decoration-color: #00A9A3;'>admin@geotruth.org</span></a> 
-  <style="color:#00A9A3"> </span>
-  </br> 
-  
-<p> 
-  You can also subscribe here to get updates about our work (it's free!)</p>
-
-<div class="grid">
-  <div class=".d-none .d-md-block g-col-md-1"></div>
-  <div class="g-col-12 g-col-md-10">
-    <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
-    <script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
-    
-    </iframe>
-  </div>
-  <div class=".d-none .d-md-block g-col-md-1"></div>
-</div>
+<iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px"></iframe>
+<script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
 
 
+<span style="color:#00A9A3"><h3><a href ="/support/index.html">More Ways to Get Involved →</a></h3></span>
 
 
 </div>
 <div class="hero_image">
-<img src="/img/g.gif"/> </div>
-
-<div id="dot_container">
-</div>
-</div>
-    <svg id="bottom_wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 250">
-        <path
-                fill="#00A9A3"
-                fill-opacity="1"
-                d="M0,128L48,117.3C96,107,192,85,288,80C384,75,480,85,576,112C672,139,768,181,864,181.3C960,181,1056,139,1152,122.7C1248,107,1344,117,1392,122.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"
-        ></path>
-    </svg>
- 
-    
-
+<img src="/img/g.gif"/> 
 </div>
 
+<div id="dot_container"></div>
+</div>
+<svg id="bottom_wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 250">
+<path fill="#00A9A3" fill-opacity="1" d="M0,128L48,117.3C96,107,192,85,288,80C384,75,480,85,576,112C672,139,768,181,864,181.3C960,181,1056,139,1152,122.7C1248,107,1344,117,1392,122.7L1440,128L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
+</svg>
+</div>
 
 <script src="html/jquery.min.js"></script>
 <script src="html/TweenMax.min.js"></script>
-<!--<script src="html/parallax.js"></script>-->
 ```
 :::
 
