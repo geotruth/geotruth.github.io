@@ -53,14 +53,14 @@
     "href": "blog/index.html#section",
     "title": "Blog",
     "section": "2024",
-    "text": "2024\n\n\n    \n    \n                  \n            April 13, 2024\n        \n        \n            Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming\n            \n            \n                \n                \n                    R programming\n                \n                \n                \n                    failure\n                \n                \n                \n                    growth\n                \n                \n                \n                    resilience\n                \n                \n                \n                    technology\n                \n                \n            \n            \n            The process of becoming good at something involves sucking at it first.\n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+    "text": "2024\n\n\n    \n    \n                  \n            April 13, 2024\n        \n        \n            Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming\n            \n            \n                \n                \n                    R programming\n                \n                \n                \n                    GIS\n                \n                \n                \n                    failure\n                \n                \n                \n                    growth\n                \n                \n                \n                    resilience\n                \n                \n                \n                    technology\n                \n                \n            \n            \n            The process of becoming good at something involves sucking at it first.\n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
   },
   {
     "objectID": "blog/index.html#section-1",
     "href": "blog/index.html#section-1",
     "title": "Blog",
     "section": "2023",
-    "text": "2023\n\n\n    \n    \n                  \n            December 13, 2023\n        \n        \n            A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals\n            \n            \n                \n                \n                    geospatial\n                \n                \n                \n                    epidemiology\n                \n                \n                \n                    open data\n                \n                \n            \n            \n            A practical and comprehensive introduction to finding geospatial and health data, tailored for new professionals entering the field of geospatial epidemiology.\n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            January 1, 2023\n        \n        \n            Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ\n            \n            \n                \n                \n                    emotional intelligence\n                \n                \n                \n                    workplace\n                \n                \n                \n                    women of colour\n                \n                \n            \n            \n            How women of color can navigating team dynamics by providing practical strategies for asserting themselves and handling challenges like idea theft with confidence, grace, and emotional intelligence.\n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
+    "text": "2023\n\n\n    \n    \n                  \n            December 13, 2023\n        \n        \n            A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals\n            \n            \n                \n                \n                    geospatial\n                \n                \n                \n                    epidemiology\n                \n                \n                \n                    open data\n                \n                \n            \n            \n            A practical and comprehensive introduction to finding geospatial and health data, tailored for new professionals entering the field of geospatial epidemiology.\n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            August 1, 2023\n        \n        \n            Every Geospatial Professional Needs a Portfolio\n            \n            \n                \n                \n                    website\n                \n                \n                \n                    academia\n                \n                \n            \n            \n            Unlock your geospatial superpowers with a professional portfolio – your ticket to standing out, shining bright, and soaring in your career!\n        \n        \n        \n            \n        \n        \n    \n    \n    \n                  \n            January 1, 2023\n        \n        \n            Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ\n            \n            \n                \n                \n                    emotional intelligence\n                \n                \n                \n                    workplace\n                \n                \n                \n                    women of colour\n                \n                \n            \n            \n            How women of color can navigating team dynamics by providing practical strategies for asserting themselves and handling challenges like idea theft with confidence, grace, and emotional intelligence.\n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items"
   },
   {
     "objectID": "blog/index.html#section-2",
@@ -88,7 +88,7 @@
     "href": "blog/index.html#section-5",
     "title": "Blog",
     "section": "2019",
-    "text": "2019\n\n\n    \n    \n                  \n            August 1, 2019\n        \n        \n            Every Geospatial Professional Needs a Portfolio\n            \n            \n                \n                \n                    website\n                \n                \n                \n                    academia\n                \n                \n            \n            \n            Unlock your geospatial superpowers with a professional portfolio – your ticket to standing out, shining bright, and soaring in your career!\n        \n        \n        \n            \n        \n        \n    \n    \n\n\nNo matching items\n\n\n\nThe blog post listing is based on the website source of Andrew Heiss, who has put together an incredible listing template under CC-BY-SA 4.0 license. Thank you!"
+    "text": "2019\n\n\n\n\nThe blog post listing is based on the website source of Andrew Heiss, who has put together an incredible listing template under CC-BY-SA 4.0 license. Thank you!"
   },
   {
     "objectID": "blog/1-geospatial-professionals-need-a-portfolio/index.html",
@@ -175,102 +175,67 @@
     "text": "A non-profit research organization focused on uncovering health disparities and global challenges using geography.\n\nWe believe that the truth is worth discovering.\n\n\n\n \n\nUtilizing mapping and spatial analysis techniques to identify health disparities and high-risk areas, informing targeted interventions.\nConducting rigorous epidemiological studies to uncover the root causes of health inequities and develop evidence-based strategies for prevention and intervention.\n\n\n \nProviding training and technical assistance to give power back to local organizations and healthcare providers with the tools and knowledge to address health disparities in their communities.\n\n \nAdvocating for policies and initiatives that promote health equity and ensure that vulnerable populations have access to the resources and support they need to thrive.\n\n\n\nJoin the geo:truth community (or 'tribe' as we say) in our mission to build a healthier, more equitable world!\nWhether you're a researcher, practitioner, advocate, or concerned citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come.\n\nSubscribe here to get updates about our work:"
   },
   {
-    "objectID": "index.html#what-we-are-up-to",
-    "href": "index.html#what-we-are-up-to",
-    "title": "Hi, we're geo:truth.",
-    "section": "What We Are Up To:",
-    "text": "What We Are Up To:\n\nJune 3, 2024: We’ve made updates to our LinkedIn page! Check it out!\nJune 9, 2024: We’ve made updates to our Projects page! Check it out!"
-  },
-  {
     "objectID": "index.html#featured-blog-posts",
     "href": "index.html#featured-blog-posts",
     "title": "Hi, we're geo:truth.",
     "section": "Featured Blog Posts",
-    "text": "Featured Blog Posts\n\n\n\n\n\n\n\n\n\n\nEmbracing the Suck: How Failure Fuels Growth in Geospatial R Programming\n\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStanding Strong: Women of Color Navigating Team Dynamics with Sass and EQ\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvery Geospatial Professional Needs a Portfolio\n\n\n\nAug 1, 2019\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour browser does not support the audio tag."
-  },
-  {
-    "objectID": "blog/4-embracing-the-suck/index.html",
-    "href": "blog/4-embracing-the-suck/index.html",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "",
-    "text": "GeospatialProgramming #FailureIsLearning #GrowthMindset #DataScience #ProgrammingJourney #GeoTruthTips #ResilienceInTech"
+    "text": "Featured Blog Posts\n\n\n\n\n\n\n\n\n\n\nEmbracing the Suck: How Failure Fuels Growth in Geospatial &  Programming\n\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEvery Geospatial Professional Needs a Portfolio\n\n\n\nAug 1, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStanding Strong: Women of Color Navigating Team Dynamics with Sass and EQ\n\n\n\nJan 1, 2023\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYour browser does not support the audio tag."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#learning-curve",
     "href": "blog/4-embracing-the-suck/index.html#learning-curve",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "Learning Curve:",
-    "text": "Learning Curve:\nWhen you’re new to geospatial R programming, expect a steep learning curve. You may struggle with syntax errors, debugging issues, or understanding complex algorithms. Remember, every error and every failed attempt is a learning opportunity. It’s through these challenges that you develop problem-solving skills and deepen your understanding of programming concepts."
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
+    "section": "Learning Curve",
+    "text": "Learning Curve\nWhen you’re new to geospatial R programming, expect a steep learning curve. You may struggle with syntax errors, debugging issues, or understanding complex algorithms. Remember, every error and every failed attempt is a learning opportunity. It’s through these challenges that you develop problem-solving skills and deepen your understanding of programming concepts."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#building-resilience",
     "href": "blog/4-embracing-the-suck/index.html#building-resilience",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "Building Resilience:",
-    "text": "Building Resilience:\nFailing at tasks cultivates resilience—the ability to bounce back stronger after setbacks. In geospatial R programming, you’ll encounter projects that don’t go as planned or code that doesn’t work initially. Each failure teaches perseverance and strengthens your resolve to keep pushing forward until you achieve success."
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
+    "section": "Building Resilience",
+    "text": "Building Resilience\nFailing at tasks cultivates resilience—the ability to bounce back stronger after setbacks. In geospatial R programming, you’ll encounter projects that don’t go as planned or code that doesn’t work initially. Each failure teaches perseverance and strengthens your resolve to keep pushing forward until you achieve success."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#iterative-improvement",
     "href": "blog/4-embracing-the-suck/index.html#iterative-improvement",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "Iterative Improvement:",
-    "text": "Iterative Improvement:\nIteration is key to mastery. By allowing yourself to fail, you open the door to iterative improvement. Refine your code, analyze what went wrong, and implement solutions. This process not only improves your technical skills but also enhances your ability to think critically and creatively in solving geospatial problems."
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
+    "section": "Iterative Improvement",
+    "text": "Iterative Improvement\nIteration is key to mastery. By allowing yourself to fail, you open the door to iterative improvement. Refine your code, analyze what went wrong, and implement solutions. This process not only improves your technical skills but also enhances your ability to think critically and creatively in solving geospatial problems."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#growth-mindset",
     "href": "blog/4-embracing-the-suck/index.html#growth-mindset",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
     "section": "Growth Mindset",
     "text": "Growth Mindset\nAdopting a growth mindset means viewing challenges as opportunities for growth rather than obstacles. Embrace mistakes as stepping stones towards improvement. As a geospatial professional, your willingness to confront failure head-on will accelerate your learning and development."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#innovation-and-creativity",
     "href": "blog/4-embracing-the-suck/index.html#innovation-and-creativity",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
     "section": "Innovation and Creativity",
     "text": "Innovation and Creativity\nFailure fosters innovation. When traditional methods fall short, you’re prompted to explore alternative approaches and think outside the box. This innovative spirit is essential in geospatial R programming, where finding novel solutions to complex spatial problems can lead to groundbreaking discoveries."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#community-and-collaboration",
     "href": "blog/4-embracing-the-suck/index.html#community-and-collaboration",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
     "section": "Community and Collaboration",
     "text": "Community and Collaboration\nDon’t hesitate to seek help from peers and mentors. In the geospatial community, sharing failures and lessons learned fosters a culture of collaboration and mutual support. Engage in forums, attend workshops, and participate in hackathons to leverage collective wisdom and accelerate your growth as an R programmer."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#hadley-wickhams-insight",
     "href": "blog/4-embracing-the-suck/index.html#hadley-wickhams-insight",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
     "section": "Hadley Wickham’s Insight",
     "text": "Hadley Wickham’s Insight\nHadley Wickham, a prominent figure in the field of data science and R programming, aptly summarized the importance of embracing suckiness in the learning process:\n\n“There is no way of knowing nothing about a subject to knowing something about a subject without going through a period of much frustration and suckiness.\n\n\nPush through. You’ll suck less.”\nThis quote resonates deeply with the journey of mastering geospatial (specifically R) programming. It reinforces the idea that initial failures and struggles are not setbacks but essential steps towards achieving proficiency and expertise."
   },
   {
     "objectID": "blog/4-embracing-the-suck/index.html#practical-steps-for-growth",
     "href": "blog/4-embracing-the-suck/index.html#practical-steps-for-growth",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
+    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial &  Programming",
     "section": "Practical Steps for Growth",
-    "text": "Practical Steps for Growth"
-  },
-  {
-    "objectID": "blog/4-embracing-the-suck/index.html#set-realistic-goals",
-    "href": "blog/4-embracing-the-suck/index.html#set-realistic-goals",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "Set Realistic Goals",
-    "text": "Set Realistic Goals\nBreak down your learning journey into achievable milestones. Celebrate small victories and learn from setbacks along the way."
-  },
-  {
-    "objectID": "blog/4-embracing-the-suck/index.html#continuous-learning",
-    "href": "blog/4-embracing-the-suck/index.html#continuous-learning",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "Continuous Learning:",
-    "text": "Continuous Learning:\nStay curious and stay updated with the latest advancements in R programming. Attend webinars, enroll in online courses, and participate in hands-on projects to deepen your skills."
-  },
-  {
-    "objectID": "blog/4-embracing-the-suck/index.html#reflect-and-adapt",
-    "href": "blog/4-embracing-the-suck/index.html#reflect-and-adapt",
-    "title": "Embracing the Suck: How Failure Fuels Growth in Geospatial R Programming",
-    "section": "Reflect and Adapt:",
-    "text": "Reflect and Adapt:\nRegularly reflect on your progress. What worked well? What could be improved? Adapt your approach based on insights gained from both successes and failures."
+    "text": "Practical Steps for Growth\n\nSet Realistic Goals\nBreak down your learning journey into achievable milestones. Celebrate small victories and learn from setbacks along the way.\n\n\nContinuous Learning\nStay curious and stay updated with the latest advancements in R programming. Attend webinars, enroll in online courses, and participate in hands-on projects to deepen your skills.\n\n\nReflect and Adapt\nRegularly reflect on your progress.\nWhat worked well?\nWhat could be improved?\nAdapt your approach based on insights gained from both successes and failures.\n\n\nStart Embracing the Suck with geo:truth!\nAt geo:truth, we believe in the transformative power of embracing failure as a catalyst for growth.\nAs you embark on your journey to becoming a proficient geospatial R programmer, remember that every stumble is a step forward. Embrace the suck, learn from your experiences, and trust in your ability to overcome challenges. Together, let’s harness the resilience gained from failure to drive innovation and make a meaningful impact in geospatial analysis and R programming.\nReady to dive in and conquer the learning curve? Embrace the suck and watch yourself grow into a skilled geospatial professional!"
   },
   {
     "objectID": "blog/3-beginner-guide-find-GIS-health-data/index.html#government-agencies",

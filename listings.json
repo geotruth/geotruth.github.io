@@ -2,8 +2,8 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/1-geospatial-professionals-need-a-portfolio/index.html",
       "/blog/3-beginner-guide-find-GIS-health-data/index.html",
+      "/blog/1-geospatial-professionals-need-a-portfolio/index.html",
       "/blog/2-women-of-colour-speak-assertive/index.html",
       "/blog/4-embracing-the-suck/index.html"
     ]
@@ -12,8 +12,8 @@
     "listing": "/index.html",
     "items": [
       "/blog/4-embracing-the-suck/index.html",
-      "/blog/2-women-of-colour-speak-assertive/index.html",
-      "/blog/1-geospatial-professionals-need-a-portfolio/index.html"
+      "/blog/1-geospatial-professionals-need-a-portfolio/index.html",
+      "/blog/2-women-of-colour-speak-assertive/index.html"
     ]
   }
 ]
