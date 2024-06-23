@@ -44,7 +44,6 @@ Here's a list of our selected talks and publications where our team is involved.
 </div>
 </p>
 ```
-
 # Wastewater-based Epidemiology
 
 ##### Publications

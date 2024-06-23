@@ -7,7 +7,7 @@ page-layout: full
 
 [**You're here!**]{style="color:#00A9A3;"} On this page, we present an in-depth exploration of the projects and research initiatives that geo:truth team has meticulously crafted and shaped across their entire project life cycle. If you would like to know more or are interested in collaborating, guiding or providing us feedback, we welcome and appreciate it.
 
-Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk! Send us an email, let us know how we are doing: [admin\@geotruth.org](mailto: admin@geotruth.org)!
+Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk! Send us an email, let us know how we are doing: [admin\@geotruth.org](mailto:%20admin@geotruth.org)!
 
 \
 
