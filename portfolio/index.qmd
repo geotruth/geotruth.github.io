@@ -11,7 +11,7 @@ portfolio:
 
 ## ![](/img/rashaheadshot.jpg){width="190"} [{{< fa brands github >}}](https:/github.com/relnimeiry) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rashaelnimeiry) \| [{{< fa envelope >}}](mailto:%20admin@geotruth.org) \| [{{< fa brands orcid >}}](https://orcid.org/0000-0001-7917-2603)
 
-**Executive Director and Founder of <span style="color:#00A9A3;">geo:truth</span>\
+**Executive Director of <span style="color:#00A9A3;">geo:truth</span>\
 Geospatial Epidemiologist**
 
 \
@@ -105,6 +105,16 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
 # Projects
 
 Here is a select projects, where I have developed and or helped shape a significant part of the project lifecycle.
+
+
+## Armed Conflict in Sudan
+
+
+## Tobacco Smoking in Egypt
+
+
+## Black Women's Health in United States
+
 
 ## Dashboards
 

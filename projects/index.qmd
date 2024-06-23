@@ -5,10 +5,32 @@ toc: true
 page-layout: full
 ---
 
-[**You're here!**]{style="color:#00A9A3;"} On this page, we present an in-depth exploration of the projects and research initiatives that geo:truth team has meticulously crafted and shaped across their entire project life cycle. If you would like to know more or are interested in collaborating, guiding or providing us feedback, we welcome and appreciate it. Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk!
+[**You're here!**]{style="color:#00A9A3;"} On this page, we present an in-depth exploration of the projects and research initiatives that geo:truth team has meticulously crafted and shaped across their entire project life cycle. If you would like to know more or are interested in collaborating, guiding or providing us feedback, we welcome and appreciate it.
+
+Your feedback and support helps motivate us and lets us know that our work is resonating with like-minded folk! Send us an email, let us know how we are doing: [admin\@geotruth.org](mailto: admin@geotruth.org)!
+
+\
+
+------------------------------------------------------------------------
+
+\
+
+## ([*ongoing*]{style="color:#00A9A3;"}) **Leveraging Geospatial Analysis to Uncover Health Disparities in Egypt: Smoking Risks Among Youth to Middle-Aged Populations**
+
+[**Background**]{style="color:#00A9A3;"} \| Smoking poses a significant health risk globally, and Egypt is no exception. The prevalence of smoking among youth to middle-aged populations is a growing concern, influenced by socio-economic, cultural, and environmental factors.
+
+[**Purpose**]{style="color:#00A9A3;"}
+
+-   Identify geographic hotspots of smoking prevalence among youth to middle-aged populations in Egypt.
+
+-   Examine the socio-economic, cultural, and environmental factors contributing to smoking risks.
+
+-   Inform targeted public health interventions to reduce smoking rates and associated health disparities.
 
 \
 \
+
+------------------------------------------------------------------------
 
 ## ([*ongoing*]{style="color:#00A9A3;"}) **Mapping Health Disparities Among Black Women in the United States: A Geospatial Epidemiology Approach**
 
