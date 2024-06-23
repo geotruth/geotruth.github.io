@@ -32,9 +32,18 @@ listing:
 <h1>Hi, we're <span class="gradient_text">geo:truth</span>.</h1>
 <p>A non-profit research organization focused on uncovering health disparities and global challenges using geography.</p>
 
-<p>We believe that the <span style='text-decoration: underline;text-decoration-color: #00A9A3;'>truth is worth discovering.</span></p>
-</br></br></br></br></br></br>
 
+
+
+<p> We are on a <span style="color:#00A9A3">mission</span> to use geography and data to uncover health disparities and drive positive change globally.</p>
+
+<p>We <span style="color:#00A9A3">envision</span> a world where everyone has equal access to health and well-being regardless of zipcode.</p>
+
+<p>We <span style="color:#00A9A3">value</span> <b>equity</b>, <b>innovation</b>, <b>collaboration</b>, <b>transparency</b>, <b>empowerment</b>. </p>
+
+<p>We <span style="color:#00A9A3">believe</span> that the <span style='text-decoration: underline;text-decoration-color: #00A9A3;'>truth is worth discovering.</span></p>
+
+</br></br></br></br></br></br>
 <span class="gradient_text"><h1>What We Do</h1></span>
 <h2>Geospatial Analysis + Epidemiological Research</h2> 
 
