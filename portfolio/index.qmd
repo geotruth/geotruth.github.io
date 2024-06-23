@@ -1,0 +1,158 @@
+---
+title: '</br>Rasha Elnimeiry'
+comments: false
+toc: true
+page-layout: full
+portfolio:
+  pdf: 
+    - "/portfolio/nd-dental-pain-management.pdf"
+    - "/portfolio/structured-ethical-review-for-wastewater.pdf"
+---
+
+## ![](/img/rashaheadshot.jpg){width="190"} [{{< fa brands github >}}](https:/github.com/relnimeiry) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rashaelnimeiry) \| [{{< fa envelope >}}](mailto:%20admin@geotruth.org) \| [{{< fa brands orcid >}}](https://orcid.org/0000-0001-7917-2603)
+
+**Executive Director and Founder of <span style="color:#00A9A3;">geo:truth</span>\
+Geospatial Epidemiologist**
+
+\
+
+## **Education**
+
+Master of Applied Science in Spatial Analysis for Public Health \| Johns Hopkins Bloomberg School of Public Health
+
+Master of Public Health - Specializing: Social and Behavioral Sciences \| Capella University
+
+\
+
+## **Professional Profile**
+
+#### **Public Health/Epidemiology** \| **Geographic Information Systems** \| **R programming** \
+
+-   Geospatial Epidemiologist with 8+ years' experience in public health research and R programming.
+
+-   Expertise in statistical and geospatial analysis using R and creating data visualizations.
+
+-   Proficient in GIS tools for spatial analysis and visualization.
+
+-   Leadership experience in establishing data infrastructure and directing projects during COVID-19.
+
+-   Skilled in managing large population and environmental datasets and developing statistical reports and dashboards.\
+
+\
+
+## **Professional Credibility**
+
+[**Certified in Public Health**](https://api.accredible.com/v1/issuer/credential_redirect?issuer_id=3948&id=17337) by the National Board of Public Health Examiners (NBPHE),\
+ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active since June 2020.
+
+\
+
+## Skills
+
+-   **Languages:** English (native), Arabic (native)
+-   **Technical Skills:** R programming, ArcMap/ArcGIS, SaTScan, GIS tools, statistical analysis
+-   **Soft Skills:** Excellent communication, creative problem-solving, leadership
+
+\
+
+# Presentations
+
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K. (Mar, 2020) **A Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data** \
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee*
+
+-   **Elnimeiry, R.** (January, 2020) **Perinatal Health: Learning from Population Based Surveys** \
+    Presented at *North Dakota Title V| Maternal Child Health Meeting*
+
+-   **Elnimeiry, R.** (Dec 2019) **Results of the Opioid Dental Survey and Utilization of Prescription Drug Monitoring Program** \
+    Presented at *North Dakota Dental Association Mid-Winter Annual Meeting*
+
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K., (Nov 2019) **Syndrome/Case Definition for Traumatic Brain Injury: The Journey From Data Request, Developing Definition, Analysis and Use** \
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee* · Nov 1, 2019
+
+\
+
+## Publications
+
+#### Oral Health Epidemiology
+
+```{=html}
+<p class="text-left">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/nd-dental-pain-management.pdf" target="_blank">
+<i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
+</a>
+<div class="embed-container">
+<iframe src="/portfolio/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
+</iframe>
+</div>
+</p>
+```
+#### Wastewater-based Epidemiology
+
+```{=html}
+<p class="text-left">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/structured-ethical-review-for-wastewater.pdf" target="_blank">
+<i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
+</a>
+<div class="embed-container">
+<iframe src="/portfolio/structured-ethical-review-for-wastewater.pdf#toolbar=0" style="border: 0.5px">
+</iframe>
+</div>
+</p>
+```
+
+\
+
+# Projects
+
+Here is a select projects, where I have developed and or helped shape a significant part of the project lifecycle.
+
+## Dashboards
+
+{{< video /portfolio/oralhealthdashboard.mp4>}}
+
+\
+\
+\
+
+
+# Experience
+
+**Washington State Department of Health**\
+*Geospatial Epidemiologist*\
+Dec 2020 – Feb 2024\
+- Developed infrastructure for Washington’s Wastewater-based Epidemiology Program. - Implemented statistical methodologies to investigate SARS-CoV-2 patterns. - Automated reporting for COVID-19 data requests, reducing manual workload by 35+ hours.
+
+**CDC Foundation – Washington State Department of Health**\
+*R Programmer/Epidemiologist/Data Scientist*\
+Aug 2020 – Dec 2020\
+- Led data analytics for COVID-19, improving data quality and processes.
+
+**geo:truth**\
+*Geospatial Epidemiology Consultant*\
+Aug 2019 – Present\
+- Provided geospatial and epidemiological support to various organizations. 
+- Co-developed the Visibility App for indigenous communities.
+
+**North Dakota Department of Health**\
+*Opioid Surveillance Epidemiologist*\
+Jan 2018 – Jun 2020\
+- Developed COVID-19 disease models and dashboards. 
+- Evaluated and improved syndromic surveillance data.
+
+**Mayo Clinic**\
+*Research Professional*\
+Oct 2017 – Oct 2018\
+- Managed clinical trial data and developed risk maps for cancer burden.
+
+**National Ministry of Health, Sudan**\
+*Health Informatics & GIS Surveillance Officer*\
+May 2015 – Aug 2017\
+- Conducted spatial data analysis and managed health assessment projects.
+
+**Medical Council of Ireland**\
+*Data Research Intern*\
+Jan 2015 – May 2015\
+- Conducted data analysis on wellbeing of medical residents and co-developed key reports for the Medical Council.
+
+
+<!-- [Download PDF](/portfolio/nd-dental-pain-management.pdf) -->

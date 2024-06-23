@@ -10,7 +10,6 @@ page-layout: full
 \
 \
 
-
 ## ([*ongoing*]{style="color:#00A9A3;"}) **Mapping Health Disparities Among Black Women in the United States: A Geospatial Epidemiology Approach**
 
 [**Background**]{style="color:#00A9A3;"} \| Black women in the United States experience significant health disparities influenced by socio-economic, environmental, and healthcare access factors.
