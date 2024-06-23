@@ -58,7 +58,7 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
 # Presentations
 
 -   **Elnimeiry, R.**, Stepanov A., Pinks, K. (Mar, 2020) **A Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data** \
-    Presented at *National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee*
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee Meeting*
 
 -   **Elnimeiry, R.** (January, 2020) **Perinatal Health: Learning from Population Based Surveys** \
     Presented at *North Dakota Title V| Maternal Child Health Meeting*
@@ -67,7 +67,7 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
     Presented at *North Dakota Dental Association Mid-Winter Annual Meeting*
 
 -   **Elnimeiry, R.**, Stepanov A., Pinks, K., (Nov 2019) **Syndrome/Case Definition for Traumatic Brain Injury: The Journey From Data Request, Developing Definition, Analysis and Use** \
-    Presented at *National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee* · Nov 1, 2019
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee Meeting* 
 
 \
 
@@ -120,7 +120,9 @@ Here is a select projects, where I have developed and or helped shape a signific
 **Washington State Department of Health**\
 *Geospatial Epidemiologist*\
 Dec 2020 – Feb 2024\
-- Developed infrastructure for Washington’s Wastewater-based Epidemiology Program. - Implemented statistical methodologies to investigate SARS-CoV-2 patterns. - Automated reporting for COVID-19 data requests, reducing manual workload by 35+ hours.
+- Developed infrastructure for Washington’s Wastewater-based Epidemiology Program. \
+- Implemented statistical methodologies to investigate SARS-CoV-2 patterns. \
+- Automated reporting for COVID-19 data requests, reducing manual workload by 35+ hours.
 
 **CDC Foundation – Washington State Department of Health**\
 *R Programmer/Epidemiologist/Data Scientist*\
@@ -130,13 +132,13 @@ Aug 2020 – Dec 2020\
 **geo:truth**\
 *Geospatial Epidemiology Consultant*\
 Aug 2019 – Present\
-- Provided geospatial and epidemiological support to various organizations. 
+- Provided geospatial and epidemiological support to various organizations. \
 - Co-developed the Visibility App for indigenous communities.
 
 **North Dakota Department of Health**\
 *Opioid Surveillance Epidemiologist*\
 Jan 2018 – Jun 2020\
-- Developed COVID-19 disease models and dashboards. 
+- Developed COVID-19 disease models and dashboards. \
 - Evaluated and improved syndromic surveillance data.
 
 **Mayo Clinic**\

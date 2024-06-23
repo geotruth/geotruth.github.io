@@ -5,11 +5,31 @@ toc-location: right
 page-layout: full
 ---
 
-Here's a list of my selected publications where our team is involved. If available, you'll also find slides, related papers, and recordings. **Bold** font indicates presenter.
+Here's a list of our selected publications where our team is involved. If available, you'll also find slides, related papers, and recordings. **Bold** font indicates team member.
 
-# Traumatic Brain Injury
+# Syndromic Surveillance
 
--   **Elnimeiry, R.**, Stepanov A., Pinks, K. (2020). [Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data](pdf/slides_traumaticbraininjuryDQ.pdf). First presented at the [CDC National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee](https://cdn.ymaws.com/www.cste.org/resource/resmgr/nssp/Traumatic_Brain_Injury_DQ.pdf) meeting. \[Committee Presentation – Spatial Distribution of Chief Compliant Quality across ND\] – March 2020.
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K. (Mar 2020). [Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data](pdf/slides_traumaticbraininjuryDQ.pdf). \
+Presented at the [CDC National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee](https://cdn.ymaws.com/www.cste.org/resource/resmgr/nssp/Traumatic_Brain_Injury_DQ.pdf) meeting. \[Committee Presentation – Spatial Distribution of Chief Compliant Quality across ND\]
+
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K., (Nov 2019) **Syndrome/Case Definition for Traumatic Brain Injury: The Journey From Data Request, Developing Definition, Analysis and Use** \
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee Meeting*
+
+
+# Perinatal Health
+
+-   **Elnimeiry, R.** (January, 2020) **Perinatal Health: Learning from Population Based Surveys** \
+    Presented at *North Dakota Title V| Maternal Child Health Meeting*
+
+
+
+# Opioid - Oral Health Epidemioloy
+
+-   **Elnimeiry, R.** (Dec 2019) **Results of the Opioid Dental Survey and Utilization of Prescription Drug Monitoring Program** \
+    Presented at *North Dakota Dental Association Mid-Winter Annual Meeting*
+
+ 
+
 
 \
 \
