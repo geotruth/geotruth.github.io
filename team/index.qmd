@@ -19,7 +19,7 @@ I am the Executive Director of geo:truth and a geospatial epidemiologist with ex
 
 <h2>Hi, I'm [Zuhur]{.gradient_text}.</h2>
 
-I am the Chief Development Officer at geo:truth and a medical laboratory and epidemiological research scientist. Passionate about health equity, I design and conduct research on health disparities, analyze complex biological data, and collaborate with healthcare providers and community organizations. With a strong background in lab operations and regulatory compliance, I also develop training programs for staff and volunteers. As an analyst at heart and a dedicated team player, I am committed to advancing geo:truth's mission of uncovering and addressing health disparities.
+I am the Director of Research and Analytics of geo:truth and a medical laboratory and epidemiological research scientist. Passionate about health equity, I design and conduct research on health disparities, analyze complex biological data, and collaborate with healthcare providers and community organizations. With a strong background in lab operations and regulatory compliance, I also develop training programs for staff and volunteers. As an analyst at heart and a dedicated team player, I am committed to advancing geo:truth's mission of uncovering and addressing health disparities.
 
 ---
 
@@ -31,7 +31,7 @@ I am the Chief Development Officer at geo:truth and a medical laboratory and epi
 
 <h2>Hi, I'm [Jordan]{.gradient_text}.</h2>
 
-</span> I am a fun person. I am passionate about things that matter. I love horse riding, hiking. I am a python programmer, I mean I am really a plumber. Code plumber. And can patch together some mean, beef automations that solve problems and probably leak more problems down the line.
+</span> I am the Director of Programs and Impact of geo:truth and a trained medical technologist who also passionate about policy and advocacy and systemic change and positive impact. I oversee the development and implementation of research findings aimed at improving health equity through community empowerment and strategic initiatives. I am excited about translating research insights into acttional programs that adress health disparities. 
 
 
 [My portfolio]( )
