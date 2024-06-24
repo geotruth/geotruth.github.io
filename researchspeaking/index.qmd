@@ -35,11 +35,11 @@ Here's a list of our selected talks and publications where our team is involved.
 
 ```{=html}
 <p class="text-left">
-<a class="btn btn-primary btn-lg cv-download" href="/portfolio/nd-dental-pain-management.pdf" target="_blank">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/nd-dental-pain-management.pdf" target="_blank">
 <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
 </a>
 <div class="embed-container">
-<iframe src="/portfolio/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
+<iframe src="/portfolio/rasha/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
 </iframe>
 </div>
 </p>
