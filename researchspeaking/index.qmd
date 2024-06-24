@@ -22,7 +22,7 @@ Here's a list of our selected talks and publications where our team is involved.
 # Perinatal Health
 
 -   **Elnimeiry, R.** (January, 2020) **Perinatal Health: Learning from Population Based Surveys**\
-    Presented at *North Dakota Title V\| Maternal Child Health Meeting*
+    Presented at *North Dakota Title VI | Maternal Child Health Meeting*
 
 \
 
@@ -32,6 +32,7 @@ Here's a list of our selected talks and publications where our team is involved.
     Presented at *North Dakota Dental Association Mid-Winter Annual Meeting*
 
 ##### Publications
+
 
 ```{=html}
 <p class="text-left">
@@ -50,17 +51,20 @@ Here's a list of our selected talks and publications where our team is involved.
 
 ```{=html}
 <p class="text-left">
-<a class="btn btn-primary btn-lg cv-download" href="/portfolio/structured-ethical-review-for-wastewater.pdf" target="_blank">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/structured-ethical-review-for-wastewater.pdf" target="_blank">
 <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
 </a>
 <div class="embed-container">
-<iframe src="/portfolio/structured-ethical-review-for-wastewater.pdf#toolbar=0" style="border: 0.5px">
+<iframe src="/portfolio/rasha/structured-ethical-review-for-wastewater.pdf#toolbar=0" style="border: 0.5px">
 </iframe>
 </div>
 </p>
 ```
+
 \
 \
+
+
 <audio controls autoplay loop>
 
 <source src="/audio/videosudden.mp4" type="audio/mpeg">
