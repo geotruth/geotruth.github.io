@@ -5,8 +5,8 @@ toc: true
 page-layout: full
 portfolio:
   pdf: 
-    - "/portfolio/nd-dental-pain-management.pdf"
-    - "/portfolio/structured-ethical-review-for-wastewater.pdf"
+    - "/portfolio/rasha/nd-dental-pain-management.pdf"
+    - "/portfolio/rasha/structured-ethical-review-for-wastewater.pdf"
 ---
 
 ## ![](/img/rashaheadshot.jpg){width="190"} [{{< fa brands github >}}](https:/github.com/relnimeiry) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rashaelnimeiry) \| [{{< fa envelope >}}](mailto:%20admin@geotruth.org) \| [{{< fa brands orcid >}}](https://orcid.org/0000-0001-7917-2603)
@@ -77,11 +77,11 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
 
 ```{=html}
 <p class="text-left">
-<a class="btn btn-primary btn-lg cv-download" href="/portfolio/nd-dental-pain-management.pdf" target="_blank">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/nd-dental-pain-management.pdf" target="_blank">
 <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
 </a>
 <div class="embed-container">
-<iframe src="/portfolio/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
+<iframe src="/portfolio/rasha/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
 </iframe>
 </div>
 </p>
@@ -90,11 +90,11 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
 
 ```{=html}
 <p class="text-left">
-<a class="btn btn-primary btn-lg cv-download" href="/portfolio/structured-ethical-review-for-wastewater.pdf" target="_blank">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/structured-ethical-review-for-wastewater.pdf" target="_blank">
 <i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
 </a>
 <div class="embed-container">
-<iframe src="/portfolio/structured-ethical-review-for-wastewater.pdf#toolbar=0" style="border: 0.5px">
+<iframe src="/portfolio/rasha/structured-ethical-review-for-wastewater.pdf#toolbar=0" style="border: 0.5px">
 </iframe>
 </div>
 </p>
@@ -118,7 +118,7 @@ Here is a select projects, where I have developed and or helped shape a signific
 
 ## Dashboards
 
-{{< video /portfolio/oralhealthdashboard.mp4>}}
+{{< video /portfolio/rasha/oralhealthdashboard.mp4>}}
 
 \
 \
