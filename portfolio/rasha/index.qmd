@@ -11,22 +11,14 @@ portfolio:
 
 ## ![](/img/rashaheadshot.jpg){width="190"} [{{< fa brands github >}}](https:/github.com/relnimeiry) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rashaelnimeiry) \| [{{< fa envelope >}}](mailto:%20admin@geotruth.org) \| [{{< fa brands orcid >}}](https://orcid.org/0000-0001-7917-2603)
 
-**Executive Director of <span style="color:#00A9A3;">geo:truth</span>\
-Geospatial Epidemiologist**
-
-\
-
-## **Education**
-
-Master of Applied Science in Spatial Analysis for Public Health \| Johns Hopkins Bloomberg School of Public Health
-
-Master of Public Health - Specializing: Social and Behavioral Sciences \| Capella University
+#### **Executive Director of [**geo:truth**](https://geotruth.github.io) + Geospatial Epidemiologist**
 
 \
 
 ## **Professional Profile**
 
-#### **Public Health/Epidemiology** \| **Geographic Information Systems** \| **R programming** \
+**Areas of Speciality\
+***Public Health/Epidemiology* \| *Geographic Information Systems* \| *R programming*
 
 -   Geospatial Epidemiologist with 8+ years' experience in public health research and R programming.
 
@@ -34,11 +26,11 @@ Master of Public Health - Specializing: Social and Behavioral Sciences \| Capell
 
 -   Proficient in GIS tools for spatial analysis and visualization.
 
--   Leadership experience in establishing data infrastructure and directing projects during COVID-19.
+-   Leadership experience in establishing data infrastructure and directing geospatial projects during COVID-19.
 
--   Skilled in managing large population and environmental datasets and developing statistical reports and dashboards.\
+-   Skilled in managing large population and environmental datasets and developing statistical reports and dashboards.
 
-\
+    \
 
 ## **Professional Credibility**
 
@@ -49,44 +41,91 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
 
 ## Skills
 
--   **Languages:** English (native), Arabic (native)
--   **Technical Skills:** R programming, ArcMap/ArcGIS, SaTScan, GIS tools, statistical analysis
--   **Soft Skills:** Excellent communication, creative problem-solving, leadership
+#### **Language**
+
+|             |         |
+|-------------|---------|
+| **English** | Native. |
+| **Arabic**  | Native. |
 
 \
 
-# Presentations
+#### **Technical**
 
--   **Elnimeiry, R.**, Stepanov A., Pinks, K. (Mar, 2020) **A Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data** \
+|                                             |                                                                                                                                                                              |
+|--------------------|----------------------------------------------------|
+| **R Programming**                           | R + Posit (R Studio) for spatial and non-spatial data analysis and visualisation (sf, sp, tmap, leaflet), Quarto for epidemiological reports and websites, automating tasks. |
+| **GIS Tools**                               | ArcGIS + R-ArcGIS bridge for spatial data manipulation, SaTScan for spatiotemporal analysis and cluster detection.                                                           |
+| **Geostatistical + Epidemiologic Analysis** | Point level and area level: spatial-temporal analysis, cluster detection, spatial optimization, spatial autocorrelation, proximity analysis, density analysis.               |
+
+\
+
+#### **Soft**
+
+|                       |                                                                                                               |
+|------------------|------------------------------------------------------|
+| **Connectedness**     | Believe in the larger picture, the unity of humankind and building bridges.                                   |
+| **Learner**           | Drawn to the process of learning and want to continuously improve.                                            |
+| **Individualization** | Sees themes and unique qualities of each person how they can work together.                                   |
+| **Restorative**       | Adept at dealing with problems and good at figuring out what is wrong and resolving it.                       |
+| **Strategic**         | Sorting through the clutter and finding the best route; seeing patterns whereas others simply see complexity. |
+| **Additional Skills** | Excellent communication, creative problem-solving, leadership.                                                |
+
+\
+
+## **Education**
+
+**Master of Applied Science in Spatial Analysis for Public Health\
+***Johns Hopkins Bloomberg School of Public Health*
+
+-   **Capstone Focus:** “Spatial Analysis: Interplay between (Violent) Armed Conflict,  Livelihood, Environmental Factors and Malaria Risk in Sudan.”
+
+**Master of Public Health - Specializing: Social and Behavioral Sciences**\
+*Capella University*
+
+-   **Capstone Focus:** “Utilizing Social Media for Public Health: Reach, Receptivity and Viewer Retention of Intervention Video as an Intervention Tool to Raise Awareness About the Dangers of Hookah, Vaping and E-cigarettes.”
+
+**Bachelor of Science in Health Sciences**\
+*University of Minnesota*
+
+-   **Awards:** Best Quantitative Research Presentation for 2013 Symposium Research, “Do You Get Anxious When I Say ‘Bugün güzel bir gün’ or ‘اليوم يوم جميل?’: Listening to an unfamiliar language and stress—Is there a correlation?”
+
+**Associate in Liberal Arts and Sciences (Post-Secondary Enrollment Option - PSEO)\
+***Rochester Community and Technical College*
+
+-   **Awards:** Phi Theta Kappa Honor Society, Shining Star (outstanding academic performance and good character).\
+
+\
+
+## Memberships
+
+**URISA Vanguard Cabinet**, lead website design and a part of advisory board to engage future leaders of the geospatial community, 2023 - present.
+
+**Council of the State and Territorial Epidemiologists (CSTE),** member collaborate with national and federal colleagues in best practices in epidemiology and syndromic surveillance, conference poster/presentation reviewer, 2019 - present.
+
+**GISCorps,** volunteer map validator map projects related to humanitarian efforts nationally and internationally, 2018 - 2019.
+
+\
+
+## Presentations
+
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K. (Mar, 2020) **A Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data**\
     Presented at *National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee Meeting*
 
--   **Elnimeiry, R.** (January, 2020) **Perinatal Health: Learning from Population Based Surveys** \
-    Presented at *North Dakota Title V| Maternal Child Health Meeting*
+-   **Elnimeiry, R.** (January, 2020) **Perinatal Health: Learning from Population Based Surveys**\
+    Presented at *North Dakota Title V\| Maternal Child Health Meeting*
 
--   **Elnimeiry, R.** (Dec 2019) **Results of the Opioid Dental Survey and Utilization of Prescription Drug Monitoring Program** \
+-   **Elnimeiry, R.** (Dec 2019) **Results of the Opioid Dental Survey and Utilization of Prescription Drug Monitoring Program**\
     Presented at *North Dakota Dental Association Mid-Winter Annual Meeting*
 
--   **Elnimeiry, R.**, Stepanov A., Pinks, K., (Nov 2019) **Syndrome/Case Definition for Traumatic Brain Injury: The Journey From Data Request, Developing Definition, Analysis and Use** \
-    Presented at *National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee Meeting* 
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K., (Nov 2019) **Syndrome/Case Definition for Traumatic Brain Injury: The Journey From Data Request, Developing Definition, Analysis and Use**\
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee Meeting*
 
 \
 
-## Publications
+## Recent Publications
 
-#### Oral Health Epidemiology
-
-```{=html}
-<p class="text-left">
-<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/nd-dental-pain-management.pdf" target="_blank">
-<i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
-</a>
-<div class="embed-container">
-<iframe src="/portfolio/rasha/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
-</iframe>
-</div>
-</p>
-```
-#### Wastewater-based Epidemiology
+#### **Wastewater-based Epidemiology**
 
 ```{=html}
 <p class="text-left">
@@ -99,72 +138,105 @@ ID: [17337](https://cph.nbphe.org/employer_letter/17337), Certified and active s
 </div>
 </p>
 ```
+#### **Oral Health Epidemiology**
 
-\
+```{=html}
+<p class="text-left">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/nd-dental-pain-management.pdf" target="_blank">
+<i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
+</a>
+<div class="embed-container">
+<iframe src="/portfolio/rasha/nd-dental-pain-management.pdf#toolbar=0" style="border: 0.5px">
+</iframe>
+</div>
+</p>
+```
+## Projects
 
-# Projects
+Here is a select projects, where I have developed and or helped shape a significant part of the project life cycle.
 
-Here is a select projects, where I have developed and or helped shape a significant part of the project lifecycle.
+#### **Armed Conflict in Sudan**
 
-
-## Armed Conflict in Sudan
-
-
-## Tobacco Smoking in Egypt
-
-
-## Black Women's Health in United States
-
+*coming soon!*
 
 ## Dashboards
 
-{{< video /portfolio/rasha/oralhealthdashboard.mp4>}}
+**Oral Health Service Diparities Across North Dakota** {{< video /portfolio/rasha/oralhealthdashboard.mp4>}}
 
-\
-\
-\
+## Experience
 
+**geo:truth**\
+*Executive Director*\
+December 2023 – present
 
-# Experience
+-   Lead and direct research projects uncovering health inequities and global challenges using geography.
 
 **Washington State Department of Health**\
 *Geospatial Epidemiologist*\
-Dec 2020 – Feb 2024\
-- Developed infrastructure for Washington’s Wastewater-based Epidemiology Program. \
-- Implemented statistical methodologies to investigate SARS-CoV-2 patterns. \
-- Automated reporting for COVID-19 data requests, reducing manual workload by 35+ hours.
+Dec 2020 – Feb 2024
+
+-   Developed geospatial data and epidemiological reporting infrastructure for first Washington’s Wastewater-based Epidemiology Program.
+
+```{=html}
+<!-- -->
+```
+-   Implemented statistical methodologies to investigate SARS-CoV-2 patterns.
+
+```{=html}
+<!-- -->
+```
+-   Automated reporting for COVID-19 data requests, reducing manual workload by 35+ hours.
 
 **CDC Foundation – Washington State Department of Health**\
 *R Programmer/Epidemiologist/Data Scientist*\
-Aug 2020 – Dec 2020\
-- Led data analytics for COVID-19, improving data quality and processes.
+Aug 2020 – Dec 2020
+
+-   Led data analytics for COVID-19, improving data quality and processes.
 
 **geo:truth**\
 *Geospatial Epidemiology Consultant*\
-Aug 2019 – Present\
-- Provided geospatial and epidemiological support to various organizations. \
-- Co-developed the Visibility App for indigenous communities.
+Aug 2019 – December 2023
+
+-   Provided geospatial and epidemiological support to various organizations.
+
+```{=html}
+<!-- -->
+```
+-   Co-developed the Visibility App for indigenous communities.
 
 **North Dakota Department of Health**\
 *Opioid Surveillance Epidemiologist*\
-Jan 2018 – Jun 2020\
-- Developed COVID-19 disease models and dashboards. \
-- Evaluated and improved syndromic surveillance data.
+Jan 2018 – Jun 2020
+
+-   Developed COVID-19 disease models and GIS dashboards for oral health.
+
+```{=html}
+<!-- -->
+```
+-   Evaluated and improved syndromic surveillance data on traumatic brain injury and oral health.
 
 **Mayo Clinic**\
 *Research Professional*\
-Oct 2017 – Oct 2018\
-- Managed clinical trial data and developed risk maps for cancer burden.
+Oct 2017 – Oct 2018
 
-**National Ministry of Health, Sudan**\
-*Health Informatics & GIS Surveillance Officer*\
-May 2015 – Aug 2017\
-- Conducted spatial data analysis and managed health assessment projects.
+-   Managed clinical trial study data for liver and pancreatic cancer.
+
+**National Ribat University/National Ministry of Health**\
+*Data Analysis Volunteer*\
+May 2015 - August 2017
+
+-   Conducted spatial data analysis for malaria and managed health assessment projects.
 
 **Medical Council of Ireland**\
 *Data Research Intern*\
-Jan 2015 – May 2015\
-- Conducted data analysis on wellbeing of medical residents and co-developed key reports for the Medical Council.
+Jan 2015 – May 2015
 
+-   Analyzed data on wellbeing of medical residents and co-developed key reports for the Medical Council.
+
+**National Ribat University**\
+*Public Health Intern/Data Analysis Volunteer*\
+December 2012 - May 2013
+
+-   Conducted public health needs assessment for Khartoum, Sudan hospitals project for the National Ministry of Health.
 
 <!-- [Download PDF](/portfolio/nd-dental-pain-management.pdf) -->

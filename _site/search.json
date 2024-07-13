@@ -273,32 +273,11 @@
     "text": "Hi, I’m Rasha.\n\nI am the Executive Director of geo:truth and a geospatial epidemiologist with experience in epidemiological research and R programming. I am passionate seeing equitable health for everyone. I specialize in geospatial and statistical analysis, using GIS tools to visualize data and uncover health disparities. At geo:truth, I lead efforts to leverage cutting-edge technology for promoting health equity and informed interventions. In my free time, I combine my love for food and coding by automating my hydroponic garden.\nMy portfolio\n\n\n\nHi, I’m Zuhur.\n\nI am the Director of Research and Analytics of geo:truth and a medical laboratory and epidemiological research scientist. Passionate about health equity, I design and conduct research on health disparities, analyze complex biological data, and collaborate with healthcare providers and community organizations. With a strong background in lab operations and regulatory compliance, I also develop training programs for staff and volunteers. As an analyst at heart and a dedicated team player, I am committed to advancing geo:truth’s mission of uncovering and addressing health disparities.\n\nMy portfolio\n\n\n\nHi, I’m Jordan.\n\n I am the Director of Programs and Impact of geo:truth and a trained medical technologist who also passionate about policy and advocacy and systemic change and positive impact. I oversee the development and implementation of research findings aimed at improving health equity through community empowerment and strategic initiatives. I am excited about translating research insights into acttional programs that adress health disparities.\nMy portfolio\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat We Are Up To:\n\nHIRING: Are you passionate about health equity? We need you!\n\n\n\n\n\nAt geo:truth we are driven by the belief that truth is worth discovering.\n\n\n\nYour browser does not support the audio tag."
   },
   {
-    "objectID": "portfolio/rasha/index.html",
-    "href": "portfolio/rasha/index.html",
-    "title": "Rasha Elnimeiry",
-    "section": "",
-    "text": "Executive Director of geo:truth\nGeospatial Epidemiologist"
-  },
-  {
-    "objectID": "portfolio/rasha/index.html#section",
-    "href": "portfolio/rasha/index.html#section",
-    "title": "Rasha Elnimeiry",
-    "section": "",
-    "text": "Executive Director of geo:truth\nGeospatial Epidemiologist"
-  },
-  {
-    "objectID": "portfolio/rasha/index.html#education",
-    "href": "portfolio/rasha/index.html#education",
-    "title": "Rasha Elnimeiry",
-    "section": "Education",
-    "text": "Education\nMaster of Applied Science in Spatial Analysis for Public Health | Johns Hopkins Bloomberg School of Public Health\nMaster of Public Health - Specializing: Social and Behavioral Sciences | Capella University"
-  },
-  {
     "objectID": "portfolio/rasha/index.html#professional-profile",
     "href": "portfolio/rasha/index.html#professional-profile",
     "title": "Rasha Elnimeiry",
     "section": "Professional Profile",
-    "text": "Professional Profile\n\nPublic Health/Epidemiology | Geographic Information Systems | R programming\n\n\nGeospatial Epidemiologist with 8+ years’ experience in public health research and R programming.\nExpertise in statistical and geospatial analysis using R and creating data visualizations.\nProficient in GIS tools for spatial analysis and visualization.\nLeadership experience in establishing data infrastructure and directing projects during COVID-19.\nSkilled in managing large population and environmental datasets and developing statistical reports and dashboards."
+    "text": "Professional Profile\nAreas of Speciality\nPublic Health/Epidemiology | Geographic Information Systems | R programming\n\nGeospatial Epidemiologist with 8+ years’ experience in public health research and R programming.\nExpertise in statistical and geospatial analysis using R and creating data visualizations.\nProficient in GIS tools for spatial analysis and visualization.\nLeadership experience in establishing data infrastructure and directing geospatial projects during COVID-19.\nSkilled in managing large population and environmental datasets and developing statistical reports and dashboards."
   },
   {
     "objectID": "portfolio/rasha/index.html#professional-credibility",
@@ -312,42 +291,56 @@
     "href": "portfolio/rasha/index.html#skills",
     "title": "Rasha Elnimeiry",
     "section": "Skills",
-    "text": "Skills\n\nLanguages: English (native), Arabic (native)\nTechnical Skills: R programming, ArcMap/ArcGIS, SaTScan, GIS tools, statistical analysis\nSoft Skills: Excellent communication, creative problem-solving, leadership"
+    "text": "Skills\n\nLanguage\n\n\n\nEnglish\nNative.\n\n\nArabic\nNative.\n\n\n\n\n\n\n\nTechnical\n\n\n\n\n\n\n\nR Programming\nR + Posit (R Studio) for spatial and non-spatial data analysis and visualisation (sf, sp, tmap, leaflet), Quarto for epidemiological reports and websites, automating tasks.\n\n\nGIS Tools\nArcGIS + R-ArcGIS bridge for spatial data manipulation, SaTScan for spatiotemporal analysis and cluster detection.\n\n\nGeostatistical + Epidemiologic Analysis\nPoint level and area level: spatial-temporal analysis, cluster detection, spatial optimization, spatial autocorrelation, proximity analysis, density analysis.\n\n\n\n\n\n\n\nSoft\n\n\n\n\n\n\n\nConnectedness\nBelieve in the larger picture, the unity of humankind and building bridges.\n\n\nLearner\nDrawn to the process of learning and want to continuously improve.\n\n\nIndividualization\nSees themes and unique qualities of each person how they can work together.\n\n\nRestorative\nAdept at dealing with problems and good at figuring out what is wrong and resolving it.\n\n\nStrategic\nSorting through the clutter and finding the best route; seeing patterns whereas others simply see complexity.\n\n\nAdditional Skills\nExcellent communication, creative problem-solving, leadership."
   },
   {
-    "objectID": "portfolio/rasha/index.html#publications",
-    "href": "portfolio/rasha/index.html#publications",
+    "objectID": "portfolio/rasha/index.html#education",
+    "href": "portfolio/rasha/index.html#education",
     "title": "Rasha Elnimeiry",
-    "section": "Publications",
-    "text": "Publications\n\nOral Health Epidemiology\n\n\n Download Report\n\n\n\n\n\n\n\n\nWastewater-based Epidemiology\n\n\n Download Report"
+    "section": "Education",
+    "text": "Education\nMaster of Applied Science in Spatial Analysis for Public Health\nJohns Hopkins Bloomberg School of Public Health\n\nCapstone Focus: “Spatial Analysis: Interplay between (Violent) Armed Conflict,  Livelihood, Environmental Factors and Malaria Risk in Sudan.”\n\nMaster of Public Health - Specializing: Social and Behavioral Sciences\nCapella University\n\nCapstone Focus: “Utilizing Social Media for Public Health: Reach, Receptivity and Viewer Retention of Intervention Video as an Intervention Tool to Raise Awareness About the Dangers of Hookah, Vaping and E-cigarettes.”\n\nBachelor of Science in Health Sciences\nUniversity of Minnesota\n\nAwards: Best Quantitative Research Presentation for 2013 Symposium Research, “Do You Get Anxious When I Say ‘Bugün güzel bir gün’ or ‘اليوم يوم جميل?’: Listening to an unfamiliar language and stress—Is there a correlation?”\n\nAssociate in Liberal Arts and Sciences (Post-Secondary Enrollment Option - PSEO)\nRochester Community and Technical College\n\nAwards: Phi Theta Kappa Honor Society, Shining Star (outstanding academic performance and good character)."
   },
   {
-    "objectID": "portfolio/rasha/index.html#armed-conflict-in-sudan",
-    "href": "portfolio/rasha/index.html#armed-conflict-in-sudan",
+    "objectID": "portfolio/rasha/index.html#memberships",
+    "href": "portfolio/rasha/index.html#memberships",
     "title": "Rasha Elnimeiry",
-    "section": "Armed Conflict in Sudan",
-    "text": "Armed Conflict in Sudan"
+    "section": "Memberships",
+    "text": "Memberships\nURISA Vanguard Cabinet, lead website design and a part of advisory board to engage future leaders of the geospatial community, 2023 - present.\nCouncil of the State and Territorial Epidemiologists (CSTE), member collaborate with national and federal colleagues in best practices in epidemiology and syndromic surveillance, conference poster/presentation reviewer, 2019 - present.\nGISCorps, volunteer map validator map projects related to humanitarian efforts nationally and internationally, 2018 - 2019."
   },
   {
-    "objectID": "portfolio/rasha/index.html#tobacco-smoking-in-egypt",
-    "href": "portfolio/rasha/index.html#tobacco-smoking-in-egypt",
+    "objectID": "portfolio/rasha/index.html#presentations",
+    "href": "portfolio/rasha/index.html#presentations",
     "title": "Rasha Elnimeiry",
-    "section": "Tobacco Smoking in Egypt",
-    "text": "Tobacco Smoking in Egypt"
+    "section": "Presentations",
+    "text": "Presentations\n\nElnimeiry, R., Stepanov A., Pinks, K. (Mar, 2020) A Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data\nPresented at National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee Meeting\nElnimeiry, R. (January, 2020) Perinatal Health: Learning from Population Based Surveys\nPresented at North Dakota Title V| Maternal Child Health Meeting\nElnimeiry, R. (Dec 2019) Results of the Opioid Dental Survey and Utilization of Prescription Drug Monitoring Program\nPresented at North Dakota Dental Association Mid-Winter Annual Meeting\nElnimeiry, R., Stepanov A., Pinks, K., (Nov 2019) Syndrome/Case Definition for Traumatic Brain Injury: The Journey From Data Request, Developing Definition, Analysis and Use\nPresented at National Syndromic Surveillance Program, Community of Practice, Syndrome Definition Subcommittee Meeting"
   },
   {
-    "objectID": "portfolio/rasha/index.html#black-womens-health-in-united-states",
-    "href": "portfolio/rasha/index.html#black-womens-health-in-united-states",
+    "objectID": "portfolio/rasha/index.html#recent-publications",
+    "href": "portfolio/rasha/index.html#recent-publications",
     "title": "Rasha Elnimeiry",
-    "section": "Black Women’s Health in United States",
-    "text": "Black Women’s Health in United States"
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\nWastewater-based Epidemiology\n\n\n Download Report\n\n\n\n\n\n\n\n\nOral Health Epidemiology\n\n\n Download Report"
+  },
+  {
+    "objectID": "portfolio/rasha/index.html#projects",
+    "href": "portfolio/rasha/index.html#projects",
+    "title": "Rasha Elnimeiry",
+    "section": "Projects",
+    "text": "Projects\nHere is a select projects, where I have developed and or helped shape a significant part of the project life cycle.\n\nArmed Conflict in Sudan\ncoming soon!"
   },
   {
     "objectID": "portfolio/rasha/index.html#dashboards",
     "href": "portfolio/rasha/index.html#dashboards",
     "title": "Rasha Elnimeiry",
     "section": "Dashboards",
-    "text": "Dashboards"
+    "text": "Dashboards\nOral Health Service Diparities Across North Dakota"
+  },
+  {
+    "objectID": "portfolio/rasha/index.html#experience",
+    "href": "portfolio/rasha/index.html#experience",
+    "title": "Rasha Elnimeiry",
+    "section": "Experience",
+    "text": "Experience\ngeo:truth\nExecutive Director\nDecember 2023 – present\n\nLead and direct research projects uncovering health inequities and global challenges using geography.\n\nWashington State Department of Health\nGeospatial Epidemiologist\nDec 2020 – Feb 2024\n\nDeveloped geospatial data and epidemiological reporting infrastructure for first Washington’s Wastewater-based Epidemiology Program.\n\n\n\nImplemented statistical methodologies to investigate SARS-CoV-2 patterns.\n\n\n\nAutomated reporting for COVID-19 data requests, reducing manual workload by 35+ hours.\n\nCDC Foundation – Washington State Department of Health\nR Programmer/Epidemiologist/Data Scientist\nAug 2020 – Dec 2020\n\nLed data analytics for COVID-19, improving data quality and processes.\n\ngeo:truth\nGeospatial Epidemiology Consultant\nAug 2019 – December 2023\n\nProvided geospatial and epidemiological support to various organizations.\n\n\n\nCo-developed the Visibility App for indigenous communities.\n\nNorth Dakota Department of Health\nOpioid Surveillance Epidemiologist\nJan 2018 – Jun 2020\n\nDeveloped COVID-19 disease models and GIS dashboards for oral health.\n\n\n\nEvaluated and improved syndromic surveillance data on traumatic brain injury and oral health.\n\nMayo Clinic\nResearch Professional\nOct 2017 – Oct 2018\n\nManaged clinical trial study data for liver and pancreatic cancer.\n\nNational Ribat University/National Ministry of Health\nData Analysis Volunteer\nMay 2015 - August 2017\n\nConducted spatial data analysis for malaria and managed health assessment projects.\n\nMedical Council of Ireland\nData Research Intern\nJan 2015 – May 2015\n\nAnalyzed data on wellbeing of medical residents and co-developed key reports for the Medical Council.\n\nNational Ribat University\nPublic Health Intern/Data Analysis Volunteer\nDecember 2012 - May 2013\n\nConducted public health needs assessment for Khartoum, Sudan hospitals project for the National Ministry of Health."
   },
   {
     "objectID": "imprint/index.html",
