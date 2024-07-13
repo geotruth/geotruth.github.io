@@ -161,7 +161,7 @@ Here is a select projects, where I have developed and or helped shape a signific
 
 ## Dashboards
 
-**Oral Health Service Diparities Across North Dakota** {{< video /portfolio/rasha/oralhealthdashboard.mp4>}}
+**Oral Health Service Disparities Across North Dakota** {{< video /portfolio/rasha/oralhealthdashboard.mp4>}}
 
 ## Experience
 
