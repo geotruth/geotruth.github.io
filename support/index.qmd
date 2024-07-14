@@ -53,7 +53,7 @@ Stay up to date with our current work and community (or tribe as we say) and mor
 
 
 ```{=html}
-    <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
+    <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 2px">
     <script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
     
     </iframe>
@@ -62,28 +62,14 @@ Stay up to date with our current work and community (or tribe as we say) and mor
 **Allow Us to Listen to You:** \
 Share your thoughts on how we can improve. Whether it’s a suggestion for a new project, a feature you'd like to see, an idea, thought, suggestion, or a way we can better engage with you, our community/tribe, we’re all ears!
 
-- Take your space and time <a href ="/support/index.html">space and time here →</a>
+- Take your space and time <a href ="/listen/index.html">space and time here →</a>
 
 **Share Your Story:** \
 Do you have a personal story or experience related to health disparities or geospatial technologies? We’d love to feature your story on our blog. Submit your story through the feedback form, and our team will be in touch.
 
 - Submit your story below!
 
-```{=html}
-<form action="https://formspree.io/your-email" method="POST">
-    <label for="name">Your Name</label><br>
-    <input type="text" id="name" name="name"><br><br>
-    
-    <label for="email">Your Email</label><br>
-    <input type="email" id="email" name="_replyto"><br><br>
-    
-    <label for="story">Your Story</label><br>
-    <textarea id="story" name="story" rows="10" cols="50"></textarea><br><br>
-    
-    <input type="submit" value="Share My Story">
-</form>
-```
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrPges0mg-Hy9ZGCq54audATzpVDhXCYKrbjXDiflEzpmckw/viewform?embedded=true" width=100%,  height="300" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 ------------------------------------------------------------------------
 
 
