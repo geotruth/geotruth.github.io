@@ -6,7 +6,6 @@ project:
   
   resources:
     - "img/**"
-    # - "assets/**"
     - "sitemap.xml"
     - "_redirects"
     - "researchspeaking/pdf/**"
@@ -63,11 +62,7 @@ website:
   open-graph: 
     image: "/img/website_thumbnail.png"
     locale: en_US
-    
-  # google-analytics: 
-  #   tracking-id: G-N36VLTEM79
-  #   storage: none
-  
+
   page-footer: 
     left: |
       <span class="faux-block">{{< fa brands creative-commons >}} 2024 geo:truth</span>
@@ -87,7 +82,9 @@ filters:
 
 format:
   html:
-    include-in-header: html/seo.html
+    include-in-header:
+      - html/seo.html
+      - html/google-analytics.html  # Add this line
     fontsize: 1.1em
     theme: 
       - flatly
