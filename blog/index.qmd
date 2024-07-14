@@ -18,6 +18,8 @@ listing:
     contents: 
       - "4-embracing-the-suck/index.qmd"
       - "5-leveraging-geospatial-analysis-health"
+      - "6-geospatial-tech-public-health"
+      - "7-balancing-professional-personal-life"
     sort: "date desc"
     template: ../html/blog/listing.ejs
     categories: true

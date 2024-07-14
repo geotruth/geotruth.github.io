@@ -13,7 +13,7 @@ listing:
   contents:   
     - "blog/4-embracing-the-suck/index.qmd"
     - "blog/1-geospatial-professionals-need-a-portfolio/index.qmd"
-    - "blog/2-women-of-colour-speak-assertive/index.qmd"
+    - "blog/6-geospatial-tech-public-health"
 
   sort: "date desc"
   type: grid
