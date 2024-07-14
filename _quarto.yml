@@ -46,6 +46,8 @@ website:
         href: support/index.qmd
       - text: Blog
         href: blog/index.qmd
+      - text: We Listen
+        href: listen/index.qmd
       - text: Financial Transparency
         href: finance/index.qmd
     right:

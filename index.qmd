@@ -99,8 +99,6 @@ listing:
 
 -   **June 9, 2024:** We've made updates to our <a href="projects/index.qmd" target="_blank" style="color: #00A9A3;">Projects</a> page! Check it out!
 
--   **June 14, 2014:** We're officially incorporated as a non-profit!
-
 <p>
 
 </p>

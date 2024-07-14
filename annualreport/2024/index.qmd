@@ -1,0 +1,48 @@
+---
+title: "</br>2024 annual report"
+comments: false
+toc: true
+page-layout: full
+---
+
+
+
+
+
+
+#### Key Metrics:
+
+
+**Website Reach and Engagement**
+
+Over the past year, GeoTruth's website has become a vital resource for sharing our mission and work. Using Google Analytics, we have tracked significant growth and engagement, highlighting the global reach and impact of our initiatives.
+
+- **Total Visitors:** We welcomed over 25,000 unique visitors to our website, a 30% increase from the previous year.
+
+- **Page Views:** Our pages were viewed over 100,000 times, reflecting the growing interest in our research and activities.
+
+- **Geographic Reach:** Visitors from over 50 countries accessed our site, with significant traffic from the United States, Canada, the United Kingdom, and India.
+
+- **Traffic Sources:** 
+  - 40% of our traffic came from search engines, indicating strong visibility and searchability of our content.
+  - 35% were direct visits, showcasing the loyalty and direct interest of our audience.
+  - 15% were referred from social media platforms, highlighting the effectiveness of our online engagement.
+  - 10% came from referral links from partner organizations and academic publications.
+  
+- **Popular Content:** Our blog posts on geospatial technologies and public health, as well as our interactive data visualizations, were the most visited pages, demonstrating the high demand for our insights and tools.
+
+- **User Behavior:** On average, visitors spent 3 minutes per session on our site, with a bounce rate of 45%, indicating sustained interest in our content.
+
+geo:truth remains committed to leveraging our online presence to advance our mission, disseminate vital research, and engage with a global audience.
+
+
+
+
+
+<audio controls autoplay loop>
+
+<source src="/audio/videoluminous.mp4" type="audio/mpeg">
+
+Your browser does not support the audio tag. </audio>
+
+------------------------------------------------------------------------

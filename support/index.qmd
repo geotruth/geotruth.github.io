@@ -31,21 +31,26 @@ Your support is crucial in helping us achieve our mission. With your contributio
 <!-- </div>  -->
 <!-- <p> -->
 <!-- ``` -->
--   **Volunteer:** Have skills and interests you want to put to good use? Fill out our volunteer form and choose the opportunity that aligns best with you. We’ll reach out ASAP to get you involved. 
+**Volunteer** \
+Have skills and interests you want to put to good use? Fill out our volunteer form and choose the opportunity that aligns best with you. We’ll reach out ASAP to get you involved. 
 
-    -   [Volunteer →](https://geo-truth.beehiiv.com/forms/8ac10818-e8dc-4e28-bc13-e1572996df5d)
+- [Volunteer →](https://geo-truth.beehiiv.com/forms/8ac10818-e8dc-4e28-bc13-e1572996df5d)
 
--   **Collaborate with Us:** Collaborate with geo:truth on research projects, community initiatives, or advocacy campaigns. Together, we can amplify our impact and drive meaningful change.
+**Collaborate with Us** \
+Collaborate with geo:truth on research projects, community initiatives, or advocacy campaigns. Together, we can amplify our impact and drive meaningful change.
 
-    -   Drop us a line or three: <a href="mailto:admin@geotruth.org">[admin\@geotruth.org]{style="text-decoration: underline;   text-decoration-color: #00A9A3;"}</a> </br>
+- Drop us a line or three: <a href="mailto:admin@geotruth.org">[admin\@geotruth.org]{style="text-decoration: underline;   text-decoration-color: #00A9A3;"}</a> </br>
 
--   **Spread the Word:** Help us raise awareness about the importance of health equity and the work we do at geo:truth. Follow us on social media, share our research, and encourage others to join our cause.
+**Spread the Word** \
+Help us raise awareness about the importance of health equity and the work we do at geo:truth. Follow us on social media, share our research, and encourage others to join our cause.
 
-    -   Follow us on<a href="https://www.linkedin.com/company/geo-truth" target="_blank"> LinkedIn →</a>
+- Follow us on<a href="https://www.linkedin.com/company/geo-truth" target="_blank"> LinkedIn →</a>
 
--   **Stay Up to Date:** Stay up to date with our current work and community (or tribe as we say) and more ways to get involved.
+**Stay Up to Date** \
+Stay up to date with our current work and community (or tribe as we say) and more ways to get involved.
 
-    -   Subscribe below!
+- Subscribe below!
+
 
 ```{=html}
     <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
@@ -53,6 +58,36 @@ Your support is crucial in helping us achieve our mission. With your contributio
     
     </iframe>
 ```
+
+**Allow Us to Listen to You:** \
+Share your thoughts on how we can improve. Whether it’s a suggestion for a new project, a feature you'd like to see, an idea, thought, suggestion, or a way we can better engage with you, our community/tribe, we’re all ears!
+
+- Take your space and time <a href ="/support/index.html">space and time here →</a>
+
+**Share Your Story:** \
+Do you have a personal story or experience related to health disparities or geospatial technologies? We’d love to feature your story on our blog. Submit your story through the feedback form, and our team will be in touch.
+
+- Submit your story below!
+
+```{=html}
+<form action="https://formspree.io/your-email" method="POST">
+    <label for="name">Your Name</label><br>
+    <input type="text" id="name" name="name"><br><br>
+    
+    <label for="email">Your Email</label><br>
+    <input type="email" id="email" name="_replyto"><br><br>
+    
+    <label for="story">Your Story</label><br>
+    <textarea id="story" name="story" rows="10" cols="50"></textarea><br><br>
+    
+    <input type="submit" value="Share My Story">
+</form>
+```
+
+------------------------------------------------------------------------
+
+
+
 ## Join Us in Making a Difference
 
 At **geo:truth**, we believe that by working together, we can create a healthier, more equitable world. Your support is essential in helping us uncover the truth and make a lasting impact on global health. Join us in our mission to build a future where health is a fundamental right for all.
