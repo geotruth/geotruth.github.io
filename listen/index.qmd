@@ -13,20 +13,21 @@ At geo:truth, we believe in the power of community and the importance of your vo
 
 Your feedback helps us:
 
--   **Improve Our Research**: Ensure that our studies and projects address real-world needs and challenges.
--   **Enhance Our Tools**: Make our data visualizations, reports, and resources more useful and user-friendly.
--   **Strengthen Our Community**: Foster a collaborative and supportive environment for everyone involved in health equity.
--   **Drive Innovation**: Inspire new ideas and approaches to tackling health disparities and global challenges.
+- **Improve Our Research**: Ensure that our studies and projects address real-world needs and challenges.
+- **Enhance Our Tools**: Make our data visualizations, reports, and resources more useful and user-friendly.
+- **Strengthen Our Community**: Foster a collaborative and supportive environment for everyone involved in health equity.
+- **Drive Innovation**: Inspire new ideas and approaches to tackling health disparities and global challenges.
 
 ------------------------------------------------------------------------
 
 ### Allow Us to Give You the Space You Need
+\
 
-```{=html}
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7eS0sRy0l4uZuwFFLyxT6kQeb327aOV_uaK91ttmDHE4Amw/viewform?embedded=true" width="540" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-```
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf7eS0sRy0l4uZuwFFLyxT6kQeb327aOV_uaK91ttmDHE4Amw/viewform?embedded=true" width="640" height="1472" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
+\
+\
 
 ------------------------------------------------------------------------
 
@@ -34,9 +35,9 @@ Your feedback helps us:
 
 **We Listen** means more than just hearing your feedback. It means taking action based on what you share. Here’s what we promise:
 
--   **Transparency**: We’ll keep you updated on how your feedback is being used and the changes it inspires.
--   **Responsiveness**: We’ll acknowledge your feedback promptly and strive to address your suggestions and concerns.
--   **Collaboration**: We’ll work together to create a better, more impactful geo:truth community.
+- **Transparency**: We’ll keep you updated on how your feedback is being used and the changes it inspires.
+- **Responsiveness**: We’ll acknowledge your feedback promptly and strive to address your suggestions and concerns.
+- **Collaboration**: We’ll work together to create a better, more impactful geo:truth community.
 
 ------------------------------------------------------------------------
 
@@ -44,25 +45,17 @@ Your feedback helps us:
 
 Your voice matters. By sharing your feedback, you’re helping shape the future of geo:truth and our mission to promote health equity. Whether you have a quick suggestion or a detailed idea, we’re excited to hear from you.
 
-
-```{=html}
-<span style="color:#00A9A3"><h4><a href ="/support/index.html">Ways to Get Involved →</a></h4></span>
-```
+<span style="color:#00A9A3"><h4><a href="/support/index.html">Ways to Get Involved →</a></h4></span>
 
 ------------------------------------------------------------------------
-
 
 ### Stay Updated
 
 Sign up for our newsletter to stay informed about the latest research, blog posts, events, and opportunities to get involved. Your feedback and participation are crucial to our ongoing efforts and success.
 
-
-```{=html}
-    <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
-    <script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
-    
-    </iframe>
-```
+<iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=true" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
+<script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
+</iframe>
 
 ------------------------------------------------------------------------
 
@@ -71,9 +64,9 @@ Sign up for our newsletter to stay informed about the latest research, blog post
 Thank you for being an essential part of the geo:truth tribe. Together, we can make a significant impact on global health equity. We look forward to your feedback and collaboration.
 
 <audio controls autoplay loop>
-
-<source src="/audio/videoluminous.mp4" type="audio/mpeg">
-
-Your browser does not support the audio tag. </audio>
+  <source src="/audio/videoluminous.mp4" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
 
 ------------------------------------------------------------------------
+```
