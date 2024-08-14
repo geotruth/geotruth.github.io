@@ -11,7 +11,6 @@ categories:
   - remote work
   - wellbeing
   - innovation
-  - professional development
 image: thumbnail.png
 draft: false
 format:

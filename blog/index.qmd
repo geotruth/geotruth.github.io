@@ -20,6 +20,7 @@ listing:
       - "5-leveraging-geospatial-analysis-health"
       - "6-geospatial-tech-public-health"
       - "7-balancing-professional-personal-life"
+      - "8-intersection-health-equity-geospatial-clinical"
     sort: "date desc"
     template: ../html/blog/listing.ejs
     categories: true
