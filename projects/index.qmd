@@ -15,6 +15,34 @@ Your feedback and support helps motivate us and lets us know that our work is re
 
 \
 
+
+
+## ([*ongoing*]{style="color:#00A9A3;"}) **Support Sudan & Diaspora-Owned Businesses and Projects Dashboard**
+
+[**Background**]{style="color:#00A9A3;"} \| The war in Sudan has profoundly impacted millions, with over **5 million** Sudanese forced to flee their homes and approximately **50%** of the population losing their jobs. This crisis has devastated livelihoods, making it increasingly challenging for families to survive and rebuild.
+
+[**Purpose**]{style="color:#00A9A3;"}
+
+-   Create an interactive dashboard that highlights Sudanese-owned businesses, both in Sudan and among the diaspora, to promote recovery and support for affected communities.
+
+-   Facilitate users in discovering and supporting Sudanese and diaspora-owned businesses, contributing to their revitalization and sustainability.
+
+-   Encourage community engagement by providing a platform for users to add and promote businesses, fostering growth and visibility.
+
+By supporting businesses on this dashboard, you are playing a vital role in helping families and businesses recover from the conflict and rebuild their communities during these challenging times.
+</br>
+</br>
+
+<big>
+🔗 [Explore the Dashboard ➡️](/projects/supportsudanownedbusinesses/dashboard.html)
+
+</big>
+
+
+\
+
+------------------------------------------------------------------------
+
 ## ([*ongoing*]{style="color:#00A9A3;"}) **Leveraging Geospatial Analysis to Uncover Health Disparities in Egypt: Smoking Risks Among Youth to Middle-Aged Populations**
 
 [**Background**]{style="color:#00A9A3;"} \| Smoking poses a significant health risk globally, and Egypt is no exception. The prevalence of smoking among youth to middle-aged populations is a growing concern, influenced by socio-economic, cultural, and environmental factors.

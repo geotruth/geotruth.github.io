@@ -3,7 +3,7 @@ title: "Integrating Geospatial Data into Clinical Care: Enhancing Patient Outcom
 description: "Discover how integrating geospatial data into clinical care can revolutionize patient outcomes and address health inequities in our latest blog article."
 date: 08-01-2024
 categories: 
-  - health inequities
+  - health equity
   - geospatial data
   - clinical care
   - GIS

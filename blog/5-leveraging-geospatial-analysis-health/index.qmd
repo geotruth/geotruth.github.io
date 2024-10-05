@@ -4,7 +4,7 @@ description: "Discover how geo:truth uses cutting-edge geospatial analysis to id
 date: 06-19-2024
 categories: 
   - geospatial analysis
-  - health disparities
+  - health equity
   - research
   - technology
   - egypt
