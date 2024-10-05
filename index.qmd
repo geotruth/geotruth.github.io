@@ -12,7 +12,7 @@ listing:
   id: blog-listing
   contents:   
     - "blog/4-embracing-the-suck/index.qmd"
-    - "blog/1-geospatial-professionals-need-a-portfolio/index.qmd"
+    - "blog/9-sudan-owned-business-projects/index.qmd"
     - "blog/8-intersection-health-equity-geospatial-clinical"
 
   sort: "date desc"

@@ -21,6 +21,8 @@ listing:
       - "6-geospatial-tech-public-health"
       - "7-balancing-professional-personal-life"
       - "8-intersection-health-equity-geospatial-clinical"
+      - "9-sudan-owned-business-projects"
+      
     sort: "date desc"
     template: ../html/blog/listing.ejs
     categories: true

@@ -1,0 +1,53 @@
+---
+title: "Supporting Sudan & Diaspora-Owned Businesses: A Path to Rebuilding Communities"
+description: "Learn how you can support Sudanese and diaspora-owned businesses affected by the war and contribute to rebuilding livelihoods through our newly launched dashboard."
+date: 10-01-2024
+categories: 
+  - Sudan
+  - diaspora
+  - economic recovery
+  - conflict recovery
+  - community support
+  - business resilience
+
+image: thumbnail.png
+draft: false
+format:
+  html:
+    fig-cap-location: bottom
+    include-before-body: ../../html/margin_image.html
+    include-after-body: ../../html/blog_footer.html
+editor: 
+  markdown: 
+    wrap: sentence
+resources: 
+  - "thumbnail.png"
+---
+
+# Supporting Sudan & Diaspora-Owned Businesses: A Path to Rebuilding Communities
+
+### Introduction to the Sudan & Diaspora-Owned Businesses Dashboard
+
+The war in Sudan has devastated millions of lives, forcing over **5 million** people to leave their homes and causing widespread job loss. Around **50%** of Sudanese have lost their employment due to the ongoing conflict, making it incredibly difficult for families to survive and rebuild.
+
+The **Sudan & Diaspora-Owned Businesses Dashboard** is an initiative aimed at helping Sudanese entrepreneurs, both in Sudan and across the diaspora, recover from this crisis. By showcasing their businesses, the dashboard offers a platform where supporters can directly contribute to the rebuilding process. This effort not only helps business owners get back on their feet but also strengthens the economic fabric of communities affected by the conflict.
+
+### How You Can Support Sudanese-Owned Businesses
+
+Supporting Sudanese and diaspora-owned businesses is a tangible way to help people recover from the war. Here are some ways you can make a difference:
+
+- **Explore the Dashboard**: The dashboard provides a list of businesses that you can explore. Whether you're looking to purchase products or services, your support can significantly impact these business owners' lives.
+  
+- **Share the Initiative**: Spread the word about this project. Share the dashboard with your network, family, and friends, encouraging them to support Sudanese-owned businesses.
+
+- **Contribute by Adding a Business**: Know of a Sudanese or diaspora-owned business? You can help expand the list by adding it to the dashboard [here](https://docs.google.com/forms/d/e/1FAIpQLSd29RONu1wQb2m9U6ZKbQRK37P3I1JfwzNB8DRcjMmsixpy_g/viewform?usp=sharing). Your contributions will ensure that these businesses get the visibility they deserve.
+
+### Why It Matters
+
+By supporting Sudanese entrepreneurs, you are directly helping families rebuild their livelihoods in the face of immense challenges. These businesses represent more than just economic recovery—they are pillars of hope and stability for the communities they serve. Supporting them helps foster resilience and growth, both in Sudan and within the diaspora.
+
+### Looking Ahead
+
+As the conflict continues to affect Sudanese families, efforts like this dashboard offer practical ways for communities to recover and thrive. The support of individuals around the world is vital in ensuring that Sudanese-owned businesses can continue to serve as beacons of hope and recovery.
+
+Together, we can make a meaningful impact. Explore the **[Sudan & Diaspora-Owned Businesses Dashboard ➡️]/(https://geotruth.github.io/projects/supportsudanownedbusinesses/dashboard.html)** today and play a part in helping Sudanese families rebuild during these difficult times.
