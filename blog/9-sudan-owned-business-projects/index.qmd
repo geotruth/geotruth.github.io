@@ -50,4 +50,5 @@ By supporting Sudanese entrepreneurs, you are directly helping families rebuild 
 
 As the conflict continues to affect Sudanese families, efforts like this dashboard offer practical ways for communities to recover and thrive. The support of individuals around the world is vital in ensuring that Sudanese-owned businesses can continue to serve as beacons of hope and recovery.
 
-Together, we can make a meaningful impact. Explore the **[Sudan & Diaspora-Owned Businesses Dashboard ➡️]/(https://geotruth.github.io/projects/supportsudanownedbusinesses/dashboard.html)** today and play a part in helping Sudanese families rebuild during these difficult times.
+Together, we can make a meaningful impact. 
+Explore the **[Sudan & Diaspora-Owned Businesses Dashboard ➡️](https://geotruth.github.io/projects/supportsudanownedbusinesses/dashboard.html)** today and play a part in helping Sudanese families rebuild during these difficult times.
