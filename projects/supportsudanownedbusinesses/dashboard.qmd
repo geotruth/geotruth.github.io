@@ -1,0 +1,156 @@
+---
+title: "Sudanese & Diaspora Owned Businesses and Projects Dashboard"
+format: 
+  dashboard:
+    logo: "img/g.gif"
+    orientation: columns
+---
+
+
+```{r loadpackagesdata, echo=FALSE, include=FALSE}
+library(tidyverse)
+library(readxl)
+library(googlesheets4)
+library(janitor)
+library(glue)
+library(tidygeocoder)
+library(leaflet)
+library(gt)
+source("geocodedaddresses.R")
+
+ 
+response_ojs <- responses
+
+# responses %>% names
+```
+
+## Column {width=85%}
+### Row {height="70%"}
+
+```{r leafletmap}
+ 
+# Initialize leaflet map
+leaflet(data = responses) %>%
+  addTiles() %>%  # Adds default OpenStreetMap tiles
+  addCircleMarkers(
+    ~longitude, ~latitude,
+    radius = 5,        # Size of the marker
+    color = 'blue',    # Marker color
+    stroke = TRUE,     # Border around the circle
+    fillOpacity = 0.8, # Opacity of the fill color
+    label = ~inputgeocodeaddress,  # Labels with address
+    popup = ~inputgeocodeaddress   # Popup with address
+  )
+
+
+
+
+
+
+
+# Create gt table for full dataset
+responses %>%
+  select(
+    response_id, timestamp, email_address, business_or_project,
+    name_of_business_project, business_project_website,
+    short_business_project_description, category_of_business_or_project,
+    city_location_of_business_project, country_of_business_project
+  ) %>%
+  gt() %>%
+  tab_header(title = "Sudanese & Diaspora Owned Businesses and Projects") %>%
+  fmt_missing(columns = everything(), missing_text = "NA") -> responses_gt# Create gt table for full dataset
+responses %>%
+  select(
+    response_id, timestamp, email_address, business_or_project,
+    name_of_business_project, business_project_website,
+    short_business_project_description, category_of_business_or_project,
+    city_location_of_business_project, country_of_business_project
+  ) %>%
+  gt() %>%
+  tab_header(title = "Sudanese & Diaspora Owned Businesses and Projects") %>%
+  fmt_missing(columns = everything(), missing_text = "NA") -> responses_gt
+
+```
+
+```{r defineinputresponses,include=FALSE, echo=FALSE, panel="input"}
+
+
+# Observable Inputs bind
+ojs_define(responses = responses)
+
+
+```
+
+
+
+### Row {height="30%"}
+
+
+
+```{ojs}
+//| expandable: false
+
+// Transpose the data for easier mapping
+top_bus = transpose(responses);
+
+// Dropdown menu for business or project
+viewof countryDropdown = Inputs.select(
+  Array.from(new Set(top_bus.map(d => d.country_of_business_project))),
+  { label: "Country", unique: true }
+);
+
+
+
+// Dropdown menu for business or project
+viewof projectDropdown = Inputs.select(
+  Array.from(new Set(top_bus.map(d => d.business_or_project))),
+  { label: "Business or Project", unique: true }
+);
+
+
+// Dropdown menu for category of business or project
+viewof categoryDropdown = Inputs.select(
+  Array.from(new Set(top_bus.map(d => d.category_of_business_or_project))),
+  { label: "Category", unique: true }
+);
+
+
+// Dropdown for business name, filtered by selected project
+viewof businessDropdown = Inputs.select(
+  top_bus.filter(d => d.business_or_project === projectDropdown)
+    .map(d => d.name_of_business_project),
+  { label: "Name Business or Project", unique: true }
+);
+
+
+
+```
+
+
+**About the Dashboard: **
+The war in Sudan has affected millions of people. Over **25 million** Sudanese have been forced to leave their homes because of the fighting, and many have lost their jobs and businesses. In fact, about **50%** of people living in the Sudan have lost their jobs due to the conflict, making it even harder for families to survive and rebuild.
+
+This dashboard is in place to help Sudanese-owned businesses, both in Sudan and around the world (the diaspora). By supporting these businesses, you’re helping people recover from the war, get back to work, and rebuild their communities.
+
+**About Us:** First, geo:truth does not take any compensation, commission or reward from any purchases or support provided to businesses displayed on this dashboard. We're **geo:truth**,  a nonprofit research organization using the power of geography and data to uncover and address critical global challenges. We are committed to tackling health disparities, economic inequities, and the impacts of crises like the war in Sudan through geospatial analysis and innovative research methods. If you'd like to support us, check out our [Support Us ➡️](https://geotruth.github.io/support/) page for deets! 
+
+Our goal is to create a world where everyone—no matter their location—has equal access to health, well-being, and opportunity. We collaborate with local organizations, healthcare providers, and community leaders to provide the data and tools they need to make informed decisions and create lasting change.
+
+## Column {width=25%}
+:::{.card expandable="false"}
+
+<div style="background-color: #0d807a; color: white; border-radius: 10px; padding: 10px; text-align: center; display: flex; align-items: center; justify-content: center; height: 100%;"> <span style="font-size: 1vw; width: 100%;"> **Did you notice a missing Sudanese-owned business or project?** Add the business or project using this form <a href="`r glue::glue('{surveyform}')`" style="color: white; text-decoration: underline;">here</a>! <br><br>We update submissions to this dashboard within a day or two. <br>For questions or edits, reach us at: <a href="mailto:admin@geotruth.org" style="color: white;">admin@geotruth.org</a> </span> </div> 
+::: 
+
+
+### Row {height="50%"}
+
+
+**How You Can Help:**
+
+-   **Find Businesses**: Explore the list of Sudanese and diaspora-owned businesses, and see if there’s something you’d like to support or purchase.
+-   **Spread the Word**: Share this website with your friends and family to help these businesses grow and reach more people.
+-   **Add a Business**: Know of a Sudanese or diaspora-owned business? [Add it here](https://docs.google.com/forms/d/e/1FAIpQLSd29RONu1wQb2m9U6ZKbQRK37P3I1JfwzNB8DRcjMmsixpy_g/viewform?usp=sharing), and we’ll update the website soon!
+
+By supporting these businesses and or projects, you’re helping people who’ve lost their homes and jobs because of the war. Together, we can help Sudanese families and businesses rebuild during these difficult times.
+

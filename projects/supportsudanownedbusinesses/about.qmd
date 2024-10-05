@@ -1,0 +1,45 @@
+---
+title: "About the Sudan & Diaspora-Owned Businesses and Projects Dashboard"
+toc: false
+
+---
+
+
+
+::::: {.columns}
+
+:::: {.column width="95%"}
+
+<img src="img/g.gif" style="width: 25vw; border-radius: 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+
+::::
+
+:::: {.column width="5%"}
+
+::::
+
+:::: {.column width="100%"}
+
+<big>
+
+### Who We Are
+
+Hi, we're **geo:truth**,  a nonprofit research organization using the power of geography and data to uncover and address critical global challenges. We are committed to tackling health disparities, economic inequities, and the impacts of crises like the war in Sudan through geospatial analysis and innovative research methods.  
+
+Our goal is to create a world where everyone—no matter their location—has equal access to health, well-being, and opportunity. We collaborate with local organizations, healthcare providers, and community leaders to provide the data and tools they need to make informed decisions and create lasting change.
+
+### Why Support the Sudan & Diaspora-Owned Businesses and Projects Dashboard?
+
+In response to the ongoing crisis in Sudan, which has displaced **millions** of people and left over **50%** of the population without jobs, geo:truth has launched a dashboard to promote Sudanese- and diaspora-owned businesses. By supporting these businesses, you help sustain livelihoods in a time of great need.
+
+Interested in adding a business to the dashboard? [Click here](https://docs.google.com/forms/d/e/1FAIpQLSd29RONu1wQb2m9U6ZKbQRK37P3I1JfwzNB8DRcjMmsixpy_g/viewform?usp=sf_link) to contribute and support the Sudanese community! For any questions or edits, reach us at [admin@geotruth.org](mailto:admin@geotruth.org).
+
+<br>
+
+🔗 [Explore the Dashboard ➡️]( dashboard.html)
+
+</big>
+
+::::
+
+:::::
