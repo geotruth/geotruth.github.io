@@ -2,11 +2,12 @@ library(shiny)
 library(leaflet)
 library(dplyr)
 library(gt)
+library(wordcloud2)  # Import wordcloud2 for rendering word clouds
 
 # Load the dataset
-responses <- readRDS("responses.RDS")
+responses <- readRDS("~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS")
 
-# UI
+# Define UI
 ui <- fluidPage(
   # Custom CSS for clean, public-friendly UI
   tags$head(
@@ -23,13 +24,13 @@ ui <- fluidPage(
       .titlePanel {
         text-align: center;
         margin-bottom: 20px;
-        color: #0d807a;
+        color: #0d807a; /* geo:truth brand color */
         font-size: 30px;
       }
 
       /* Main Content Area Styling */
       .content-container {
-        padding: 15px;
+        padding: 20px;
         background-color: white;
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         border-radius: 8px;
@@ -39,20 +40,20 @@ ui <- fluidPage(
       /* Simple Styling for Form Inputs */
       .form-control {
         font-size: 16px;
-        padding: 10px;
+        padding: 12px;
         border-radius: 5px;
         border: 1px solid #ccc;
         width: 100%;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
       }
 
       .form-control:hover {
-        border-color: #0d807a;
+        border-color: #0d807a; /* geo:truth brand color */
       }
 
       /* Larger Buttons */
       .btn-primary {
-        background-color: #0d807a;
+        background-color: #0d807a; /* geo:truth brand color */
         color: white;
         border-radius: 5px;
         padding: 12px 20px;
@@ -61,29 +62,40 @@ ui <- fluidPage(
         font-size: 16px;
       }
       .btn-primary:hover {
-        background-color: #085d53;
+        background-color: #085d53; /* darker shade of geo:truth color */
+      }
+
+      .btn-secondary {
+        background-color: #e5e5e5;
+        color: #333333;
+        border-radius: 5px;
+        padding: 12px 20px;
+        font-size: 16px;
+      }
+      .btn-secondary:hover {
+        background-color: #ccc;
       }
 
       /* Tab Styling */
       .nav-tabs > li > a {
-        color: #0d807a;
+        color: #0d807a; /* geo:truth brand color */
         font-weight: bold;
         font-size: 18px;
       }
 
       .nav-tabs > li > a:hover {
         background-color: #ffffff;
-        color: #0d807a;
+        color: #0d807a; /* geo:truth brand color */
       }
 
       .nav-tabs > li.active > a {
         color: white;
-        background-color: #0d807a;
+        background-color: #0d807a; /* geo:truth brand color */
       }
 
       /* Map Container */
       .leaflet-container {
-        height: 450px;
+        height: 100%;
         border-radius: 8px;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
       }
@@ -94,12 +106,12 @@ ui <- fluidPage(
         bottom: 0;
         left: 0;
         width: 100%;
-        background-color: #0d807a;
+        background-color: #0d807a; /* geo:truth brand color */
         color: white;
         padding: 15px;
         box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
         z-index: 100;
-        text-align: center;
+        text-align: left;
       }
 
       .submission-info a {
@@ -114,30 +126,54 @@ ui <- fluidPage(
   ),
   
   # Page Header
-  titlePanel(
-    div(
-      class = "titlePanel",
-      # h2("Sudanese & Diaspora Owned Businesses and Projects")
-    )
-  ),
-  
-  # Main Layout: Simple Filters and Interactive Map
   sidebarLayout(
     sidebarPanel(
-      div(
-        class = "content-container",
-        h4("Filter Results"),
-        selectInput("country", "Select Country", choices = c("All", unique(responses$country_of_business_project))),
-        selectInput("category", "Select Category", choices = c("All", unique(responses$category_of_business_or_project))),
-        selectInput("project", "Select Business/Project", choices = c("All", unique(responses$business_or_project))),
-        actionButton("filterBtn", "Apply Filters", class = "btn-primary")
+      selectInput(
+        inputId = "country",
+        label = "Select Country",
+        choices = c("All", unique(responses$country_of_business_project)),
+        selected = "All"
+      ),
+      selectInput(
+        inputId = "category",
+        label = "Select Category",
+        choices = c("All", unique(responses$category_of_business_or_project)),
+        selected = "All"
+      ),
+      selectInput(
+        inputId = "project",
+        label = "Select Project Type",
+        choices = c("All", unique(responses$business_or_project)),
+        selected = "All"
+      ),
+      selectInput(
+        inputId = "status",
+        label = "Select Business Status",
+        choices = c("All", unique(responses$current_business_project_status)),
+        selected = "All"
+      ),
+      actionButton(
+        inputId = "apply_filters",
+        label = "Apply Filters",
+        class = "btn-primary"
+      ),
+      actionButton(
+        inputId = "reset_filters",
+        label = "Reset Filters",
+        class = "btn-secondary"
       )
     ),
-    
     mainPanel(
       tabsetPanel(
         tabPanel("Map", leafletOutput("businessMap")),
         tabPanel("Table", gt_output("businessTable")),
+        tabPanel("Challenges", 
+                 fluidRow(
+                   column(12, 
+                          h3("Key Challenges Word Cloud"),
+                          wordcloud2Output("wordCloud", height = "400px")
+                   )
+                 )),  # New Word Cloud Tab
         tabPanel("About",
                  fluidRow(
                    column(12, 
@@ -154,14 +190,29 @@ ui <- fluidPage(
                       <ul>
                         <li><b>Find Businesses</b>: Explore the list of Sudanese and diaspora-owned businesses and projects.</li>
                         <li><b>Spread the Word</b>: Share this website with your friends and family.</li>
-                        <li><b>Add a Business</b>: Know of a Sudanese or diaspora-owned business? <a href='https://docs.google.com/forms/d/e/1FAIpQLSd29RONu1wQb2m9U6ZKbQRK37P3I1JfwzNB8DRcjMmsixpy_g/viewform?usp=sharing' style='color: #0d807a; target='_blank'>Add it here</a></li>
+                        <li><b>Add a Business</b>: Know of a Sudanese or diaspora-owned business? <a href='https://docs.google.com/forms/d/e/1FAIpQLSd29RONu1wQb2m9U6ZKbQRK37P3I1JfwzNB8DRcjMmsixpy_g/viewform?usp=sharing' style='color: #0d807a;'>Add it here</a></li>
                       </ul>
                       <p>By supporting these businesses and/or projects, you’re helping people who’ve lost their homes and jobs because of the war.</p>
                       <h4><br>Sources: </h4>
                       <p>- NDP https://www.undp.org/sudan/stories/year-war-much-remains-be-done-sudan
                       </br>- OCHA https://www.unocha.org/publications/report/sudan/sudan-one-year-conflict-key-facts-and-figures-15-april-2024</p>
                                  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>"
-                                 )
+                            )
+                          )
+                   )
+                 )
+        ),
+        tabPanel("How to Use",
+                 fluidRow(
+                   column(12, 
+                          div(
+                            class = "how-to-use-section",
+                            HTML("<h3>How to Use the Dashboard</h3>
+                                <p><b>Step 1:</b> Select your filters (Country, Category, Project, Status) to refine your search.</p>
+                                <p><b>Step 2:</b> Explore the interactive map or view the data in a table format.</p>
+                                <p><b>Step 3:</b> Hover over and click on businesses or projects on the map for more details or submit your own business <a href='https://docs.google.com/forms/d/e/1FAIpQLSd29RONu1wQb2m9U6ZKbQRK37P3I1JfwzNB8DRcjMmsixpy_g/viewform?usp=sharing'>here</a>.</p>
+                                <p><b>Step 4:</b> View the key challenges faced by businesses, displayed in a word cloud format on the 'Challenges' tab. </p>
+                            ")
                           )
                    )
                  )
@@ -182,11 +233,11 @@ ui <- fluidPage(
     ),
     br(),
     p(
-      "We update submissions to this dashboard within a day or two. For questions or edits, reach us at: ",
-      tags$a(
-        href = "mailto:admin@geotruth.org",
-        "admin@geotruth.org"
-      )
+      "We update submissions to this dashboard within a day or two."),
+    tags$a(
+      href = "mailto:admin@geotruth.org",
+      "Questions or Edits",
+      target = "_blank"
     )
   )
 )
