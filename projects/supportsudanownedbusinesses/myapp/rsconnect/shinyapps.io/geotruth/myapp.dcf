@@ -1,0 +1,12 @@
+name: myapp
+title: myapp
+username: geotruth
+account: geotruth
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13382011
+bundleId: 9385614
+url: https://geotruth.shinyapps.io/myapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
