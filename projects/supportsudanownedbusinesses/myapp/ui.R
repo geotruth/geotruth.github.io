@@ -5,7 +5,7 @@ library(gt)
 library(wordcloud2)  # Import wordcloud2 for rendering word clouds
 
 # Load the dataset
-responses <- readRDS("~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS")
+responses <- readRDS("responses.RDS")
 
 # Define UI
 ui <- fluidPage(
@@ -25,12 +25,23 @@ ui <- fluidPage(
         text-align: center;
         margin-bottom: 20px;
         color: #0d807a; /* geo:truth brand color */
-        font-size: 30px;
+        font-size: 20px;
       }
-
+      .side-panel {
+        width: 140px; /* Adjust this value to make the panel narrower */
+        background-color: #0d807a; /* Optional: keep the background color consistent */
+        height: 10px; /* Ensure it spans the full height of the screen */
+        position: fixed; /* Keeps the panel fixed in place */
+        left: 0;
+        top: 0;
+        overflow-x: fixed; /* Add a scrollbar if the content overflows */
+        overflow-y: auto; /* Add a scrollbar if the content overflows */
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+      }
+      
       /* Main Content Area Styling */
       .content-container {
-        padding: 20px;
+        padding: 15px;
         background-color: white;
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         border-radius: 8px;
@@ -39,11 +50,11 @@ ui <- fluidPage(
 
       /* Simple Styling for Form Inputs */
       .form-control {
-        font-size: 16px;
+        font-size: 12px;
         padding: 12px;
         border-radius: 5px;
         border: 1px solid #ccc;
-        width: 100%;
+        width: 10%;
         margin-bottom: 15px;
       }
 
@@ -56,10 +67,10 @@ ui <- fluidPage(
         background-color: #0d807a; /* geo:truth brand color */
         color: white;
         border-radius: 5px;
-        padding: 12px 20px;
+        padding: 12px 15px;
         width: 100%;
         border: none;
-        font-size: 16px;
+        font-size: 14px;
       }
       .btn-primary:hover {
         background-color: #085d53; /* darker shade of geo:truth color */
@@ -69,8 +80,8 @@ ui <- fluidPage(
         background-color: #e5e5e5;
         color: #333333;
         border-radius: 5px;
-        padding: 12px 20px;
-        font-size: 16px;
+        padding: 12px 15px;
+        font-size: 14px;
       }
       .btn-secondary:hover {
         background-color: #ccc;
@@ -80,7 +91,7 @@ ui <- fluidPage(
       .nav-tabs > li > a {
         color: #0d807a; /* geo:truth brand color */
         font-weight: bold;
-        font-size: 18px;
+        font-size: 16px;
       }
 
       .nav-tabs > li > a:hover {
@@ -103,7 +114,7 @@ ui <- fluidPage(
       /* Floating Submission Info at the bottom */
       .submission-info {
         position: fixed;
-        bottom: 0;
+        bottom: -15px; /* Adjust this value to move the bar further down */
         left: 0;
         width: 100%;
         background-color: #0d807a; /* geo:truth brand color */
@@ -111,9 +122,8 @@ ui <- fluidPage(
         padding: 15px;
         box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
         z-index: 100;
-        text-align: left;
+        text-align: left; font-size: 10px;
       }
-
       .submission-info a {
         color: white;
         text-decoration: underline;

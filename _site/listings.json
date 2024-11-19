@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/blog/9-sudan-owned-business-projects/index.html",
+      "/blog/8-intersection-health-equity-geospatial-clinical/index.html",
+      "/blog/4-embracing-the-suck/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": [
       "/blog/3-beginner-guide-find-GIS-health-data/index.html",
@@ -10,14 +18,6 @@
       "/blog/7-balancing-professional-personal-life/index.html",
       "/blog/6-geospatial-tech-public-health/index.html",
       "/blog/5-leveraging-geospatial-analysis-health/index.html",
-      "/blog/4-embracing-the-suck/index.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/blog/9-sudan-owned-business-projects/index.html",
-      "/blog/8-intersection-health-equity-geospatial-clinical/index.html",
       "/blog/4-embracing-the-suck/index.html"
     ]
   }

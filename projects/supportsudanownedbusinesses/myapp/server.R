@@ -5,7 +5,7 @@ library(gt)
 library(wordcloud2)
 
 # Load the dataset
-responses <- readRDS("~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS")
+responses <- readRDS("responses.RDS")
 
 # Data cleaning and preprocessing
 responses <- responses %>%
@@ -144,7 +144,7 @@ server <- function(input, output, session) {
           ifelse(funding_link != "N/A", paste0("<a href='", funding_link, "' target='_blank'>Funding</a>"), "")
         )
       ) %>%
-      setView(lng = mean(data$longitude, na.rm = TRUE), lat = mean(data$latitude, na.rm = TRUE), zoom = 2)
+      setView(lng = mean(data$longitude, na.rm = TRUE), lat = mean(data$latitude, na.rm = TRUE), zoom = 2.01)
   })
   
   # Render the GT Table with all social media links and project status
