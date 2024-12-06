@@ -5,8 +5,7 @@ library(gt)
 library(wordcloud2)  # Import wordcloud2 for rendering word clouds
 
 # Load the dataset
-responses <- readRDS("responses.RDS")
-
+readRDS("responses.RDS") -> responses
 # Define UI
 ui <- fluidPage(
   # Custom CSS for clean, public-friendly UI
