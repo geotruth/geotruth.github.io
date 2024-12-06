@@ -40,12 +40,47 @@ By supporting businesses on this dashboard, you are playing a vital role in help
 
 
 \
+\
+\
+
+
+------------------------------------------------------------------------
+
+## ([*ongoing*]{style="color:#00A9A3;"}) **Estimating the Number of Measles-Susceptible Children in Georgia**  
+
+[**Background**]{style="color:#00A9A3;"} \| Measles remains a significant public health threat, particularly among under-vaccinated children. In Georgia, efforts to improve measles vaccination coverage are critical in preventing outbreaks and protecting vulnerable populations.
+
+[**Purpose**]{style="color:#00A9A3;"}
+
+-   Develop an interactive geospatial model to estimate the number of measles-susceptible children across Georgia, using vaccination coverage, birth rates, and demographic data.
+
+-   Identify high-risk areas and populations, enabling targeted immunization strategies to reduce susceptibility to measles.
+
+-   Provide insights to public health officials and stakeholders to inform evidence-based decision-making and resource allocation for vaccination campaigns.
+
+[**Findings**]{style="color:#00A9A3;"}
+
+- The findings from the data analysis will be used to engage public health stakeholders and develop interactive dashboards to explore the data, view trends, and generate reports. The insights gained will inform the planning of targeted vaccination campaigns in identified high-risk areas. (Coming soon!)
+
+</br>
+</br>
+<big>
+
+Main Researcher: [Amaka Mgboh️](https://geotruth.github.io/portfolio/amaka)
+
+</big>
+| Data + Support - Thank you:
+
+<a href="https://www.globalhealth.emory.edu/" target="_blank">Hubert Department of Global Health, Rollins School of Public Health, Emory University</a> \| <a href="https://www.dph.ga.gov/" target="_blank">Georgia Department of Public Health</a> \| <a href="https://grits.hdwg.org/" target="_blank">Georgia Registry of Immunization Transactions and Services (GRITS)</a> \| <a href="https://www.emory.edu/" target="_blank">Emory University</a>
+
+\
+\
+\
 
 ------------------------------------------------------------------------
 
 
 
-------------------------------------------------------------------------
 
 ## ([*ongoing*]{style="color:#00A9A3;"}) **Mapping Health Disparities Among Black Women in the United States: A Geospatial Epidemiology Approach**
 
@@ -59,6 +94,12 @@ By supporting businesses on this dashboard, you are playing a vital role in help
 
 -   Assess environmental and neighborhood-level factors contributing to health inequities.
 
+\
+
+<big>Main Researcher: [Rasha Elnimeiry️](https://geotruth.github.io/portfolio/rasha)</big>
+
+
+\
 \
 \
 
@@ -76,6 +117,12 @@ By supporting businesses on this dashboard, you are playing a vital role in help
 
 -   Assess the degree to which conflict events are clustered or dispersed by actors.
 
+\
+
+<big>Main Researcher: [Rasha Elnimeiry️](https://geotruth.github.io/portfolio/rasha)</big>
+
+\
+\
 \
 \
 
@@ -97,33 +144,23 @@ By supporting businesses on this dashboard, you are playing a vital role in help
 
 [**Findings**]{style="color:#00A9A3;"}
 
-***Distance to Another Malaria Case:***  This was significant factor in disease risk, which makes sense. Being close to another malaria case, as a factor for malaria acquisition.
+**Distance to Another Malaria Case:** Close proximity to another malaria case significantly increased the risk of acquiring the disease, as expected [\[1\]](#_ftn1).
 
-***Distance to an Armed Conflict Event:***  This was also a significant factor in malaria risk. It has been know that are strong linkages between the environment and conflict and has indirect impacts such as population displacement, lack of centralized governance, famine, conflicted-related resource exploitation, under-investment in sustainable development and poor access to health and health services increasing a disease risk for affected populations [\[2\]\[3\]](#_ftn1). Competition over oil and gas reserves, Nile water between neighboring countries and tribes and land use issues pose a strong causative link to conflict perpetuation and instigation [\[2\]](#_ftn1). These issues are interlinked with social, political and economic issues affecting Sudan and its neighboring countries and middle east and western political interests and greed [\[2\]](#_ftn1). The cost is the health and lives of affected populations.
+**Distance to an Armed Conflict Event:** Armed conflict is a key factor in malaria risk due to indirect impacts like population displacement, poor governance, lack of health services, and environmental degradation. These factors, tied to socio-political issues, exacerbate health risks for affected populations [\[2\]\[3\]](#_ftn1).
 
-***Livelihood***: Livelihood zones for “Central Rainfed Millet and Sesame” and “Northern Riverine Small-scale Cultivation” and “Western Wadi Cultivation” were significant predictors of disease risk.  
+**Livelihood Zones:**
 
-The *Northern Riverine Small-scale Cultivation is* intertwined with city life, (mentioned later in Urbanicity/Rurality Section). The White and Blue Niles both flowing at different speeds, bring in various minerals that make the soil near it fertile for cultivation. Small-scale cultivation that is intertwined with city life, involves taking advantage of the fertile soil near the White, Blue and Nile Rivers for cultivation of fruits vegetables and sometimes sorghum that is seasonal with the river flow and volume. People are near these small-scale cultivation, live near the river basins also and are dependent on this type of cultivation as a source of their livelihood—which makes sense that they are at risk for malaria. Mosquito vector is dependent on the human host and subtle water to breed, the small-scale cultivation areas near the river are the perfect stage.
+- ***Northern Riverine Small-scale Cultivation:*** This zone is near rivers, where fertile land supports agriculture, making it ideal for malaria vector breeding. The fertile soil and irrigation systems can create stagnant water pools, providing breeding grounds for mosquitoes.
 
-There are water channels from the Blue Nile River that irrigate through (a process called: streamline irrigation—channeling water from high to low regions) to the famous Al Gaziera Agricultural Scheme built by Reginald Wingate in 1904: which was an amassed production of cotton and improved the livelihood and economy of Sudan. The Gaziera Agricultural Scheme was one the largest irrigation projects in the world located southeast of the confluence of the Blue and White rivers in Khartoum. If not properly managed, these water channels can be breeding ground for mosquitoes and can pose high health risks for malaria for populations dependent on the channeling of water for agriculture and livelihood.
+- ***Central Rainfed Millet and Sesame:*** This zone relies on rain for agriculture in regions like Kordofan, which is susceptible to malaria due to water-dependent farming.
 
-*Central Rainfed Millet and Sesame*: while the Northern Riverine Small-scale Cultivation zone is depended on White, Blue and Nile river cultivation, the Central Rainfed Millet and Sesame livelihood zones depend on rain for cultivation of sesame and millet (called “dokhn”). And livelihood in the region of Kordofan, are dependent on rain for growing crops and for livestock.
+- ***Western Wadi Cultivation:*** Relies on rain and natural water springs, with stagnant pools forming potential mosquito breeding sites.
 
-*Western Wadi Cultivation*: This region also includes pools of water that are stagnant from the rain and natural water springs. The water springs and water pools, that collect from rain coming from valleys is the source of livelihood for feeding livestock and cultivation of crops. This type of cultivation feeds the western region of the Sudan and includes cultivation for vegetables, and fruits. This region do not include rivers as source of water, so rain is an important feature for livelihood.
+**Human Causes of Soil Degradation – Overgrazing and Agriculture:** Agriculture and livestock are vital to Sudan's economy, with overgrazing and poor agricultural practices leading to soil degradation. This degradation contributes to malaria risk, as compacted soil forms water puddles that provide breeding grounds for mosquitoes [\[6\]](#_ftn1).
 
-***Human Cause of Soil Degradation – Overgrazing and Agriculture:*** Central to Sudan’s economy, livelihood is agriculture. Sudan is known as the “food basket food for the Arab world”, due to its geography and eco-climatic settings. Approximately 1/3 of Sudan is suitable for agriculture and livestock raising and between 65-75% of working populations depend on these two sources for livelihood [\[1\]](#_ftn1) . These two sources also provide for 43% of the Sudan’s Gross Domestic Product. The sources of livelihood include: “zoora” or sorghum, millet, gum Arabic, cotton, sesame and ground nut, for livestock and animal: sheep, camels, cattle and coastal fish [\[6\]](#_ftn1).
+**Urbanicity/Rurality:** Urban areas, surprisingly, showed higher malaria risk. In cities like Khartoum, urbanization blends agricultural practices with urban infrastructure, creating environments where mosquitoes breed in urban drainage systems and air conditioners. Compact living and increased nighttime activity also increase exposure to malaria [\[4\]\[5\]](#_ftn1).
 
-Overgrazing and agriculture were factors of human interference that has trigged degradation process, and this was significant in our final model in explaining our outcome of malaria risk.
-
-***Urbanicity/Rurality*****:** This was particularly surprising that urban areas were more likely to be predictor of malaria risk and this was significant.
-
-In the recent decades as people have moved from rural to urban to find other sources of livelihood, urbanicity might explain our outcome (malaria risk) because in urban areas people tend to live more compactly (extended families of 2 or more generations). In the literature, there was evidence of the anopheles mosquito changing its breeding sites in urban settings due to the poor drainage infrastructure and being able to sustain host blood meals even in urban high structure buildings and in crevices of water-based air conditioners [\[4\]\[5\]](#_ftn1).
-
-Also, in urban areas, particularly in Khartoum state and neighboring states that share the White and Blue Nile rivers, where we observed higher spatial intensity of malaria cases: there is a “blend” of cultivated land  agricultural practices that are a part of the urban city. For example, in the areas where agricultural fields are a part of the urban landscape—In the livelihood zone: Northern Riverine Small-scale Cultivation--there several types of trees, and crops are grown, and some livestock roaming in parts of the city and these are a part of the livelihood of people in these regions.
-
-In urban areas, people tend to sleep with windows open or sometimes in open rooftops, or with air conditioners, and be active into parts of the night as a part of the city-life and events and occasions that tend to be planned at nighttime due to the heat and high temperatures during the day.
-
-***Soil Degradation Type:***  Areas that are “stable with permanent agriculture” and “compaction” were good predictors of estimating our outcome: malaria. 1/3 of Sudan’s land is suitable for agriculture and most of the livelihood of people depends on this. Compaction of soil is when heavy machinery is used to compact the soil and this can cause decreases the porosity of the soil [\[6\]](#_ftn1). Compaction coupled with erosion is detrimental to the environment and with decreased porosity of the soil, water puddles are formed as a result making a perfect storm for mosquito breeding.
+**Soil Degradation Type:** Regions with "stable permanent agriculture" and "compaction" were significant predictors of malaria risk. Soil compaction from agricultural machinery decreases porosity, creating stagnant water pools that serve as mosquito breeding sites [\[6\]](#_ftn1).
 
 [\[1\]](#_ftnref1) (Elgali, Mustafa, & Bauer, 2010)\
 [\[2\]](#_ftnref1) (UNEP, 2008)\
@@ -132,7 +169,11 @@ In urban areas, people tend to sleep with windows open or sometimes in open roof
 [\[5\]](#_ftnref1) (WHO-EMRO, 2017)\
 [\[6\]](#_ftnref1) (FEWS NET, 2015)
 
- 
+\
+
+<big>Main Researcher: [Rasha Elnimeiry️](https://geotruth.github.io/portfolio/rasha)</big>
+
+\
 
 | Data + Support - Thank you:
 
