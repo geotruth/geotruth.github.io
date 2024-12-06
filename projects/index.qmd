@@ -13,10 +13,6 @@ Your feedback and support helps motivate us and lets us know that our work is re
 
 ------------------------------------------------------------------------
 
-\
-
-
-
 ## ([*ongoing*]{style="color:#00A9A3;"}) **Support Sudan & Diaspora-Owned Businesses and Projects Dashboard**
 
 [**Background**]{style="color:#00A9A3;"} \| The war in Sudan has profoundly impacted millions, with over **25 million** Sudanese forced to flee their homes and approximately **50%** of the population losing their jobs. This crisis has devastated livelihoods, making it increasingly challenging for families to survive and rebuild.
@@ -66,7 +62,7 @@ By supporting businesses on this dashboard, you are playing a vital role in help
 </br>
 <big>
 
-Main Researcher: [Amaka Mgboh️](https://geotruth.github.io/portfolio/amaka)
+Main Researcher: [Amaka Mgboh️](/portfolio/amaka/index.html)
 
 </big>
 | Data + Support - Thank you:

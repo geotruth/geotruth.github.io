@@ -43,14 +43,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="../site_libs/quarto-dashboard/quarto-dashboard.js"></script>
-<script src="../site_libs/quarto-dashboard/stickythead.js"></script>
-<script src="../site_libs/quarto-dashboard/datatables.min.js" kdttablesentinel="true"></script>
-<script src="../site_libs/quarto-dashboard/pdfmake.min.js" kdttablesentinel="true"></script>
-<script src="../site_libs/quarto-dashboard/vfs_fonts.js" kdttablesentinel="true"></script>
-<script src="../site_libs/quarto-dashboard/web-components.js" type="module"></script>
-<script src="../site_libs/quarto-dashboard/components.js"></script>
-<link href="../site_libs/quarto-dashboard/datatables.min.css" rel="stylesheet" kdttablesentinel="true">
 <link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -136,9 +128,46 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
+<!--<meta name="description" content="?meta:website.description">-->
+<meta name="author" content="geo:truth">
+<!-- Google tag (gtag.js) -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0P5P6BKF6M"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0P5P6BKF6M');
+</script>
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <meta property="og:title" content="geo:truth - Blog">
 <meta property="og:description" content="the truth is worth discovering | non-profit research">
@@ -149,8 +178,7 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:image:width" content="1600">
 </head>
 
-<body class="quarto-dashboard nav-fixed dashboard-fill">
-
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -221,76 +249,83 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
-<header id="quarto-dashboard-header">
-<nav class="navbar navbar-expand-md slim" data-bs-theme="dark">
-  <div class="navbar-container container-fluid">
-    <button class="navbar-toggler hidden" type="button" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-controls="dashboard-collapse" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>    
-
-
-    <div class="navbar-brand-container">       
-
-      <div class="navbar-title">
-        <div class="navbar-title-text"><a href="#"><br>Blog</a></div>
-        
-        
-      </div>
-    </div>
-</div>
-</nav>
-</header></header>
+</header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Year</h2>
+   
+  <ul>
+  <li><a href="#section" id="toc-section" class="nav-link active" data-scroll-target="#section">2024</a></li>
+  <li><a href="#section-1" id="toc-section-1" class="nav-link" data-scroll-target="#section-1">2023</a></li>
+  <li><a href="#section-2" id="toc-section-2" class="nav-link" data-scroll-target="#section-2">2022</a></li>
+  <li><a href="#section-3" id="toc-section-3" class="nav-link" data-scroll-target="#section-3"></a></li>
+  </ul>
+</nav>
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(9)</span></div><div class="category" data-category="GIS">GIS <span class="quarto-category-count">(4)</span></div><div class="category" data-category="R programming">R programming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Sudan">Sudan <span class="quarto-category-count">(1)</span></div><div class="category" data-category="academia">academia <span class="quarto-category-count">(1)</span></div><div class="category" data-category="business resilience">business resilience <span class="quarto-category-count">(1)</span></div><div class="category" data-category="clinical care">clinical care <span class="quarto-category-count">(1)</span></div><div class="category" data-category="community support">community support <span class="quarto-category-count">(1)</span></div><div class="category" data-category="conflict recovery">conflict recovery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="diaspora">diaspora <span class="quarto-category-count">(1)</span></div><div class="category" data-category="economic recovery">economic recovery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="egypt">egypt <span class="quarto-category-count">(2)</span></div><div class="category" data-category="emotional intelligence">emotional intelligence <span class="quarto-category-count">(1)</span></div><div class="category" data-category="epidemiology">epidemiology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="failure">failure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geospatial">geospatial <span class="quarto-category-count">(2)</span></div><div class="category" data-category="geospatial analysis">geospatial analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geospatial data">geospatial data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="geospatial technology">geospatial technology <span class="quarto-category-count">(1)</span></div><div class="category" data-category="growth">growth <span class="quarto-category-count">(1)</span></div><div class="category" data-category="health equity">health equity <span class="quarto-category-count">(3)</span></div><div class="category" data-category="innovation">innovation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="open data">open data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="patient outcomes">patient outcomes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="professional development">professional development <span class="quarto-category-count">(1)</span></div><div class="category" data-category="public health">public health <span class="quarto-category-count">(2)</span></div><div class="category" data-category="remote sensing">remote sensing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="remote work">remote work <span class="quarto-category-count">(1)</span></div><div class="category" data-category="research">research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="resilience">resilience <span class="quarto-category-count">(1)</span></div><div class="category" data-category="selfcare">selfcare <span class="quarto-category-count">(1)</span></div><div class="category" data-category="technology">technology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(1)</span></div><div class="category" data-category="wellbeing">wellbeing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="women of colour">women of colour <span class="quarto-category-count">(1)</span></div><div class="category" data-category="work life balance">work life balance <span class="quarto-category-count">(1)</span></div><div class="category" data-category="workplace">workplace <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><br>Blog</h1>
+</div>
+
+
+
+<div class="quarto-title-meta column-page-left">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
 <p><br>
 </p>
 <p>🌍 Welcome to the geo:truth Blog! 🌍 Where we’re dedicated to using geography to uncover health disparities and tackle global challenges. Join us as we explore the intersection of geography and health equity, advocating for evidence-based solutions and equitable access to health. Let’s discover the truth together and make a positive impact on our world. We appreciate all kinds of feedback - it is a source of motivation and a signal which topics actually resonate with readers.</p>
-<div class="bslib-grid" data-layout="fill" style="display: grid; grid-template-rows: minmax(3em, max-content) minmax(3em, max-content) minmax(3em, max-content) minmax(3em, max-content); grid-auto-columns: minmax(0, 1fr);">
-<div class="bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
-grid-auto-rows: minmax(0, 1fr);">
-<div class="card bslib-card html-fill-container" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
-<div class="card-body html-fill-item html-fill-container">
-<div id="listing-posts_2024" class="quarto-listing quarto-listing-container-custom html-fill-item html-fill-container">
-<div class="list blog html-fill-item html-fill-container">
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">2024</h2>
+<div id="listing-posts_2024" class="quarto-listing quarto-listing-container-custom">
+<div class="list blog">
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="0" data-categories="Sudan,diaspora,economic recovery,conflict recovery,community support,business resilience" data-listing-date-sort="1727758800000" data-listing-file-modified-sort="1728100065787" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="0" data-categories="Sudan,diaspora,economic recovery,conflict recovery,community support,business resilience" data-listing-date-sort="1727758800000" data-listing-file-modified-sort="1728100065787" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
+        <div class="metadata">          
             <p class="date listing-date">October 1, 2024</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/9-sudan-owned-business-projects/index.html">Supporting Sudan &amp; Diaspora-Owned Businesses: A Path to Rebuilding Communities</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('Sudan'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('Sudan'); return false;">
                     Sudan
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('diaspora'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('diaspora'); return false;">
                     diaspora
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('economic recovery'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('economic recovery'); return false;">
                     economic recovery
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('conflict recovery'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('conflict recovery'); return false;">
                     conflict recovery
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('community support'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('community support'); return false;">
                     community support
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('business resilience'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('business resilience'); return false;">
                     business resilience
                 </div>
                 
@@ -299,42 +334,42 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">Learn how you can support Sudanese and diaspora-owned businesses affected by the war and contribute to rebuilding livelihoods through our newly launched dashboard.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/9-sudan-owned-business-projects/thumbnail.png" alt="Supporting Sudan &amp; Diaspora-Owned Businesses: A Path to Rebuilding Communities" title="Supporting Sudan &amp; Diaspora-Owned Businesses: A Path to Rebuilding Communities">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="1" data-categories="health equity,geospatial data,clinical care,GIS,public health,patient outcomes" data-listing-date-sort="1722488400000" data-listing-file-modified-sort="1723659172908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="884">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="1" data-categories="health equity,geospatial data,clinical care,GIS,public health,patient outcomes" data-listing-date-sort="1722488400000" data-listing-file-modified-sort="1723659172908" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="884">
+        <div class="metadata">          
             <p class="date listing-date">August 1, 2024</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/8-intersection-health-equity-geospatial-clinical/index.html">Integrating Geospatial Data into Clinical Care: Enhancing Patient Outcomes and Addressing Health Inequities</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('health equity'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('health equity'); return false;">
                     health equity
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('geospatial data'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('geospatial data'); return false;">
                     geospatial data
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('clinical care'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('clinical care'); return false;">
                     clinical care
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('GIS'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('GIS'); return false;">
                     GIS
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('public health'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('public health'); return false;">
                     public health
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('patient outcomes'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('patient outcomes'); return false;">
                     patient outcomes
                 </div>
                 
@@ -343,50 +378,50 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">Discover how integrating geospatial data into clinical care can revolutionize patient outcomes and address health inequities in our latest blog article.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/8-intersection-health-equity-geospatial-clinical/thumbnail.png" alt="Integrating Geospatial Data into Clinical Care: Enhancing Patient Outcomes and Addressing Health Inequities" title="Integrating Geospatial Data into Clinical Care: Enhancing Patient Outcomes and Addressing Health Inequities">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="2" data-categories="work life balance,geospatial,professional development,selfcare,GIS,remote work,wellbeing,innovation" data-listing-date-sort="1719810000000" data-listing-file-modified-sort="1723658342843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="785">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="2" data-categories="work life balance,geospatial,professional development,selfcare,GIS,remote work,wellbeing,innovation" data-listing-date-sort="1719810000000" data-listing-file-modified-sort="1723658342843" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="785">
+        <div class="metadata">          
             <p class="date listing-date">July 1, 2024</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/7-balancing-professional-personal-life/index.html">Balancing Professional and Personal Life as a Geospatial Professional</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('work life balance'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('work life balance'); return false;">
                     work life balance
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('geospatial'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('geospatial'); return false;">
                     geospatial
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('professional development'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('professional development'); return false;">
                     professional development
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('selfcare'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('selfcare'); return false;">
                     selfcare
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('GIS'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('GIS'); return false;">
                     GIS
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('remote work'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('remote work'); return false;">
                     remote work
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('wellbeing'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('wellbeing'); return false;">
                     wellbeing
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('innovation'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('innovation'); return false;">
                     innovation
                 </div>
                 
@@ -395,50 +430,50 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">Tips and strategies for maintaining a healthy work-life balance as a geospatial professional, the unique challenges in the industry, and how geo:truth supports its members in achieving harmony between professional and personal life.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/7-balancing-professional-personal-life/thumbnail.png" alt="Balancing Professional and Personal Life as a Geospatial Professional" title="Balancing Professional and Personal Life as a Geospatial Professional">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="3" data-categories="public health,epidemiology,health equity,geospatial technology,GIS,remote sensing,innovation,egypt" data-listing-date-sort="1719637200000" data-listing-file-modified-sort="1720916623829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="3" data-categories="public health,epidemiology,health equity,geospatial technology,GIS,remote sensing,innovation,egypt" data-listing-date-sort="1719637200000" data-listing-file-modified-sort="1720916623829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="749">
+        <div class="metadata">          
             <p class="date listing-date">June 29, 2024</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/6-geospatial-tech-public-health/index.html">Impact of Geospatial Technologies on Public Health</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('public health'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('public health'); return false;">
                     public health
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('epidemiology'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('epidemiology'); return false;">
                     epidemiology
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('health equity'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('health equity'); return false;">
                     health equity
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('geospatial technology'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('geospatial technology'); return false;">
                     geospatial technology
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('GIS'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('GIS'); return false;">
                     GIS
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('remote sensing'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('remote sensing'); return false;">
                     remote sensing
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('innovation'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('innovation'); return false;">
                     innovation
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('egypt'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('egypt'); return false;">
                     egypt
                 </div>
                 
@@ -447,38 +482,38 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">How geospatial technologies are transforming public health by addressing disease surveillance, environmental health, and healthcare access while promoting health equity, featuring insights and case studies from geo:truth.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/6-geospatial-tech-public-health/thumbnail.png" alt="Impact of Geospatial Technologies on Public Health" title="Impact of Geospatial Technologies on Public Health">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="4" data-categories="geospatial analysis,health equity,research,technology,egypt" data-listing-date-sort="1718773200000" data-listing-file-modified-sort="1723659204035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="485">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="4" data-categories="geospatial analysis,health equity,research,technology,egypt" data-listing-date-sort="1718773200000" data-listing-file-modified-sort="1723659204035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="485">
+        <div class="metadata">          
             <p class="date listing-date">June 19, 2024</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/5-leveraging-geospatial-analysis-health/index.html">Leveraging Geospatial Analysis to Uncover Health Disparities in Egypt: Smoking Risks Among Youth to Middle-Aged Populations</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('geospatial analysis'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('geospatial analysis'); return false;">
                     geospatial analysis
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('health equity'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('health equity'); return false;">
                     health equity
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('research'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('research'); return false;">
                     research
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('technology'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('technology'); return false;">
                     technology
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('egypt'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('egypt'); return false;">
                     egypt
                 </div>
                 
@@ -487,42 +522,42 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">Discover how geo:truth uses cutting-edge geospatial analysis to identify and address health disparities, driving targeted interventions and promoting health equity.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/5-leveraging-geospatial-analysis-health/thumbnail.png" alt="Leveraging Geospatial Analysis to Uncover Health Disparities in Egypt: Smoking Risks Among Youth to Middle-Aged Populations" title="Leveraging Geospatial Analysis to Uncover Health Disparities in Egypt: Smoking Risks Among Youth to Middle-Aged Populations">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="5" data-categories="R programming,GIS,failure,growth,resilience,technology" data-listing-date-sort="1712984400000" data-listing-file-modified-sort="1719065149337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="613">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="5" data-categories="R programming,GIS,failure,growth,resilience,technology" data-listing-date-sort="1712984400000" data-listing-file-modified-sort="1719065149337" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="613">
+        <div class="metadata">          
             <p class="date listing-date">April 13, 2024</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/4-embracing-the-suck/index.html">Embracing the Suck: How Failure Fuels Growth in Geospatial &amp;  Programming</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('R programming'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('R programming'); return false;">
                     R programming
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('GIS'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('GIS'); return false;">
                     GIS
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('failure'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('failure'); return false;">
                     failure
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('growth'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('growth'); return false;">
                     growth
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('resilience'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('resilience'); return false;">
                     resilience
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('technology'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('technology'); return false;">
                     technology
                 </div>
                 
@@ -531,50 +566,41 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">The process of becoming good at something involves sucking at it first.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/4-embracing-the-suck/thumbnail.png" alt="Embracing the Suck: How Failure Fuels Growth in Geospatial &amp;  Programming" title="Embracing the Suck: How Failure Fuels Growth in Geospatial &amp;  Programming">
         </div>
         
     </div>
     
 </div>
-<div class="listing-no-matching d-none html-fill-item html-fill-container">
+<div class="listing-no-matching d-none">
 No matching items
 </div>
 </div>
-</div>
-<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
-    <template>Expand</template>
-    <span class="bslib-full-screen-enter badge rounded-pill">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
-    </span>
-</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
-</div>
-<div class="bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
-grid-auto-rows: minmax(0, 1fr);">
-<div class="card bslib-card html-fill-container" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
-<div class="card-body html-fill-item html-fill-container">
-<div id="listing-posts_2023" class="quarto-listing quarto-listing-container-custom html-fill-item html-fill-container">
-<div class="list blog html-fill-item html-fill-container">
+</section>
+<section id="section-1" class="level2">
+<h2 class="anchored" data-anchor-id="section-1">2023</h2>
+<div id="listing-posts_2023" class="quarto-listing quarto-listing-container-custom">
+<div class="list blog">
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="0" data-categories="geospatial,epidemiology,open data" data-listing-date-sort="1702447200000" data-listing-file-modified-sort="1719065149333" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="494">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="0" data-categories="geospatial,epidemiology,open data" data-listing-date-sort="1702447200000" data-listing-file-modified-sort="1719065149333" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="494">
+        <div class="metadata">          
             <p class="date listing-date">December 13, 2023</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/3-beginner-guide-find-GIS-health-data/index.html">A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('geospatial'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('geospatial'); return false;">
                     geospatial
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('epidemiology'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('epidemiology'); return false;">
                     epidemiology
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('open data'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('open data'); return false;">
                     open data
                 </div>
                 
@@ -583,26 +609,26 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">A practical and comprehensive introduction to finding geospatial and health data, tailored for new professionals entering the field of geospatial epidemiology.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/3-beginner-guide-find-GIS-health-data/thumbnail.png" alt="A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals" title="A Beginner's Guide to Finding Geospatial Data: Essential Resources for New Geospatial Professionals">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="1" data-categories="website,academia" data-listing-date-sort="1690866000000" data-listing-file-modified-sort="1719065149321" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="678">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="1" data-categories="website,academia" data-listing-date-sort="1690866000000" data-listing-file-modified-sort="1719065149321" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="678">
+        <div class="metadata">          
             <p class="date listing-date">August 1, 2023</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/1-geospatial-professionals-need-a-portfolio/index.html">Every Geospatial Professional Needs a Portfolio</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('website'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('website'); return false;">
                     website
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('academia'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('academia'); return false;">
                     academia
                 </div>
                 
@@ -611,30 +637,30 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">Unlock your geospatial superpowers with a professional portfolio – your ticket to standing out, shining bright, and soaring in your career!</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/1-geospatial-professionals-need-a-portfolio/thumbnail.png" alt="Every Geospatial Professional Needs a Portfolio" title="Every Geospatial Professional Needs a Portfolio">
         </div>
         
     </div>
     
-    <div class="blog-entry html-fill-item html-fill-container" data-index="2" data-categories="emotional intelligence,workplace,women of colour" data-listing-date-sort="1672552800000" data-listing-file-modified-sort="1719065149329" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
-        <div class="metadata html-fill-item html-fill-container">          
+    <div class="blog-entry" data-index="2" data-categories="emotional intelligence,workplace,women of colour" data-listing-date-sort="1672552800000" data-listing-file-modified-sort="1719065149329" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="393">
+        <div class="metadata">          
             <p class="date listing-date">January 1, 2023</p>
         </div>
-        <div class="body html-fill-item html-fill-container">
+        <div class="body">
             <p class="title listing-title"><a href="../blog/2-women-of-colour-speak-assertive/index.html">Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ</a></p>
             
-            <div class="post-categories listing-categories html-fill-item html-fill-container">
+            <div class="post-categories listing-categories">
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('emotional intelligence'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('emotional intelligence'); return false;">
                     emotional intelligence
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('workplace'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('workplace'); return false;">
                     workplace
                 </div>
                 
-                <div class="post-category listing-category html-fill-item html-fill-container" onclick="window.quartoListingCategory('women of colour'); return false;">
+                <div class="post-category listing-category" onclick="window.quartoListingCategory('women of colour'); return false;">
                     women of colour
                 </div>
                 
@@ -643,49 +669,63 @@ grid-auto-rows: minmax(0, 1fr);">
             <p class="description listing-description">How women of color can navigating team dynamics by providing practical strategies for asserting themselves and handling challenges like idea theft with confidence, grace, and emotional intelligence.</p>
         </div>
         
-        <div class="thumbnail html-fill-item html-fill-container">
+        <div class="thumbnail">
             <img src="../blog/2-women-of-colour-speak-assertive/thumbnail.png" alt="Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ" title="Standing Strong: Women of Color Navigating Team Dynamics with Sass and EQ">
         </div>
         
     </div>
     
 </div>
-<div class="listing-no-matching d-none html-fill-item html-fill-container">
+<div class="listing-no-matching d-none">
 No matching items
 </div>
 </div>
-</div>
-<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
-    <template>Expand</template>
-    <span class="bslib-full-screen-enter badge rounded-pill">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
-    </span>
-</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
-</div>
-<div class="bslib-grid" style="display: grid; grid-template-columns: minmax(3em, 1fr);
-grid-auto-rows: minmax(0, 1fr);">
-<div class="card bslib-card html-fill-container" data-fill="false" data-bslib-card-init="" data-require-bs-caller="card()" data-full-screen="false">
-<div class="card-body html-fill-item html-fill-container">
-<div id="posts_2022" class="html-fill-item html-fill-container">
+</section>
+<section id="section-2" class="level2">
+<h2 class="anchored" data-anchor-id="section-2">2022</h2>
+<div id="posts_2022">
 
 </div>
-</div>
-<bslib-tooltip placement="auto" bsoptions="[]" data-require-bs-version="5" data-require-bs-caller="tooltip()">
-    <template>Expand</template>
-    <span class="bslib-full-screen-enter badge rounded-pill">
-        <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24" style="height:1em;width:1em;" aria-hidden="true" role="img"><path d="M20 5C20 4.4 19.6 4 19 4H13C12.4 4 12 3.6 12 3C12 2.4 12.4 2 13 2H21C21.6 2 22 2.4 22 3V11C22 11.6 21.6 12 21 12C20.4 12 20 11.6 20 11V5ZM4 19C4 19.6 4.4 20 5 20H11C11.6 20 12 20.4 12 21C12 21.6 11.6 22 11 22H3C2.4 22 2 21.6 2 21V13C2 12.4 2.4 12 3 12C3.6 12 4 12.4 4 13V19Z"></path></svg>
-    </span>
-</bslib-tooltip><script data-bslib-card-init="">bslib.Card.initializeAllCards();</script></div>
-</div>
-<div class="bslib-grid" style="display: grid; grid-template-columns: ;
-grid-auto-rows: minmax(0, 1fr);">
-<div id="3ade8a4a-fb1d-4a6c-8409-ac45482d5fc9" class="hidden">
+</section>
+<section id="section-3" class="level2">
+<h2 class="anchored" data-anchor-id="section-3"></h2>
 
-</div>
-</div>
-</div>
+
+
+</section>
 
 </main> <!-- /main -->
+<hr>
+
+
+<!-- <div class="grid">
+  <div class="g-col-12 g-col-md-8 align-self-center">
+    <p>You can support our work with a coffee if you'd like to:</p>
+  </div>
+  <div class="g-col-12 g-col-md-4 align-self-center">
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="geotruth" data-color="#DDDDDD" data-emoji=""  data-font="Poppins" data-text="Support Us" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#E6AA04" ></script>
+  </div>
+</div>-->
+
+
+
+
+<span style="margin-top:20px; margin-bottom: 20px"></span>
+<img style="width:100%;" src="../img/g.gif">
+
+
+<p style="margin: 20px"> Join the <b>geo:truth</b> tribe! Subscribe here to get notifications (it's totally free!)</p>
+
+<div class="grid">
+  <div class=".d-none .d-md-block g-col-md-1"></div>
+  <div class="g-col-12 g-col-md-10">
+    <iframe src="https://embeds.beehiiv.com/31232ad7-87c1-4e84-a9fb-0c59545186b7?slim=tru" data-test-id="beehiiv-embed" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width:100%; padding: 20px">
+    <script type="text/javascript" async src="https://embeds.beehiiv.com/attribution.js"></script>
+    
+    </iframe>
+  </div>
+  <div class=".d-none .d-md-block g-col-md-1"></div>
+</div>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1110,14 +1150,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </footer>
 
-<script type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (_event) {
-  if (window.bslib.Card) {
-    window.bslib.Card.initializeAllCards();
-  }
-}); 
-</script>
-  
 
 
 
