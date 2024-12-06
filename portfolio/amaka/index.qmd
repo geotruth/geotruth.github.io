@@ -62,7 +62,7 @@ ID: [36908956](https://www.citiprogram.org/verify/?w0c89b059-6700-4def-a707-ae57
 |                                |                                                                                                                                                                           |
 |--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **GIS Tools**                  | ArcGIS Pro, Advanced GIS & Remote Sensing techniques, Google Earth Engine for geospatial data processing and visualization.                                               |
-| **Programming Languages**      | Python, R (spatial and non-spatial data analysis, visualization, automation using Quarto).                                                                                |
+| **Programming Languages**      | Python, R (spatial and non-spatial data analysis, visualization, reports using Quarto).                                                                                |
 | **Data Analysis + Visualization** | SAS, Qualtrics, RedCap for survey data analysis, suitability analysis, and intervention strategies evaluation.                                                          |
 
 #### **Soft**
@@ -104,7 +104,7 @@ ID: [36908956](https://www.citiprogram.org/verify/?w0c89b059-6700-4def-a707-ae57
 
 ## Recent Publications
 
-#### **ss **
+#### **Estimating the Number of Measles-Susceptible Children in Georgia **
 
 ```{=html}
 <p class="text-left">
@@ -122,7 +122,7 @@ ID: [36908956](https://www.citiprogram.org/verify/?w0c89b059-6700-4def-a707-ae57
 
 Here is a select projects, where I have developed and or helped shape a significant part of the project life cycle.
 
-
+- Estimating the Number of Measles-Susceptible Children in Georgia
 
 
 ## **Experience**
