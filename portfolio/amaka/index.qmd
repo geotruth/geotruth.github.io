@@ -1,0 +1,165 @@
+---
+title: '</br>Amaka Mgboh'
+comments: false
+toc: true
+page-layout: full
+portfolio:
+  pdf: 
+    - "/portfolio/amaka/nd-dental-pain-management.pdf"
+    - "/portfolio/amaka/structured-ethical-review-for-wastewater.pdf"
+---
+
+## ![](/img/amakaheadshot.jpeg){width="190"} [{{< fa brands github >}}](https:/github.com/relnimeiry) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/amaka-mgboh-98bb1b212/) \| [{{< fa envelope >}}](mailto:%20amaka.mgboh@emory.edu) \| [{{< fa brands orcid >}}](https://orcid.org/)
+
+#### **Spatial Health Equity & Data Science Researcher at [geo:truth](https://geotruth.github.io)**
+
+\
+
+## **Professional Profile**
+
+**Areas of Speciality\
+***Spatial Epidemiology* \| *Health Equity* \| *Environmental justice* \| *Social Justice* \| *Data Analytics*
+
+-   Geospatial Epidemiologist with 8+ years' experience in public health research and R programming.
+
+-   Expertise in statistical and geospatial analysis using R and creating data visualizations.
+
+-   Proficient in GIS tools for spatial analysis and visualization.
+
+-   Leadership experience in establishing data infrastructure and directing geospatial projects during COVID-19.
+
+-   Skilled in managing large population and environmental datasets and developing statistical reports and dashboards.
+
+    \
+
+## **Professional Credibility**
+
+<!-- [**Certification in Suitability Modeling: Introduction**](https://esri.com/training/TrainingRecord/Certificate/akelly_theray/66562e159b6e8d326099edcf/240) by ESRI,\ -->
+<!-- ID: [06032024](https://esri.com/training/TrainingRecord/Certificate/akelly_theray/66562e159b6e8d326099edcf/240), Issued June 2024. -->
+
+[**Group 3: Social/Behavioral Focus**](https://www.citiprogram.org/verify/?w80bc710d-4d08-49ba-be0f-25b198219c3b-56553170) by CITI Program,\
+ID: [56553170](https://www.citiprogram.org/verify/?w80bc710d-4d08-49ba-be0f-25b198219c3b-56553170), Issued July 2023.
+
+[**Social and Behavioral Research**](https://www.citiprogram.org/verify/?w0c89b059-6700-4def-a707-ae57be8059e3-36908956) by CITI Program,\
+ID: [36908956](https://www.citiprogram.org/verify/?w0c89b059-6700-4def-a707-ae57be8059e3-36908956), Issued June 2020.
+
+
+\
+
+## **Skills**
+
+#### **Language**
+
+|               |          |
+|---------------|----------|
+| **English**   | Native.  |
+| **Spanish**   | Proficient. |
+
+\
+
+#### **Technical**
+
+|                                |                                                                                                                                                                           |
+|--------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **GIS Tools**                  | ArcGIS Pro, Advanced GIS & Remote Sensing techniques, Google Earth Engine for geospatial data processing and visualization.                                               |
+| **Programming Languages**      | Python, R (spatial and non-spatial data analysis, visualization, automation using Quarto).                                                                                |
+| **Data Analysis + Visualization** | SAS, Qualtrics, RedCap for survey data analysis, suitability analysis, and intervention strategies evaluation.                                                          |
+
+#### **Soft**
+
+|                       |                                                                                                               |
+|-------------------|-----------------------------------------------------|
+| **Learner**           | Drawn to the process of learning and want to continuously improve.                                            |
+
+
+\
+
+## **Education**
+
+**Master of Public Health in Global Health, Data Science**\
+*Rollins School of Public Health, Emory University (Expected May 2025)*
+
+**Bachelor of Arts in Health Equity (Major) and Spanish (Minor)**\
+*Rhodes College (May 2023)*  **Master of Public Health in Global Health, Data Science**\
+
+
+\
+
+## Memberships
+
+**E.M.P.O.W.E.R. Atlanta – Community Advisory Board**, implement community-level interventions among HIV+ youth in the Greater Atlanta region, 2024 – present.  
+
+**Georgia Geospatial Association** connecting professionals to address geospatial challenges at state, county, and local levels, 2024 – present.  
+
+**Women in GIS** fostering an inclusive network of women and allies in geospatial careers, 2024 – present.  
+
+\
+
+## Presentations
+
+-   **Elnimeiry, R.**, Stepanov A., Pinks, K. (Mar, 2020) **A Surrogate for the Truth: Reexamination of North Dakota Traumatic Brain Injury Syndromic Data**\
+    Presented at *National Syndromic Surveillance Program, Community of Practice, Data Quality Subcommittee Meeting*
+
+\
+
+## Recent Publications
+
+#### **ss **
+
+```{=html}
+<p class="text-left">
+<a class="btn btn-primary btn-lg cv-download" href="/portfolio/rasha/structured-ethical-review-for-wastewater.pdf" target="_blank">
+<i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
+</a>
+<div class="embed-container">
+<iframe src="/portfolio/rasha/structured-ethical-review-for-wastewater.pdf#toolbar=0" style="border: 0.5px">
+</iframe>
+</div>
+</p>
+```
+
+## Projects
+
+Here is a select projects, where I have developed and or helped shape a significant part of the project life cycle.
+
+
+
+
+## **Experience**
+
+### **The Ray – GIS Intern**  
+*Atlanta, GA | 2024 – Current*  
+- Performed suitability analysis for the Ray Anderson Highway with the Department of Transportation.  
+- Acquired, processed, integrated, and visualized geospatial data provided by partners into existing GIS datasets.  
+
+### **Centers for Disease Control and Prevention – Graduate Student Research Assistant**  
+*Atlanta, GA | 2023 – Current*  
+- Constructed effective vaccination interventions using RedCap, SAS, and Qualtrics for the ADEPT study.  
+- Developed and evaluated multi-level strategies linked to routine health and community settings.  
+- Promoted vaccination equity and decision-making globally, increasing childhood vaccinations.  
+
+### **Memphis International Airport Authority – GIS Intern**  
+*Memphis, TN | 2022 – 2023*  
+- Collected asset data and attributes on airfields and runways.  
+- Utilized Python, R, and JavaScript with ArcGIS Pro and Google Earth Engine.  
+
+### **St. Jude Children’s Research Hospital – Researcher**  
+*Memphis, TN | 2022 – 2023*  
+- Led a palliative care study with sickle-cell anemia patients.  
+- Designed a program to improve medical performance in palliative care delivery.  
+
+### **Emory University Sociology Department – Researcher**  
+*Atlanta, GA | 2021 – 2023*  
+- Advanced the Weyera Project, investigating connections between mental health and race.  
+- Provided guidance on mental health facilities supporting youth well-being in Decatur.  
+
+---
+
+\
+\
+
+<audio controls autoplay loop>
+
+<source src="/audio/videosudden.mp4" type="audio/mpeg">
+
+Your browser does not support the audio tag.</audio>
