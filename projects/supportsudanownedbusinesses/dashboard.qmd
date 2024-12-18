@@ -11,22 +11,23 @@ resources:
 
 
 
-<div style="border: 1px solid #ccc; padding: 10px; margin: 20px;">
+<div>
+<!-- <div style="border: 1px solid #ccc; padding: 10px; margin: 20px;"> -->
   <iframe 
     src="https://geotruth.shinyapps.io/myapp" 
     width="100%" 
-    height="680px" 
-    frameborder="0"
-    style="border-radius: 20px;">
+    height="600%" 
+    frameborder="-10"
+    style="border-radius: -10px;">
   </iframe>
 </div> 
 
 
----
+
 
 \
 \
-
+</div> 
 <audio controls autoplay loop>
 
 <source src="/audio/videofalakalsab7.mp4" type="audio/mpeg">
