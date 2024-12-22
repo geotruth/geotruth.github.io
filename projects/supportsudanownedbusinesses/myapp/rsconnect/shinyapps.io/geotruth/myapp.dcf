@@ -5,7 +5,7 @@ account: geotruth
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 13382011
-bundleId: 9538312
+bundleId: 9538879
 url: https://geotruth.shinyapps.io/myapp/
 version: 1
 asMultiple: FALSE

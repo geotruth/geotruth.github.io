@@ -33,8 +33,8 @@ read_sheet(surveyresponsesurl) %>%
   mutate(response_id = row_number())->responsesall
 2
 # saveRDS(geocoded_responses %>% head(2), 'responses.RDS')
-# read_rds("~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS") %>% 
-read_rds("responses.RDS") %>% 
+read_rds("~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS") %>%
+# read_rds("responses.RDS") %>% 
   select(response_id, everything())->responsesold
 
 
@@ -99,8 +99,8 @@ newresponsestogeocode %>%
              longitude = jittered_lon ) %>% 
       ungroup() -> responses
 
-# saveRDS(responses, file = '~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS')
-saveRDS(responses, file = 'responses.RDS')
+saveRDS(responses, file = '~/Library/Mobile Documents/com~apple~CloudDocs/geotruth/geotruthwebsite/geotruth.github.io/projects/supportsudanownedbusinesses/myapp/responses.RDS')
+# saveRDS(responses, file = 'responses.RDS')
 # saveRDS(responsesall, 'responses.RDS')
 glue::glue("added {newresponsestogeocode %>% nrow} new businesses:")
 glue::glue("{geocoded_responses$name_of_business_project %>% unlist}")

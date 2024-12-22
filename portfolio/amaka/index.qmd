@@ -9,7 +9,7 @@ portfolio:
     - "/portfolio/amaka/vaccine-inequity-georgia.pdf"
 ---
 
-## ![](/img/amakaheadshot.png){width="190"} [{{< fa brands github >}}](https:/github.com/) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/amaka-mgboh-98bb1b212/) \| [{{< fa envelope >}}](mailto:%20amaka.mgboh@emory.edu) \| [{{< fa brands orcid >}}](https://orcid.org/)
+## ![](/img/amakaheadshot.png){width="190"} [{{< fa brands github >}}](https:/github.com/amakamgboh) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/amaka-mgboh-98bb1b212/) \| [{{< fa envelope >}}](mailto:%20amaka.mgboh@emory.edu) \| [{{< fa brands orcid >}}](https://orcid.org/)
 
 #### **Research Assistant at [geo:truth](https://geotruth.github.io)**
 

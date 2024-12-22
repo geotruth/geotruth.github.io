@@ -9,8 +9,18 @@ page-layout: full
 
 At **geo:truth,** a nonprofit research dedicated to social change through charitable initiatives, we uphold the principles of accountability and transparency as essential pillars of ethical leadership and legal compliance. We recognize that maintaining financial transparency is crucial to honoring the trust of our allies, donors, and supporters who contribute to our mission.
 
-## ([*filing*]{style="color:#00A9A3;"}) 2024
-
+## ([*Filed*]{style="color:#00A9A3;"}) 2024
+```{=html}
+<p class="text-left">
+<a class="btn btn-primary btn-lg cv-download" href="/finance/e-Postcard Submitted 2024.pdf" target="_blank">
+<i class="fa-solid fa-file-arrow-down"></i>&ensp;Download Report
+</a>
+<div class="embed-container">
+<iframe src="/finance/e-Postcard Submitted 2024.pdf#toolbar=0" style="border: 0.5px">
+</iframe>
+</div>
+</p>
+```
 ::: {#forms_2024}
 ## 
 :::
